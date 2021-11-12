@@ -7,11 +7,13 @@ Habt Ihr Interesse an Kollaboration und Austausch über Coding und Design in que
 "A thousand channels" wird vom Prototype Fund unterstützt :)
 
 
+
 "A thousand channels" is a software project with which we have been developing a queer mapping portal since September. With a "map to go" we want to offer an easy way to geographically visualise and publish your own queer narratives.
 
 Are you interested in collaboration and exchange about coding and design in queer contexts? Or do you have a little time for code reviews, translations and acceptance testing? We welcome your support and feedback :)
 
 "A thousand channels" is supported by the Prototype Fund :)
+
 
 
 Contact: hello@a-thousand-channels.xyz 📪
