@@ -3,7 +3,7 @@
   "short_name": "a-thousand-channels",
   "description": "Visit us at https://www.a-thousand-channels.xyz/",
   "icons": [],
-  "start_url": "/a-thousand-channels/?standalone=true",
+  "start_url": "/?standalone=true",
   "display": "standalone",
   "background_color": "#ffffff",
   "lang": "en"

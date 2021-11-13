@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fa-thousand-channels\u002F_nuxt\u002Fstatic\u002F1636811115",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fa-thousand-channels\u002F",assetsPath:"\u002Fa-thousand-channels\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"01122c96"}}}}(null));
