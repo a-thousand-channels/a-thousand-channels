@@ -1,10 +1,6 @@
-A Thousand Channels -- a queer mapping platform 🎁
-
-"A thousand channels" ist ein Softwareprojekt, mit dem wir seit September eine queere Mappingplattform entwickeln. Mit einer „Map to go“ möchten wir eine einfache Möglichkeit anbieten, eigene queere Narrationen geografisch zu visualisieren und zu veröffentlichen.
-
-Habt Ihr Interesse an Kollaboration und Austausch über Coding und Design in queeren Kontexten? Oder ein wenig Zeit für Code Reviews, Übersetzungen und Akzeptanz Testing? Wir freuen uns über Unterstützung und Feedback :)
-
-"A thousand channels" wird vom Prototype Fund unterstützt :)
+# A Thousand Channels –  a queer mapping platform 🎁
+ 
+Visit us at https://www.a-thousand-channels.xyz/
 
 -----------------------------------------------------------------
 
@@ -13,6 +9,14 @@ Habt Ihr Interesse an Kollaboration und Austausch über Coding und Design in que
 Are you interested in collaboration and exchange about coding and design in queer contexts? Or do you have a little time for code reviews, translations and acceptance testing? We welcome your support and feedback :)
 
 "A thousand channels" is supported by the Prototype Fund :)
+
+------------------------------------------------------------------
+
+"A thousand channels" ist ein Softwareprojekt, mit dem wir seit September eine queere Mappingplattform entwickeln. Mit einer „Map to go“ möchten wir eine einfache Möglichkeit anbieten, eigene queere Narrationen geografisch zu visualisieren und zu veröffentlichen.
+
+Habt Ihr Interesse an Kollaboration und Austausch über Coding und Design in queeren Kontexten? Oder ein wenig Zeit für Code Reviews, Übersetzungen und Akzeptanz Testing? Wir freuen uns über Unterstützung und Feedback :)
+
+"A thousand channels" wird vom Prototype Fund unterstützt :)
 
 ------------------------------------------------------------------
 
