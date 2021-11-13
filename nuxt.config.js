@@ -2,7 +2,7 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
-  publicPath: '/a-thousand-channels/',
+  // publicPath: '/a-thousand-channels/',
 
 
   // Global page headers: https://go.nuxtjs.dev/config-head
@@ -81,7 +81,7 @@ export default {
   build: {
   },
   router: {
-    base: '/a-thousand-channels/',
+    // base: '/a-thousand-channels/',
     scrollBehavior: async (to, from, savedPosition) => {
       if (savedPosition) {
         return savedPosition
