@@ -59,6 +59,30 @@ export default {
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
     ['nuxt-leaflet', { /* module options */ }],
+    ['nuxt-i18n', {
+        locales: [
+          {
+            name: 'Deutsch',
+            code: 'de',
+            iso: 'de-DE',
+            file: 'de-DE.js'
+          },
+          {
+            name: 'English',
+            code: 'en',
+            iso: 'en-US',
+            file: 'en-US.js'
+          },
+          {
+            name: 'Espanol',
+            code: 'es',
+            iso: 'es-ES',
+            file: 'es-ES.js'
+          }
+        ],
+        langDir: 'lang/',
+        defaultLocale: 'de',
+      }]
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
