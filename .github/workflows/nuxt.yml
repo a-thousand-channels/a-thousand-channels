@@ -33,6 +33,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
 
-
       - name: Cname copy
-        run: cp ./CNAME ./dir/CNAME
+        run: cp ./CNAME ./dist/CNAME
