@@ -15,6 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@master
 
+
       - name: Setup node env
         uses: actions/setup-node@v2.1.2
         with:
@@ -25,6 +26,9 @@ jobs:
 
       - name: Generate
         run: yarn run generate
+
+      - name: Cname copy
+        run: cp ./CNAME ./public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
