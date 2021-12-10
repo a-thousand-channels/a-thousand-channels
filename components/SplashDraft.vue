@@ -28,7 +28,7 @@
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-12">
       <div class="flex">
         <div class="flex align-center justify-center mt-8 pt-8 sm:pt-0 mr-auto">
-          <img src="../a-thousand-channels--logo-variant-a--short.png" title="A thousand channels">
+          <img src="a-thousand-channels--logo-variant-a--short.png" title="A thousand channels">
         </div>
         <div class="flex justify-right ml-auto mt-auto px-2">
 
