@@ -28,7 +28,7 @@
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-12">
       <div class="flex">
         <div class="flex align-center justify-center mt-8 pt-8 sm:pt-0 mr-auto">
-          <img src="a-thousand-channels--logo-variant-a--short.png" title="A thousand channels">
+          <img src="../a-thousand-channels--logo-variant-a--short.png" title="A thousand channels">
         </div>
         <div class="flex justify-right ml-auto mt-auto px-2">
 
@@ -67,7 +67,7 @@
       </div>
       <div v-if="$i18n.locale == 'de'" class="">
         <p class="mt-3 text-gray-800 mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
-              "A thousand channels" ist ein Softwareprojekt. Wir entwicklen seit September 2021 eine queere Mappingplattform. Wir wollen damit eine leicht zugängliche Möglichkeit schaffen, eigene queere Narrationen auf einer Karte zu visualisieren und zu veröffentlichen. 
+              "A thousand channels" ist ein Softwareprojekt. Wir entwicklen seit September 2021 eine queere Mappingplattform. Wir wollen damit eine leicht zugängliche Möglichkeit schaffen, eigene queere Narrationen auf einer Karte zu visualisieren und zu veröffentlichen.
                Die vielfältigen sozialen und politischen Aktivitäten queerer Menschen sind meist flüchtig, temporär und kein selbstverständlicher Teil des öffentlichen Bildes einer Stadt. Wir wollen eine Plattform entwickeln, um queeren Akteur*innen und Gruppen eine Möglichkeit zu bieten, von diesen Räumen und Ereignissen zu berichten.
         </p>
         <p class="mt-3 text-gray-800 mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
@@ -94,9 +94,9 @@
         <p class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
           <b>Showcase</b>
         </br>
-         <b>Intersections & Constellations. From Gay to Queer</b> 
+         <b>Intersections & Constellations. From Gay to Queer</b>
         </br>
-             Aktuell arbeitet die Working group „Queer narratives, mapped“ an einer Karte, die mit dem zeitlichen Schwerpunkt in den 90er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben. 
+             Aktuell arbeitet die Working group „Queer narratives, mapped“ an einer Karte, die mit dem zeitlichen Schwerpunkt in den 90er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben.
              Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen entsteht eine Karte, die von unterschiedlichen, teils persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt.
              <em>Work in Progress</em>
         </p>
@@ -116,7 +116,7 @@
         <p class="mt-3 text-gray-800">
           <em>... Texto siguiente ...</em>
         </p>
-      
+
       </div>
       <div class="flex justify-center p-4 m-2 mb-8 space-x-2">
         <a href="https://www.a-thousand-channels.xyz/" target="_blank" class="text-link">
