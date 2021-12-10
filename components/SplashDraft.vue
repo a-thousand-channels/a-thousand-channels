@@ -73,11 +73,12 @@
         <p class="mt-3 text-gray-800 mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
           <b>Mitmachen</b>
           <br>
-               Ihr möchtet queere Geschichten erzählen und kartieren? Ausgehend von Orten, Events, Gruppen, Aktionen oder auch Menschen?
+               Ihr möchtet queere Geschichten erzählen und kartieren? Ausgehend von Orten, Events, Gruppen, Aktionen oder auch Menschen?<br>
                Mit „A 1000 channels“ wollen wir Euch eine Möglichkeit bieten, queere Geschichte(n) zu erzählen und zu dokumentieren. Dies können die queere Kneipenkultur in einer bestimmten Stadt oder während einer bestimmten Zeit sein, Aktionen, Interventionen, Demonstrationen einer politischen Bewegung oder auch persönlicher Geschichten, Erlebnisse eines oder mehrerer Menschen sein. Oder auch die Sichtbarmachung von imaginären Orten und spekulativen Zukünften, wie wir uns unser queeres Leben vorstellen.
         </p>
         <p class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
           <b>Ein Baukasten</b>
+          >br>
              Mit der Plattform „A 1000 channels“ stellen wir einen Baukasten zur Verfügung, mit dem Ihr verschiedene Inhalte und Medien zusammentragen, kombinieren und untereinander, räumlich und zeitlich in Bezug setzen könnt.
              Durch Klick auf eine weltweite Karte, könnt Ihr Orte oder Ereignisse anlegen. Textfelder, der Upload von Bildern, von Audio oder Video  geben Euch verschiedene Möglichkeiten, wie Ihr von den Orten, Ereignissen und den Menschen, die diese erschaffen, erzählen wollt.
              Wir werden bei dem Design der Tools besondere Rücksicht auf den Datenschutz nehmen, Bilder werden automatisch von Metadaten befreit, wir experimentieren mit einer Rasterung von Fotos zur Untkenntlichmachung von Gesichtern und es soll eine Funktion geben, genaue Ortsangaben zu verschleiern.
@@ -86,6 +87,7 @@
         </p>
         <p class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
           <b>Feedback</b>
+          <br>
              Wenn Ihr eine Idee für queere Mappings habt, meldet Euch gerne bei uns.
              Aktuell suchen wir für Januar und Februar 2022 noch Menschen mit Ideen für Mappings, die das, woran wir gerade arbeiten, in der Praxis ausprobieren.
              Ihr habt Interesse an Kollaboration und Austausch über Coding und Design in queeren Kontexten? Oder ein wenig Zeit für Code Reviews, Übersetzungen und Akzeptanz Testing? Wir freuen uns über Unterstützung :)
@@ -93,9 +95,9 @@
         </p>
         <p class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
           <b>Showcase</b>
-        </br>
+        <br>
          <b>Intersections & Constellations. From Gay to Queer</b>
-        </br>
+        <br>
              Aktuell arbeitet die Working group „Queer narratives, mapped“ an einer Karte, die mit dem zeitlichen Schwerpunkt in den 90er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben.
              Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen entsteht eine Karte, die von unterschiedlichen, teils persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt.
              <em>Work in Progress</em>
