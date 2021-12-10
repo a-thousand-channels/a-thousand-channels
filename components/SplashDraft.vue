@@ -78,7 +78,7 @@
         </p>
         <p class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
           <b>Ein Baukasten</b>
-          >br>
+          <br>
              Mit der Plattform „A 1000 channels“ stellen wir einen Baukasten zur Verfügung, mit dem Ihr verschiedene Inhalte und Medien zusammentragen, kombinieren und untereinander, räumlich und zeitlich in Bezug setzen könnt.
              Durch Klick auf eine weltweite Karte, könnt Ihr Orte oder Ereignisse anlegen. Textfelder, der Upload von Bildern, von Audio oder Video  geben Euch verschiedene Möglichkeiten, wie Ihr von den Orten, Ereignissen und den Menschen, die diese erschaffen, erzählen wollt.
              Wir werden bei dem Design der Tools besondere Rücksicht auf den Datenschutz nehmen, Bilder werden automatisch von Metadaten befreit, wir experimentieren mit einer Rasterung von Fotos zur Untkenntlichmachung von Gesichtern und es soll eine Funktion geben, genaue Ortsangaben zu verschleiern.
@@ -88,9 +88,9 @@
         <p class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
           <b>Feedback</b>
           <br>
-             Wenn Ihr eine Idee für queere Mappings habt, meldet Euch gerne bei uns.
-             Aktuell suchen wir für Januar und Februar 2022 noch Menschen mit Ideen für Mappings, die das, woran wir gerade arbeiten, in der Praxis ausprobieren.
-             Ihr habt Interesse an Kollaboration und Austausch über Coding und Design in queeren Kontexten? Oder ein wenig Zeit für Code Reviews, Übersetzungen und Akzeptanz Testing? Wir freuen uns über Unterstützung :)
+             Wenn Ihr eine Idee für queere Mappings habt, meldet Euch gerne bei uns.<br>
+             Aktuell suchen wir für Januar und Februar 2022 noch Menschen mit Ideen für Mappings, die das, woran wir gerade arbeiten, in der Praxis ausprobieren.<br>
+             Ihr habt Interesse an Kollaboration und Austausch über Coding und Design in queeren Kontexten? Oder ein wenig Zeit für Code Reviews, Übersetzungen und Akzeptanz Testing? Wir freuen uns über Unterstützung :)<br>
              Euer Feedback hilft uns, die Software zu verbessern
         </p>
         <p class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
