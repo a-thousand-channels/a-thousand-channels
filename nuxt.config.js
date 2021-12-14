@@ -72,13 +72,14 @@ export default {
             code: 'en',
             iso: 'en-US',
             file: 'en-US.js'
-          },
+          }
+          /* ,
           {
             name: 'Espanol',
             code: 'es',
             iso: 'es-ES',
             file: 'es-ES.js'
-          }
+          } */
         ],
         langDir: 'lang/',
         defaultLocale: 'de',
