@@ -1,4 +1,4 @@
-# A Thousand Channels –  a queer mapping platform 🎁
+# A Thousand Channels –  a queer 🏳️‍🌈 mapping 🗺 plattform 🎁
  
 Visit us at https://www.a-thousand-channels.xyz/
 

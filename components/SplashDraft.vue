@@ -82,11 +82,14 @@
       background-size: 100% 0.4em;
       background-position: 0 100%;
     }
+    h1 {
+      @apply pb-0 pt-1 pl-5 pr-5 text-2xl
+    }
     h3, h4 {
       @apply pb-0 pt-4 pl-5 pr-5 font-semibold
     }
     p {
-      @apply pb-2 pt-4 pl-5 pr-5
+      @apply pb-2 pt-2 pl-5 pr-5
     }
 
   </style>
@@ -96,8 +99,8 @@
   <div class="relative flex items-top justify-center min-h-screen bg-pink-100 bg-a100c-1 sm:items-center sm:pt-0">
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-12">
       <div class="flex">
-        <div class="flex align-center justify-center mt-8 pt-8 sm:pt-0 mr-auto">
-          <img src="a-thousand-channels--logo-variant-a--short.png" title="A thousand channels">
+        <div class="flex align-center justify-center mt-8 pt-8 pl-10 sm:pt-0 mr-auto">
+          <img src="~/assets/a-thousand-channels--logo-variant-a--short.png" title="A thousand channels">
         </div>
         <div class="flex justify-right ml-auto mt-auto px-2">
 
@@ -112,9 +115,9 @@
         </div>
       </div>
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-md p-6">
-        <h2 class="text-2xl leading-7 font-semibold">
-          A Thousand Channels –  {{ $t('project') }}
-        </h2>
+        <h1 class="leading-7">
+          A Thousand Channels –  {{ $t('project_part1') }} <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-7 inline p-1" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
+        </h1>
       </div>
       <div v-if="$i18n.locale == 'en'" class="mt-8 bg-white overflow-hidden shadow sm:rounded-md text-lg p-6">
         <p class="mt-3 text-gray-800">
@@ -128,7 +131,7 @@
           <em>A thousand channels</em> is supported by the Prototype Fund :)
         </p>
         <p class="mt-3 text-gray-600">
-          Please <a href="https://github.com/a-thousand-channels/" class="text-link">visit us at Github</a> or send us an e-mail at
+          Please <a href="https://github.com/a-thousand-channels/" class="text-link" target="_blank">visit us at Github</a> or send us an e-mail at
           <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">
           hello@a-thousand-channels.xyz 📪
           </a>
