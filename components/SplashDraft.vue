@@ -120,6 +120,11 @@
     p {
       @apply pb-2 pt-2 pl-5 pr-5
     }
+    hr {
+      max-width: 400px;
+      border-top-color: rgba(255,0,35,.75);
+      margin: 15px auto;
+    }
     div.block {
       @apply overflow-hidden shadow sm:rounded-sm p-6 mt-8
     }
@@ -129,18 +134,31 @@
     div.block {
       background-color: white;
     }
-    div.block-3 {
-      @apply flex text-sm
+    div.block-1
+     {
+      @apply flex text-sm pt-4 pb-4 px-4 md:px-16
+    }
+    div.block-3
+     {
+      @apply flex text-sm pt-4 pb-4
+    }
+    div.column {
+      background-color: white;
+
     }
     div.block-3 .column {
-      flex: 1 1 30%;
-      min-width:  30%;
+      flex: 1 1 33%;
+      min-width:  32%;
+      background-color: white;
+    }
+    div.block-3 .column p {
+      @apply pb-2 pt-2 pl-2 pr-2
     }
     div.block-3 .column:first-child {
-      margin-right:  10px;
+      margin-right: 10px;
     }
     div.block-3 .column:last-child {
-      margin-left:  10px;
+      margin-left: 10px;
     }
 
   </style>

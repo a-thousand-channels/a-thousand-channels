@@ -4,8 +4,8 @@
 
 Die vielfältigen sozialen und politischen Aktivitäten queerer Menschen sind meist flüchtig, temporär und kein selbstverständlicher Teil des öffentlichen Bildes einer Stadt. <br>
 Mit *A 1000 channels* entwickeln wir eine Plattform , die queeren Akteur*innen, Gruppen, Projekten eine Möglichkeit bietet, von diesen Räumen und Ereignissen zu berichten und sie sichtbar zu machen.
-</div>
 
+</div>
 <div class="block">
 
 ### Mitmachen
@@ -13,24 +13,45 @@ Mit *A 1000 channels* entwickeln wir eine Plattform , die queeren Akteur*innen, 
 Ihr möchtet queere Geschichten erzählen und kartieren? Ausgehend von Orten, Ereignissen, Aktionen, Projekten oder einzelnen Menschen? <br>
 Mit „A 1000 channels“ bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu erzählen und zu dokumentieren. 
 
-#### Spaces
-	
-Dies können die alternative queere Kneipenkultur in einer bestimmten Stadt während einer bestimmten Zeit sein. Oder auch – persönlicher – Geschichten, Erlebnisse, Orte eines oder mehrerer Menschen …
+----
 
-#### Interventions
+<div class="block-3">
 
-… Aktionen und Demonstrationen einer politischen Bewegung, räumliche Interventionen, spontane Proteste, öffentliche Kundgebungen.
+  <div class="column">
 
-#### Relations
+  #### Spaces
 
-Ereignisse, Orte, Erzählungen können miteinander in Verbindung gesetzt werden. So entstehen räumliche, zeitliche oder assoziative Konstellationen.
+  Dies können die alternative queere Kneipenkultur in einer bestimmten Stadt während einer bestimmten Zeit sein. Oder auch – persönlicher – Geschichten, Erlebnisse, Orte eines oder mehrerer Menschen …
 
-#### Past, Present, Future, Fiction
+  </div>
+  <div class="column">
 
-Mit *A 1000 channels* könnt Ihr Vergangenes dokumentieren, Gegenwärtiges aufzeichnen oder einen Blick in Zukünftiges eröffnen, z.B. durch die Sichtbarmachung von imaginären Orten und spekulativen Zukünften, wie wir uns unser queeres Leben vorstellen.
+  #### Interventions
 
+  … Aktionen und Demonstrationen einer politischen Bewegung, räumliche Interventionen, spontane Proteste, öffentliche Kundgebungen.
+
+  </div>
+  <div class="column">
+
+  #### Relations
+
+  Ereignisse, Orte, Erzählungen können miteinander in Verbindung gesetzt werden. So entstehen räumliche, zeitliche oder assoziative Konstellationen.
+
+  </div>
 </div>
 
+----
+
+<div class="block-1">
+  <div class="column">
+
+  #### Past, Present, Future, Fiction
+
+  Mit *A 1000 channels* könnt Ihr Vergangenes dokumentieren, Gegenwärtiges aufzeichnen oder einen Blick in Zukünftiges eröffnen, z.B. durch die Sichtbarmachung von imaginären Orten und spekulativen Zukünften, wie wir uns unser queeres
+  Leben vorstellen.
+  </div>
+</div>
+</div>
 <div class="block">
 
 ### Ein Baukasten
@@ -39,13 +60,13 @@ Mit *A 1000 channels* könnt Ihr Vergangenes dokumentieren, Gegenwärtiges aufze
 Durch Klick auf eine weltweite Karte oder ein Suchfeld für Adressen könnt Ihr Orte oder Ereignisse anlegen. <br>
 Textfelder, der Upload von Bildern, von Audio oder Video geben Euch verschiedene Möglichkeiten, wie Ihr von den Orten, Ereignissen und den Menschen, die diese erschaffen, erzählen wollt. 
 
-#### Datenschutz
+#### Datenschutz 🤫
 
 Wir werden bei dem Design der Tools besondere Rücksicht auf den Datenschutz nehmen. <br>
 Bilder werden automatisch von Metadaten befreit. <br>
 Wir experimentieren mit einer Rasterung von Fotos zur Untkenntlichmachung von Gesichtern und es soll eine Funktion geben, genaue Ortsangaben zu verschleiern. 
 
-#### Map to go
+#### Map to go 👜
 
 Am Ende eines jeden Projektes steht die Idee einer „Map to go“, einer Karte zum Mitnehmen. <br>
 Damit wollen wir eine dauerhafte Abhängigkeit von unserer Platform (und unserem Projekt) auflösen. <br>
@@ -64,11 +85,13 @@ Daraus ist eine	Karte entstanden, die mit dem zeitlichen Schwerpunkt in den 1990
 Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen ist eine Karte entstanden, die von unterschiedlichen, persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt. 
 
 *Work in Progress*
-	
+
+
+</div>
 <div class="block">
 
 	
-### Feedback
+### Feedback 🎤
 
 Wenn Ihr eine Idee für queere Mappings habt, meldet Euch gerne bei uns.
 
