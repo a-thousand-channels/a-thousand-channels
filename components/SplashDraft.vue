@@ -114,12 +114,12 @@
 
         </div>
       </div>
-      <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-md p-6">
+      <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
         <h1 class="leading-7">
           A Thousand Channels –  {{ $t('project_part1') }} <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-7 inline p-1" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
         </h1>
       </div>
-      <div v-if="$i18n.locale == 'en'" class="mt-8 bg-white overflow-hidden shadow sm:rounded-md text-lg p-6">
+      <div v-if="$i18n.locale == 'en'" class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX text-lg p-6">
         <p class="mt-3 text-gray-800">
           <strong>{{ $t('hello') }}</strong>
           <em>A thousand channels</em> is a software project with which we are developing a queer mapping portal since September. With a "map to go" we want to offer an easy way to geographically visualise and publish your own queer narratives.
@@ -138,7 +138,7 @@
         </p>
       </div>
       <div v-if="$i18n.locale == 'de'" class="">
-        <div class="mt-3 text-gray-800 mt-8 bg-white overflow-hidden shadow sm:rounded-md text-lg p-6">
+        <div class="mt-3 text-gray-800 mt-8 bg-white overflow-hidden shadow sm:rounded-smX text-lg p-6">
           <p>
               "A thousand channels" ist ein Softwareprojekt. Wir entwicklen seit September 2021 eine queere Mappingplattform. Wir wollen damit eine leicht zugängliche Möglichkeit schaffen, eigene queere Narrationen auf einer Karte zu visualisieren und zu veröffentlichen.
           </p>
@@ -146,7 +146,7 @@
                Die vielfältigen sozialen und politischen Aktivitäten queerer Menschen sind meist flüchtig, temporär und kein selbstverständlicher Teil des öffentlichen Bildes einer Stadt. Wir wollen eine Plattform entwickeln, um queeren Akteur*innen und Gruppen eine Möglichkeit zu bieten, von diesen Räumen und Ereignissen zu berichten.
           </p>
         </div>
-        <div class="mt-3 text-gray-800 mt-8 bg-white overflow-hidden shadow sm:rounded-md text-md p-6">
+        <div class="mt-3 text-gray-800 mt-8 bg-white overflow-hidden shadow sm:rounded-smX text-md p-6">
           <h3>Mitmachen</h3>
           <p>
                Ihr möchtet queere Geschichten erzählen und kartieren? Ausgehend von Orten, Events, Gruppen, Aktionen oder auch Menschen?
@@ -155,7 +155,7 @@
                Mit „A 1000 channels“ wollen wir Euch eine Möglichkeit bieten, queere Geschichte(n) zu erzählen und zu dokumentieren. Dies können die queere Kneipenkultur in einer bestimmten Stadt oder während einer bestimmten Zeit sein, Aktionen, Interventionen, Demonstrationen einer politischen Bewegung oder auch persönlicher Geschichten, Erlebnisse eines oder mehrerer Menschen sein. Oder auch die Sichtbarmachung von imaginären Orten und spekulativen Zukünften, wie wir uns unser queeres Leben vorstellen.
           </p>
         </div>
-        <div class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-md text-md  p-6">
+        <div class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-smX text-md  p-6">
           <h3>Ein Baukasten</h3>
           <p>
              Mit der Plattform „A 1000 channels“ stellen wir einen Baukasten zur Verfügung, mit dem Ihr verschiedene Inhalte und Medien zusammentragen, kombinieren und untereinander, räumlich und zeitlich in Bezug setzen könnt.
@@ -168,7 +168,7 @@
              Am Ende eines jeden Projektes soll die Idee einer „Map to go“ stehen, eine Karte zum Mitnehmen. Damit wollen wir eine dauerhafte Abhängigkeit von unserer Platform (und unserem Projekt) auflösen. Ihr könnt ihr Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Server veröffentlichen, ohne dass ihr dafür Software installieren müßt.
           </p>
         </div>
-        <div class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-md p-6">
+        <div class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
           <h3>Feedback</h3>
           <p>
              Wenn Ihr eine Idee für queere Mappings habt, meldet Euch gerne bei uns.</p>
@@ -182,17 +182,19 @@
              Euer Feedback hilft uns, die Software zu verbessern
           </p>
         </div>
-        <div class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-md p-6">
-          <h3>Showcase</h3>
-
-          <h4>Intersections & Constellations. From Gay to Queer</h4>
-          <p>
-             Aktuell arbeitet die Working group „Queer narratives, mapped“ an einer Karte, die mit dem zeitlichen Schwerpunkt in den 90er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben.
-             Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen entsteht eine Karte, die von unterschiedlichen, teils persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt.
-             <em>Work in Progress</em>
-          </p>
+        <div class="mt-3 text-gray-600 overflow-hidden p-6">
+          <h3 class="mb-6">Showcase</h3>
+          <div class="mx-4 px-8 py-4 bg-slate-200 bg-white ">
+            <img src="https://via.placeholder.com/600x200" class="p-4">
+            <h4>Intersections & Constellations. From Gay to Queer</h4>
+            <p>
+               Aktuell arbeitet die Working group „Queer narratives, mapped“ an einer Karte, die mit dem zeitlichen Schwerpunkt in den 90er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben.
+               Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen entsteht eine Karte, die von unterschiedlichen, teils persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt.
+               <em>Work in Progress</em>
+            </p>
+          </div>
         </div>
-        <div class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-md p-6">
+        <div class="mt-3 text-gray-600 bg-white overflow-hidden shadow sm:rounded-smX p-6">
           <p>
             Besucht uns <a href="https://github.com/a-thousand-channels/" class="text-link">bei Github</a> oder sendet uns eine E-Mail an
             <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">
@@ -203,7 +205,7 @@
 
       </div>
 
-      <div v-if="$i18n.locale == 'es'" class="mt-8 bg-white overflow-hidden shadow sm:rounded-md p-6">
+      <div v-if="$i18n.locale == 'es'" class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
         <p class="mt-3 text-gray-800">
           <strong>{{ $t('hello') }}</strong>
         </p>
