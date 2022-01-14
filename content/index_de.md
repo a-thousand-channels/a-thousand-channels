@@ -56,15 +56,20 @@ Mit „A 1000 channels“ bieten wir Euch eine Möglichkeit, queere Geschichte(n
 
 ### Ein Baukasten
 
- Mit der Plattform *A 1000 channels* stellen wir einen Baukasten zur Verfügung, mit dem Ihr Inhalte und Medien zusammentragen, kombinieren und untereinander – räumlich und zeitlich – in Bezug setzen könnt. <br>
+Mit der Plattform *A 1000 channels* stellen wir einen Baukasten zur Verfügung, mit dem Ihr Inhalte und Medien zusammentragen, kombinieren und untereinander – räumlich und zeitlich – in Bezug setzen könnt. <br>
 Durch Klick auf eine weltweite Karte oder ein Suchfeld für Adressen könnt Ihr Orte oder Ereignisse anlegen. <br>
 Textfelder, der Upload von Bildern, von Audio oder Video geben Euch verschiedene Möglichkeiten, wie Ihr von den Orten, Ereignissen und den Menschen, die diese erschaffen, erzählen wollt. 
+
+----
 
 #### Datenschutz 🤫
 
 Wir werden bei dem Design der Tools besondere Rücksicht auf den Datenschutz nehmen. <br>
 Bilder werden automatisch von Metadaten befreit. <br>
 Wir experimentieren mit einer Rasterung von Fotos zur Untkenntlichmachung von Gesichtern und es soll eine Funktion geben, genaue Ortsangaben zu verschleiern. 
+
+----
+
 
 #### Map to go 👜
 
@@ -76,7 +81,7 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 
 <div class="block">
 
-### Showcase
+<img src="/fgtq_all_layers_dark.jpg" class="pb-4 mb-2">
 
 #### Intersections & Constellations. From Gay to Queer
 
