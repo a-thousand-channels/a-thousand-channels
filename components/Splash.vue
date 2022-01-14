@@ -24,7 +24,6 @@
 <template>
 <div id="page">
   <div class="relative flex items-top justify-center min-h-screen bg-pink-100 bg-a100c-1 sm:items-center sm:pt-0">
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-12">
       <div class="flex">
         <div class="flex align-center justify-center mt-8 pt-8 sm:pt-0 mr-auto">

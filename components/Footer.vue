@@ -12,7 +12,7 @@
       Sponsored by <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" class="text-link" target="_blank">Federal Ministry of Education and Research</a> and supported by <a href="https://prototypefund.de/" class="text-link" target="_blank">Protoype Fund</a>
     </div>
     <div class="pt-2 pb-2 text-sm">
-      A Thousand Channels 2021/22 – <nuxt-link to="imprint" class="text-link">Impressum</nuxt-link> – <nuxt-link to="privacy" class="text-link">Datenschutz</nuxt-link>
+      A Thousand Channels 2021/22 – <nuxt-link to="/imprint" class="text-link">Impressum</nuxt-link> – <nuxt-link to="/privacy" class="text-link">Datenschutz</nuxt-link>
     </div>
   </div>
 </template>
