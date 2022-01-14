@@ -1,12 +1,12 @@
 <template>
-  <SplashDraft />
+  <Imprint />
 </template>
 
 <script>
 export default {
  data() {
     return {
-      title: 'A thousand channels'
+      title: 'Impressum  – A thousand channels'
     }
   },
   head() {
@@ -22,9 +22,6 @@ export default {
     }
   },
   methods: {
-    scrollToTop() {
-      window.scrollTo({ top: 0, behavior: 'smooth' })
-    }
   }
 }
 </script>
