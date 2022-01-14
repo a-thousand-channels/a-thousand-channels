@@ -71,6 +71,26 @@
       background: rgb(255,0,249);
       background: linear-gradient(90deg, rgba(255,0,35,0.15) 0%, rgba(255,0,249,0.15) 50%, rgba(255,117,0,0.15) 100% );
    }
+   .text-a100c-1, .column h4 {
+      color: #ff6d6d;
+      background: -webkit-linear-gradient(120deg,rgba(255,0,35,.75),rgba(255,117,0,.75) 50%,rgba(255,0,249,.75));
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      /* transform: rotate(-1.5deg); */
+   }
+   .text-a100c-1, .column h4x {
+      color: #fff;
+      background-color: rgb(15, 178, 196);
+      display: inline-block;
+      /*  transform: rotate(3deg); */
+   }
+   .column:first-child h4 {
+      /* transform: rotate(2.5deg); */
+   }
+   .column:last-child h4 {
+       /* transform: rotate(2deg); */
+   }
     .bg-white {
       background-color: white;
      }
@@ -88,8 +108,14 @@
     h1 {
       @apply pb-0 pt-1 pl-5 pr-5 text-2xl
     }
-    h3, h4 {
-      @apply pb-0 pt-4 pl-5 pr-5 font-semibold
+    h3 {
+      @apply pb-0 pt-4 pl-5 pr-5 text-3xl font-normal
+    }
+    h4 {
+      @apply pb-0 pt-0 pl-5 pr-5 text-xl font-light
+    }
+    .column h4 {
+      @apply text-xl font-bold
     }
     p {
       @apply pb-2 pt-2 pl-5 pr-5
@@ -104,16 +130,16 @@
       background-color: white;
     }
     div.block-3 {
-      @apply flex
-
+      @apply flex text-sm
     }
-    div.block-3 div.block {
+    div.block-3 .column {
       flex: 1 1 30%;
+      min-width:  30%;
     }
-    div.block-3 .block:first-child {
+    div.block-3 .column:first-child {
       margin-right:  10px;
     }
-    div.block-3 .block:last-child {
+    div.block-3 .column:last-child {
       margin-left:  10px;
     }
 
@@ -142,7 +168,7 @@
 
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
         <h1 class="leading-7">
-          A Thousand Channels –  {{ $t('project_part1') }} <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-7 inline p-1" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
+          A Thousand Channels –  {{ $t('project_part1') }} <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-7 inline p-1 align-top" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
         </h1>
       </div>
       <div v-if="$i18n.locale == 'en'">
@@ -169,19 +195,6 @@
         <nuxt-content :document="index_de" />
 
 
-
-        <div class="mt-3 text-gray-600 overflow-hidden p-6">
-          <h3 class="mb-6">Showcase</h3>
-          <div class="mx-4 px-8 py-4 bg-slate-200 bg-white ">
-            <img src="https://via.placeholder.com/600x200" class="p-4">
-            <h4>Intersections & Constellations. From Gay to Queer</h4>
-            <p>
-               Aktuell arbeitet die Working group „Queer narratives, mapped“ an einer Karte, die mit dem zeitlichen Schwerpunkt in den 90er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben.
-               Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen entsteht eine Karte, die von unterschiedlichen, teils persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt.
-               <em>Work in Progress</em>
-            </p>
-          </div>
-        </div>
         <div class="mt-3 text-gray-600 bg-white overflow-hidden shadow sm:rounded-smX p-6">
           <p>
             Besucht uns <a href="https://github.com/a-thousand-channels/" class="text-link">bei Github</a> oder sendet uns eine E-Mail an
