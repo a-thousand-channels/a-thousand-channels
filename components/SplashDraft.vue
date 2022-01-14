@@ -74,6 +74,9 @@
    .bg-white {
     background-color: white;
    }
+   .text-gray-800 {
+    color:  #888;
+   }
     button.text-link,
     a.text-link {
       text-decoration: none;
@@ -90,6 +93,12 @@
     }
     p {
       @apply pb-2 pt-2 pl-5 pr-5
+    }
+    div.block {
+      @apply bg-white overflow-hidden shadow sm:rounded-sm p-6 mt-8
+    }
+    div.block.large {
+      @apply bg-white overflow-hidden shadow sm:rounded-sm text-lg p-6 mt-8
     }
 
   </style>
@@ -114,6 +123,7 @@
 
         </div>
       </div>
+
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
         <h1 class="leading-7">
           A Thousand Channels –  {{ $t('project_part1') }} <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-7 inline p-1" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
@@ -138,50 +148,10 @@
         </p>
       </div>
       <div v-if="$i18n.locale == 'de'" class="">
-        <div class="mt-3 text-gray-800 mt-8 bg-white overflow-hidden shadow sm:rounded-smX text-lg p-6">
-          <p>
-              "A thousand channels" ist ein Softwareprojekt. Wir entwicklen seit September 2021 eine queere Mappingplattform. Wir wollen damit eine leicht zugängliche Möglichkeit schaffen, eigene queere Narrationen auf einer Karte zu visualisieren und zu veröffentlichen.
-          </p>
-          <p>
-               Die vielfältigen sozialen und politischen Aktivitäten queerer Menschen sind meist flüchtig, temporär und kein selbstverständlicher Teil des öffentlichen Bildes einer Stadt. Wir wollen eine Plattform entwickeln, um queeren Akteur*innen und Gruppen eine Möglichkeit zu bieten, von diesen Räumen und Ereignissen zu berichten.
-          </p>
-        </div>
-        <div class="mt-3 text-gray-800 mt-8 bg-white overflow-hidden shadow sm:rounded-smX text-md p-6">
-          <h3>Mitmachen</h3>
-          <p>
-               Ihr möchtet queere Geschichten erzählen und kartieren? Ausgehend von Orten, Events, Gruppen, Aktionen oder auch Menschen?
-          </p>
-          <p>
-               Mit „A 1000 channels“ wollen wir Euch eine Möglichkeit bieten, queere Geschichte(n) zu erzählen und zu dokumentieren. Dies können die queere Kneipenkultur in einer bestimmten Stadt oder während einer bestimmten Zeit sein, Aktionen, Interventionen, Demonstrationen einer politischen Bewegung oder auch persönlicher Geschichten, Erlebnisse eines oder mehrerer Menschen sein. Oder auch die Sichtbarmachung von imaginären Orten und spekulativen Zukünften, wie wir uns unser queeres Leben vorstellen.
-          </p>
-        </div>
-        <div class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-smX text-md  p-6">
-          <h3>Ein Baukasten</h3>
-          <p>
-             Mit der Plattform „A 1000 channels“ stellen wir einen Baukasten zur Verfügung, mit dem Ihr verschiedene Inhalte und Medien zusammentragen, kombinieren und untereinander, räumlich und zeitlich in Bezug setzen könnt.
-          </p>
-          <p>
-             Durch Klick auf eine weltweite Karte, könnt Ihr Orte oder Ereignisse anlegen. Textfelder, der Upload von Bildern, von Audio oder Video  geben Euch verschiedene Möglichkeiten, wie Ihr von den Orten, Ereignissen und den Menschen, die diese erschaffen, erzählen wollt.
-          </p>
-          <p>
-             Wir werden bei dem Design der Tools besondere Rücksicht auf den Datenschutz nehmen, Bilder werden automatisch von Metadaten befreit, wir experimentieren mit einer Rasterung von Fotos zur Untkenntlichmachung von Gesichtern und es soll eine Funktion geben, genaue Ortsangaben zu verschleiern.
-             Am Ende eines jeden Projektes soll die Idee einer „Map to go“ stehen, eine Karte zum Mitnehmen. Damit wollen wir eine dauerhafte Abhängigkeit von unserer Platform (und unserem Projekt) auflösen. Ihr könnt ihr Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Server veröffentlichen, ohne dass ihr dafür Software installieren müßt.
-          </p>
-        </div>
-        <div class="mt-3 text-gray-600 mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
-          <h3>Feedback</h3>
-          <p>
-             Wenn Ihr eine Idee für queere Mappings habt, meldet Euch gerne bei uns.</p>
-          <p>
-             Aktuell suchen wir für Januar und Februar 2022 noch Menschen mit Ideen für Mappings, die das, woran wir gerade arbeiten, in der Praxis ausprobieren.
-          </p>
-          <p>
-             Ihr habt Interesse an Kollaboration und Austausch über Coding und Design in queeren Kontexten? Oder ein wenig Zeit für Code Reviews, Übersetzungen und Akzeptanz Testing? Wir freuen uns über Unterstützung :)
-          </p>
-          <p>
-             Euer Feedback hilft uns, die Software zu verbessern
-          </p>
-        </div>
+
+        <nuxt-content :document="index_de" />
+
+
         <div class="mt-3 text-gray-600 overflow-hidden p-6">
           <h3 class="mb-6">Showcase</h3>
           <div class="mx-4 px-8 py-4 bg-slate-200 bg-white ">
@@ -224,11 +194,17 @@
 
 
 <script>
-export default {
- data() {
-    return {
 
+export default {
+  data() {
+    return {
+      index_de: []
     }
+  },
+  async fetch() {
+    this.index_de = await this.$content('index_de', { deep: true }).fetch()
   }
+
 }
+
 </script>
