@@ -71,9 +71,9 @@
       background: rgb(255,0,249);
       background: linear-gradient(90deg, rgba(255,0,35,0.15) 0%, rgba(255,0,249,0.15) 50%, rgba(255,117,0,0.15) 100% );
    }
-   .bg-white {
-    background-color: white;
-   }
+    .bg-white {
+      background-color: white;
+     }
    .text-gray-800 {
     color:  #888;
    }
@@ -95,10 +95,26 @@
       @apply pb-2 pt-2 pl-5 pr-5
     }
     div.block {
-      @apply bg-white overflow-hidden shadow sm:rounded-sm p-6 mt-8
+      @apply overflow-hidden shadow sm:rounded-sm p-6 mt-8
     }
     div.block.large {
-      @apply bg-white overflow-hidden shadow sm:rounded-sm text-lg p-6 mt-8
+      @apply overflow-hidden shadow sm:rounded-sm text-lg p-6 mt-8
+    }
+    div.block {
+      background-color: white;
+    }
+    div.block-3 {
+      @apply flex
+
+    }
+    div.block-3 div.block {
+      flex: 1 1 30%;
+    }
+    div.block-3 .block:first-child {
+      margin-right:  10px;
+    }
+    div.block-3 .block:last-child {
+      margin-left:  10px;
     }
 
   </style>
@@ -129,27 +145,46 @@
           A Thousand Channels –  {{ $t('project_part1') }} <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-7 inline p-1" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
         </h1>
       </div>
-      <div v-if="$i18n.locale == 'en'" class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX text-lg p-6">
-        <p class="mt-3 text-gray-800">
-          <strong>{{ $t('hello') }}</strong>
-          <em>A thousand channels</em> is a software project with which we are developing a queer mapping portal since September. With a "map to go" we want to offer an easy way to geographically visualise and publish your own queer narratives.
-        </p>
-        <p class="mt-3 text-gray-800">
-           Are you interested in collaboration and exchange about coding and design in queer contexts? Or do you have a little time for code reviews, translations and acceptance testing? We welcome your support and feedback :)
-        </p>
-        <p class="mt-3 text-gray-600">
-          <em>A thousand channels</em> is supported by the Prototype Fund :)
-        </p>
-        <p class="mt-3 text-gray-600">
-          Please <a href="https://github.com/a-thousand-channels/" class="text-link" target="_blank">visit us at Github</a> or send us an e-mail at
-          <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">
-          hello@a-thousand-channels.xyz 📪
-          </a>
-        </p>
+      <div v-if="$i18n.locale == 'en'">
+
+        <nuxt-content :document="index_en" />
+
+        <div class="block">
+          <p class="mt-3 text-gray-800">
+             Are you interested in collaboration and exchange about coding and design in queer contexts? Or do you have a little time for code reviews, translations and acceptance testing? We welcome your support and feedback :)
+          </p>
+          <p class="mt-3 text-gray-600">
+            <em>A thousand channels</em> is supported by the Prototype Fund :)
+          </p>
+          <p class="mt-3 text-gray-600">
+            Please <a href="https://github.com/a-thousand-channels/" class="text-link" target="_blank">visit us at Github</a> or send us an e-mail at
+            <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">
+            hello@a-thousand-channels.xyz 📪
+            </a>
+          </p>
+        </div>
       </div>
       <div v-if="$i18n.locale == 'de'" class="">
 
         <nuxt-content :document="index_de" />
+
+        <div class="block-3">
+          <div class="block">
+
+            TEXT 1
+
+          </div>
+          <div class="block">
+
+            TEXT 2
+
+          </div>
+          <div class="block">
+
+            TEXT 3
+
+          </div>
+        </div>
 
 
         <div class="mt-3 text-gray-600 overflow-hidden p-6">
@@ -198,11 +233,15 @@
 export default {
   data() {
     return {
-      index_de: []
+      index_de: [],
+      index_en: [],
+      index_es: []
+
     }
   },
   async fetch() {
     this.index_de = await this.$content('index_de', { deep: true }).fetch()
+    this.index_en = await this.$content('index_en', { deep: true }).fetch()
   }
 
 }
