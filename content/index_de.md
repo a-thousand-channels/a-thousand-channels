@@ -14,17 +14,33 @@ Ihr möchtet queere Geschichten erzählen und kartieren? Ausgehend von Orten, Er
 
 Mit „A 1000 channels“ bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu erzählen und zu dokumentieren. 
 
-#### Spaces
-	
-Dies können die alternative queere Kneipenkultur in einer bestimmten Stadt während einer bestimmten Zeit sein. Oder auch – persönlicher – Geschichten, Erlebnisse, Orte eines oder mehrerer Menschen …
 
-#### Interventions
+<div class="block-3">
+  <div class="block">
 
-… Aktionen und Demonstrationen einer politischen Bewegung, räumliche Interventionen, spontane Proteste, öffentliche Kundgebungen
+  #### Spaces
 
-#### Connections & Relations
+  Dies können die alternative queere Kneipenkultur in einer bestimmten Stadt während einer bestimmten Zeit sein. Oder auch – persönlicher – Geschichten, Erlebnisse, Orte eines oder mehrerer Menschen …
 
-Ereignisse, Orte, Erzählungen können miteinander in Verbindung gesetzt werden. So entstehen räumliche, zeitliche oder assoziative narrative Konstellationen.
+  </div>
+  <div class="block">
+
+  #### Interventions
+
+  … Aktionen und Demonstrationen einer politischen Bewegung, räumliche Interventionen, spontane Proteste, öffentliche Kundgebungen
+
+  </div>
+  <div class="block">
+
+  #### Connections & Relations
+
+  Ereignisse, Orte, Erzählungen können miteinander in Verbindung gesetzt werden. So entstehen räumliche, zeitliche oder assoziative narrative Konstellationen.
+
+  </div>
+</div>
+
+
+
 
 #### Past, Present, Future, Fiction
 

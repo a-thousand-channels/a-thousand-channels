@@ -168,23 +168,6 @@
 
         <nuxt-content :document="index_de" />
 
-        <div class="block-3">
-          <div class="block">
-
-            TEXT 1
-
-          </div>
-          <div class="block">
-
-            TEXT 2
-
-          </div>
-          <div class="block">
-
-            TEXT 3
-
-          </div>
-        </div>
 
 
         <div class="mt-3 text-gray-600 overflow-hidden p-6">
