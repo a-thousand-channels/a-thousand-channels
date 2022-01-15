@@ -136,29 +136,35 @@
     }
     div.block-1
      {
-      @apply flex text-sm pt-4 pb-4 px-4 md:px-16
+      @apply md:flex text-sm pt-4 pb-4 px-4 md:px-16
     }
     div.block-3
      {
-      @apply flex text-sm pt-4 pb-4
+      @apply md:flex text-sm pt-4 pb-4
     }
     div.column {
       background-color: white;
-
+    }
+    div.block-1 .column {
+      @apply  md:flex-1
+    }
+    div.block-1 .column h4 {
+      @apply px-2 py-2 md:p-2
+    }
+    div.block-1 .column p {
+      @apply px-2 py-2 md:p-2
     }
     div.block-3 .column {
-      flex: 1 1 33%;
-      min-width:  32%;
-      background-color: white;
+      @apply  md:flex-1
     }
     div.block-3 .column p {
-      @apply pb-2 pt-2 pl-2 pr-2
+      @apply p-5 md:p-2
     }
     div.block-3 .column:first-child {
-      margin-right: 10px;
+      @apply md:mr-2
     }
     div.block-3 .column:last-child {
-      margin-left: 10px;
+      @apply md:ml-2
     }
 
   </style>
@@ -251,6 +257,11 @@ export default {
       index_en: [],
       index_es: []
 
+    }
+  },
+  methods: {
+    scrollToTop() {
+      window.scrollTo({ top: 0, behavior: 'smooth' })
     }
   },
   async fetch() {
