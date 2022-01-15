@@ -106,10 +106,10 @@
       background-position: 0 100%;
     }
     h1 {
-      @apply pb-0 pt-1 pl-5 pr-5 text-2xl
+      @apply pb-0 pt-1 pl-5 pr-5 text-3xl font-light leading-8
     }
     h3 {
-      @apply pb-0 pt-4 pl-5 pr-5 text-3xl font-normal
+      @apply pb-4 pt-4 pl-5 pr-5 text-3xl font-normal
     }
     h4 {
       @apply pb-0 pt-0 pl-5 pr-5 text-xl font-light
@@ -123,7 +123,7 @@
     hr {
       max-width: 400px;
       border-top-color: rgba(255,0,35,.75);
-      margin: 15px auto;
+      margin: 22px auto;
     }
     div.block {
       @apply overflow-hidden shadow sm:rounded-sm p-6 mt-8
@@ -191,8 +191,8 @@
       </div>
 
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
-        <h1 class="leading-7">
-          A Thousand Channels –  {{ $t('project_part1') }} <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-7 inline p-1 align-top" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
+        <h1 class="">
+          A Thousand Channels –  {{ $t('project_part1') }} <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-6 inline p-0 pb-1 align-middle" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
         </h1>
       </div>
       <div v-if="$i18n.locale == 'en'">
