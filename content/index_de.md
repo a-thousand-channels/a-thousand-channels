@@ -113,7 +113,7 @@ Euer Feedback hilft uns, die Software zu verbessern.
 <div class="block">
 	
 
-### Kontakt
+### Kontakt 📪 
 	
 Wenn Ihr Ideen, Fragen oder einfach Interesse an dem Projekt habt, zögert nicht, Kontakt mit uns aufzunehmen.
 Wir sprechen deutsch, englisch und spanisch.
@@ -130,12 +130,14 @@ Ihr könnt uns über folgende Kanäle erreichen:
 
   #### E-Mail
 
-  
+   hello@a-thousand-channels.xyz
+	  
   </div>
   <div class="column">
 
   #### github
 
+   https://github.com/a-thousand-channels/
 
   </div>
   <div class="column">
