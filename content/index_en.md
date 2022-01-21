@@ -51,3 +51,35 @@ With "A 1000 channels" we offer you a possibility to tell and document queer his
 </div>
 </div>
 <div class="block">
+  
+  ### Ein Baukasten
+
+With the platform *A 1000 channels*, we provide a construction kit with which you can gather content and media, combine them and relate them to each other – spatially and temporally. <br>
+By clicking on a worldwide map or a search field for addresses, you can create places or events. <br>
+Text fields, uploading images, audio or video give you different ways of telling about the places, events and people who create them. 
+
+----
+  
+#### Datenschutz 🤫
+
+We will pay special attention to data protection in the design of the tools. <br>
+Images are automatically freed from metadata. <br>
+We are experimenting with rasterisation of photos to obscure faces and there is to be a function to obscure exact location information. 
+
+----
+
+#### Map to go 👜
+
+At the end of each project is the idea of a "map to go". <br>
+In this way, we want to break a permanent dependence on our platform (and our project). <br>
+You can simply take your map with you and publish it on your website, your own server, without having to install any software.
+
+</div>
+
+<div class="block">
+
+<img src="/fgtq_all_layers_dark.jpg" class="pb-4 mb-2">
+  
+  
+  
+
