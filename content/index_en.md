@@ -18,3 +18,28 @@ With "A 1000 channels" we offer you a possibility to tell and document queer his
 <div class="block-3">
 
   <div class="column">
+
+#### Spaces
+
+  This can be the alternative queer pub culture in a certain city during a certain time. Or also - more personally - stories, experiences, places of one or more people ...
+
+  <div class="column">
+
+  #### Interventions
+
+  ... actions and demonstrations of a political movement, spatial interventions, spontaneous protests, public rallies.
+
+  </div>
+  <div class="column">
+
+  #### Relations
+
+  Events, places, narratives can be connected with each other. This creates spatial, temporal or associative constellations.
+
+  </div>
+</div>
+
+----
+
+<div class="block-1">
+  <div class="column">
