@@ -110,4 +110,38 @@ Euer Feedback hilft uns, die Software zu verbessern.
 
 </div>
 
+<div class="block">
+	
+
+### Kontakt
+	
+Wenn Ihr Ideen, Fragen oder einfach Interesse an dem Projekt habt, zögert nicht, Kontakt mit uns aufzunehmen.
+Wir sprechen deutsch, englisch und spanisch.
+
+Wenn Ihr in einer anderen Sprache mit uns Kontakt aufnehmen wollt, finden wir einen Weg, wie wir miteinander kommunizieren können ;)
+
+Ihr könnt uns über folgende Kanäle erreichen:
+
+----
+
+<div class="block-3">
+
+  <div class="column">
+
+  #### E-Mail
+
+  
+  </div>
+  <div class="column">
+
+  #### github
+
+
+  </div>
+  <div class="column">
+
+  #### Elements
+  
+</div>
+
 
