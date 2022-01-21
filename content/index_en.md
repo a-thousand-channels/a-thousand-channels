@@ -23,6 +23,7 @@ With "A 1000 channels" we offer you a possibility to tell and document queer his
 
   This can be the alternative queer pub culture in a certain city during a certain time. Or also - more personally - stories, experiences, places of one or more people ...
 
+  </div>
   <div class="column">
 
   #### Interventions
@@ -92,6 +93,20 @@ From interviews and the collection of flyers, posters, photos and other printed 
 </div>
 
 <div class="block">
+
+
+### Feedback 🎤
+
+If you have an idea for queer mappings, feel free to contact us.
+
+We are currently looking for people with ideas for mappings to try out what we are just working on in practice.
+
+Are you interested in collaboration and exchange about coding and design in queer contexts? Or do you have a little time for code reviews, translations and acceptance tests? <br>
+We are happy about support :)
+
+Your feedback helps us to improve the software.
+
+</div>
 
   
 
