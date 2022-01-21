@@ -7,3 +7,14 @@ With A 1000 channels, we are developing a platform that offers queer actors, gro
 
 </div>
 <div class="block">
+
+### Take part
+
+You want to tell and map queer stories? Starting from places, events, actions, projects or individuals?
+With "A 1000 channels" we offer you a possibility to tell and document queer history(s).
+
+----
+
+<div class="block-3">
+
+  <div class="column">
