@@ -108,5 +108,48 @@ Your feedback helps us to improve the software.
 
 </div>
 
+<div class="block">
+	
+
+### Contakt 📪 
+	
+If you have ideas, questions or are simply interested in the project, please do not hesitate to contact us.
+We speak German, English and Spanish.
+
+If you want to contact us in another language, we will find a way to communicate ;)
+
+You can reach us through the following channels:
+
+----
+
+<div class="block-3">
+
+  <div class="column">
+
+  #### E-mail
+	  
+   Send us an e-mail to	  
+   <hello@a-thousand-channels.xyz>
+	  
+  </div>
+  <div class="column">
+
+  #### github
+
+   Visit us at github
+   https://github.com/a-thousand-channels/
+
+  </div>
+  <div class="column">
+
+  #### Elements
+
+   Or chat with us in our Elements room
+   a-thousand-channels.matrix.org	  
+	  
+</div>
+
+
+
   
 
