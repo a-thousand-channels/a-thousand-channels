@@ -131,8 +131,7 @@ Ihr könnt uns über folgende Kanäle erreichen:
   #### E-Mail
 	  
    Schreibt uns eine E-Mail an	  
-
-   hello@a-thousand-channels.xyz
+   <hello@a-thousand-channels.xyz>
 	  
   </div>
   <div class="column">
