@@ -129,6 +129,8 @@ Ihr könnt uns über folgende Kanäle erreichen:
   <div class="column">
 
   #### E-Mail
+	  
+   Schreibt uns eine E-Mail an	  
 
    hello@a-thousand-channels.xyz
 	  
@@ -137,13 +139,19 @@ Ihr könnt uns über folgende Kanäle erreichen:
 
   #### github
 
+   Besucht uns bei github
+
    https://github.com/a-thousand-channels/
 
   </div>
   <div class="column">
 
   #### Elements
+
+   Oder chattet mit uns in unserem Elements-Raum
   
+   a-thousand-channels.matrix.org	  
+	  
 </div>
 
 
