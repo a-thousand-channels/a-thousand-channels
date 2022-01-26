@@ -158,7 +158,7 @@
       @apply  md:flex-1
     }
     div.block-3 .column p {
-      @apply p-5 md:p-2
+      @apply p-5 md:p-5
     }
     div.block-3 .column:first-child {
       @apply md:mr-2
