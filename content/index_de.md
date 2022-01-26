@@ -138,15 +138,13 @@ Ihr könnt uns über folgende Kanäle erreichen:
 
   #### github
 
-   Besucht uns bei [github](https://github.com/a-thousand-channels/)
+   Besucht uns bei [Github](https://github.com/a-thousand-channels/)
 
   </div>
   <div class="column">
 
   #### Elements
 
-   Oder chattet mit uns in unserem Elements-Raum
-  
-   a-thousand-channels.matrix.org	  
-	  
+   Oder chattet mit uns bei [Elements](a-thousand-channels.matrix.org)
+  	  
 </div>
