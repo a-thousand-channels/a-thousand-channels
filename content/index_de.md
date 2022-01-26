@@ -46,6 +46,9 @@ Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 <div class="block-1">
   <div class="column">
 
+</div>
+</div>	  
+
   #### Past, Present, Future, Fiction
 
   Mit *A 1000 channels* könnt Ihr Vergangenes dokumentieren, Gegenwärtiges aufzeichnen oder einen Blick in Zukünftiges eröffnen, z.B. durch die Sichtbarmachung von imaginären Orten und spekulativen Zukünften, wie wir uns unser queeres Leben vorstellen.
