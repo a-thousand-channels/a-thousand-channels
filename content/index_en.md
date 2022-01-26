@@ -125,8 +125,7 @@ You can reach us through the following channels:
 <div class="block-3">
 
   <div class="column">
-  	<div class="text-link">	
-
+  	
   #### E-mail
 	  
    Send us an e-mail to	  
@@ -144,7 +143,7 @@ You can reach us through the following channels:
 
   #### Elements
 
-   Or chat with us at [Element](https://matrix.to/#/#a-thousand-channels:matrix.org)	  
+   Or chat with us at <a href="https://matrix.to/#/#a-thousand-channels:matrix.org" class="text-link" target="_blank">Elementb</a>  
 	  
 </div>
 
