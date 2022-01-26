@@ -127,7 +127,6 @@ Ihr könnt uns über folgende Kanäle erreichen:
 <div class="block-3">
 
   <div class="column">
-	  <div class="text-link">
 
   #### E-Mail
 	  
@@ -137,15 +136,15 @@ Ihr könnt uns über folgende Kanäle erreichen:
   </div>
   <div class="column">
 
-  #### github
+  #### Github
 
-   Besucht uns bei [Github](https://github.com/a-thousand-channels/)
+   Besucht uns bei <a href="https://github.com/a-thousand-channels/" class="text-link" target="_blank">Github</a>
 
   </div>
   <div class="column">
 
   #### Elements
 
-   Oder chattet mit uns bei [Elements](https://matrix.to/#/#a-thousand-channels:matrix.org)
+   Oder chattet mit uns bei <a href="https://matrix.to/#/#a-thousand-channels:matrix.org" class="text-link" target="_blank">Elementb</a>
   	  
 </div>
