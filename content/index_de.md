@@ -150,5 +150,3 @@ Ihr könnt uns über folgende Kanäle erreichen:
    a-thousand-channels.matrix.org	  
 	  
 </div>
-
-
