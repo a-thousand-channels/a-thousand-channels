@@ -11,7 +11,7 @@ Mit *A 1000 channels* entwickeln wir eine Plattform , die queeren Akteur*innen, 
 ### Mitmachen
 
 Ihr möchtet queere Geschichten erzählen und kartieren? Ausgehend von Orten, Ereignissen, Aktionen, Projekten oder einzelnen Menschen? <br>
-Mit „A 1000 channels“ bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu erzählen und zu dokumentieren. 
+Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu erzählen und zu dokumentieren. 
 
 ----
 
@@ -86,11 +86,10 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 #### Intersections & Constellations. From Gay to Queer
 
 Seit Sommer 2021 arbeitet die Working group „Queer narratives, mapped“ mit unserer Plattform. <br>
-Daraus ist eine	Karte entstanden, die mit dem zeitlichen Schwerpunkt in den 1990er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben. <br>  
+Aus dieser Zusammenarbeit ist eine Karte entstanden, die mit dem zeitlichen Schwerpunkt in den 1990er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben. <br>  
 Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen ist eine Karte entstanden, die von unterschiedlichen, persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt. 
 
 *Work in Progress*
-
 
 </div>
 
@@ -131,8 +130,10 @@ Ihr könnt uns über folgende Kanäle erreichen:
   #### E-Mail
 	  
    Schreibt uns eine E-Mail an	  
-   <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">hello@a-thousand-channels.xyz
-	  
+   <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">
+	hello@a-thousand-channels.xyz
+   </a>
+	   	  
   </div>
   <div class="column">
 
