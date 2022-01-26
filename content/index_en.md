@@ -137,7 +137,7 @@ You can reach us through the following channels:
 
   #### Github
 
-   Visit us at [Github](https://github.com/a-thousand-channels/)
+   Visit us at <a href="https://github.com/a-thousand-channels/" class="text-link" target="_blank">Github</a>
 
   </div>
   <div class="column">
