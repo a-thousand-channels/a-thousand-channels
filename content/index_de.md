@@ -3,6 +3,7 @@
 *A 1000 channels* ist ein Softwareprojekt. Seit September 2021 entwicklen wir eine queere Mappingplattform, mit der queere Narrationen leicht zugänglich auf einer Karte visualisiert und veröffentlicht werden können.
 
 Die vielfältigen sozialen und politischen Aktivitäten queerer Menschen sind meist flüchtig, temporär und kein selbstverständlicher Teil des öffentlichen Bildes einer Stadt. <br>
+
 Mit *A 1000 channels* entwickeln wir eine Plattform , die queeren Akteur*innen, Gruppen, Projekten eine Möglichkeit bietet, von diesen Räumen und Ereignissen zu berichten und sie sichtbar zu machen.
 
 </div>
@@ -47,11 +48,10 @@ Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 
   #### Past, Present, Future, Fiction
 
-  Mit *A 1000 channels* könnt Ihr Vergangenes dokumentieren, Gegenwärtiges aufzeichnen oder einen Blick in Zukünftiges eröffnen, z.B. durch die Sichtbarmachung von imaginären Orten und spekulativen Zukünften, wie wir uns unser queeres
-  Leben vorstellen.
-  </div>
+  Mit *A 1000 channels* könnt Ihr Vergangenes dokumentieren, Gegenwärtiges aufzeichnen oder einen Blick in Zukünftiges eröffnen, z.B. durch die Sichtbarmachung von imaginären Orten und spekulativen Zukünften, wie wir uns unser queeres Leben vorstellen.
+  
 </div>
-</div>
+
 <div class="block">
 
 ### Ein Baukasten
@@ -83,7 +83,7 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 
 <img src="/fgtq_all_layers_dark.jpg" class="pb-4 mb-2">
 
-#### Intersections & Constellations. From Gay to Queer
+### Intersections & Constellations. From Gay to Queer
 
 Seit Sommer 2021 arbeitet die Working group „Queer narratives, mapped“ mit unserer Plattform. <br>
 
