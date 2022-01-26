@@ -143,7 +143,7 @@ You can reach us through the following channels:
 
   #### Elements
 
-   Or chat with us at <a href="https://matrix.to/#/#a-thousand-channels:matrix.org" class="text-link" target="_blank">Elementb</a>  
+   Or chat with us at <a href="https://matrix.to/#/#a-thousand-channels:matrix.org" class="text-link" target="_blank">Element</a>  
 	  
 </div>
 
