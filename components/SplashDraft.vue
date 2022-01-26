@@ -219,17 +219,6 @@
         <nuxt-content :document="index_de" />
 
 
-        <div class="mt-3 text-gray-600 bg-white overflow-hidden shadow sm:rounded-smX p-6">
-          <p>
-            Besucht uns <a href="https://github.com/a-thousand-channels/" class="text-link">bei Github</a> oder sendet uns eine E-Mail an
-            <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">
-            hello@a-thousand-channels.xyz 📪
-            </a>
-          </p>
-        </div>
-
-      </div>
-
       <div v-if="$i18n.locale == 'es'" class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
         <p class="mt-3 text-gray-800">
           <strong>{{ $t('hello') }}</strong>
