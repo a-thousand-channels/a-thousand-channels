@@ -145,6 +145,6 @@ Ihr könnt uns über folgende Kanäle erreichen:
 
   #### Elements
 
-   Oder chattet mit uns bei [Elements](a-thousand-channels.matrix.org)
+   Oder chattet mit uns bei [Elements](https://matrix.to/#/#a-thousand-channels:matrix.org)
   	  
 </div>
