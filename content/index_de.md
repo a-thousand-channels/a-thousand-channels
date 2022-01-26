@@ -127,6 +127,7 @@ Ihr könnt uns über folgende Kanäle erreichen:
 <div class="block-3">
 
   <div class="column">
+	  <div class="text-link">
 
   #### E-Mail
 	  
