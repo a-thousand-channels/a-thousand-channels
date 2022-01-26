@@ -138,9 +138,7 @@ Ihr könnt uns über folgende Kanäle erreichen:
 
   #### github
 
-   Besucht uns bei github
-
-   https://github.com/a-thousand-channels/
+   Besucht uns bei [github](https://github.com/a-thousand-channels/)
 
   </div>
   <div class="column">
