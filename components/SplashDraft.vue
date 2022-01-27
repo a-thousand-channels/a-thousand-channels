@@ -199,25 +199,7 @@
 
         <nuxt-content :document="index_en" />
 
-        <div class="block">
-          <p class="mt-3 text-gray-800">
-             Are you interested in collaboration and exchange about coding and design in queer contexts? Or do you have a little time for code reviews, translations and acceptance testing? We welcome your support and feedback :)
-          </p>
-          <p class="mt-3 text-gray-600">
-            <em>A thousand channels</em> is supported by the Prototype Fund :)
-          </p>
-          <p class="mt-3 text-gray-600">
-            Please <a href="https://github.com/a-thousand-channels/" class="text-link" target="_blank">visit us at Github</a> or send us an e-mail at
-            <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">
-            hello@a-thousand-channels.xyz 📪
-            </a>
-          </p>
-        </div>
-      </div>
-      <div v-if="$i18n.locale == 'de'" class="">
-
         <nuxt-content :document="index_de" />
-
 
       <div v-if="$i18n.locale == 'es'" class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
         <p class="mt-3 text-gray-800">
