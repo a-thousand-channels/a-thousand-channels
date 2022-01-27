@@ -2,7 +2,7 @@
 
 A 1000 channels is a software project. Since September 2021 we have been developing a queer mapping platform with which queer narratives can be visualised and published on a map in an easily accessible way.
 
-The diverse social and political activities of queer people are mostly fleeting, temporary and not a natural part of the public image of a city.
+The diverse social and political activities of queer people are mostly fleeting, temporary and not a natural part of the public image of a city.<br>
 With A 1000 channels, we are developing a platform that offers queer actors, groups and projects a way to report on these spaces and events and make them visible.
 
 </div>
@@ -10,7 +10,7 @@ With A 1000 channels, we are developing a platform that offers queer actors, gro
 
 ### Take part
 
-You want to tell and map queer stories? Starting from places, events, actions, projects or individuals?
+You want to tell and map queer stories? Starting from places, events, actions, projects or individuals?<br>
 With "A 1000 channels" we offer you a possibility to tell and document queer history(s).
 
 ----
@@ -59,7 +59,9 @@ With "A 1000 channels" we offer you a possibility to tell and document queer his
 ### A construction kit
   
 With the platform *A 1000 channels*, we provide a construction kit with which you can gather content and media, combine them and relate them to each other – spatially and temporally. <br>
+
 By clicking on a worldwide map or a search field for addresses, you can create places or events. <br>
+
 Text fields, uploading images, audio or video give you different ways of telling about the places, events and people who create them. 
 
 ----
@@ -87,7 +89,9 @@ You can simply take your map with you and publish it on your website, your own s
 #### Intersections & Constellations. From Gay to Queer
 
 Since summer 2021, the working group "Queer narratives, mapped" has been working with our platform. <br>
+
 The result is a map that tells the story of how queer cultures and alliances have developed from lesbian and gay niches, with a temporal focus on the 1990s and a spatial focus on Bremen. <br>  
+
 From interviews and the collection of flyers, posters, photos and other printed matter, a map has emerged that tells of different, personal perspectives on the emergence of queer communities and coalitions. 
 
 *Work in Progress*
