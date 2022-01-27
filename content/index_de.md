@@ -43,7 +43,7 @@ Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 
 ----
 
-<div class="block-1">
+<div class="block-3">
   <div class="column">
 
 </div>
