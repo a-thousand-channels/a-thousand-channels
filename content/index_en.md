@@ -45,13 +45,12 @@ With *A 1000 channels* we offer you a possibility to tell and document queer his
 <div class="block-3">
   <div class="column">
 
-</div>
-</div>	 
     
 #### Past, Present, Future, Fiction
 
   With *A 1000 channels* one can document the past, capture the present or open up a glimpse into the future by, for example, making imaginary places and speculative futures visible as we imagine our queer lives.
 
+  </div>
 </div>
 </div>
 
@@ -133,10 +132,9 @@ You can reach us through the following channels:
   <div class="column">
   	
   #### E-mail
-	  
-   Send us an e-mail to	  
-   <hello@a-thousand-channels.xyz>
-	  
+
+   Send us an e-mail to <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">hello@a-thousand-channels.xyz</a>
+
   </div>
   <div class="column">
 

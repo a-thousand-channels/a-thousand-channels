@@ -45,13 +45,12 @@ Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 <div class="block-3">
   <div class="column">
 
-</div>
-</div>	  
-
   #### Past, Present, Future, Fiction
 
   Mit *A 1000 channels* könnt Ihr Vergangenes dokumentieren, Gegenwärtiges aufzeichnen oder einen Blick in Zukünftiges eröffnen, z.B. durch die Sichtbarmachung von imaginären Orten und spekulativen Zukünften, wie wir uns unser queeres Leben vorstellen.
   
+  </div>
+  </div>
 </div>
 
 <div class="block">
@@ -134,9 +133,7 @@ Ihr könnt uns über folgende Kanäle erreichen:
   #### E-Mail
 	  
    Schreibt uns eine E-Mail an	  
-   <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">
-	hello@a-thousand-channels.xyz
-   </a>
+   <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">hello@a-thousand-channels.xyz</a>
 	   	  
   </div>
   <div class="column">
