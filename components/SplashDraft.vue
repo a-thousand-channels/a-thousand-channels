@@ -199,6 +199,8 @@
 
         <nuxt-content :document="index_en" />
 
+<div v-if="$i18n.locale == 'de'" class="">
+
         <nuxt-content :document="index_de" />
 
       <div v-if="$i18n.locale == 'es'" class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
