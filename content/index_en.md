@@ -53,6 +53,7 @@ With *A 1000 channels* we offer you a possibility to tell and document queer his
   With *A 1000 channels* one can document the past, capture the present or open up a glimpse into the future by, for example, making imaginary places and speculative futures visible as we imagine our queer lives.
 
 </div>
+</div>
 
 <div class="block">
   
