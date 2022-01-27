@@ -197,6 +197,8 @@
       </div>
       <div v-if="$i18n.locale == 'en'">
 
+</div>
+
         <nuxt-content :document="index_en" />
 
 <div v-if="$i18n.locale == 'de'" class="">
