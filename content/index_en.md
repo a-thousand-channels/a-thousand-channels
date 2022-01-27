@@ -1,9 +1,9 @@
 <div class="block large">
 
-A 1000 channels is a software project. Since September 2021 we have been developing a queer mapping platform with which queer narratives can be visualised and published on a map in an easily accessible way.
+*A 1000 channels* is a software project. Since September 2021 we have been developing a queer mapping platform with which queer narratives can be visualised and published on a map in an easily accessible way.
 
 The diverse social and political activities of queer people are mostly fleeting, temporary and not a natural part of the public image of a city.<br>
-With A 1000 channels, we are developing a platform that offers queer actors, groups and projects a way to report on these spaces and events and make them visible.
+With *A 1000 channels*, we are developing a platform that offers queer actors, groups and projects a way to report on these spaces and events and make them visible.
 
 </div>
 <div class="block">
@@ -11,7 +11,7 @@ With A 1000 channels, we are developing a platform that offers queer actors, gro
 ### Take part
 
 You want to tell and map queer stories? Starting from places, events, actions, projects or individuals?<br>
-With "A 1000 channels" we offer you a possibility to tell and document queer history(s).
+With *A 1000 channels* we offer you a possibility to tell and document queer history(s).
 
 ----
 
@@ -42,7 +42,7 @@ With "A 1000 channels" we offer you a possibility to tell and document queer his
 
 ----
 
-<div class="block-1">
+<div class="block-3">
   <div class="column">
 
 </div>
@@ -59,9 +59,7 @@ With "A 1000 channels" we offer you a possibility to tell and document queer his
 ### A construction kit
   
 With the platform *A 1000 channels*, we provide a construction kit with which you can gather content and media, combine them and relate them to each other – spatially and temporally. <br>
-
 By clicking on a worldwide map or a search field for addresses, you can create places or events. <br>
-
 Text fields, uploading images, audio or video give you different ways of telling about the places, events and people who create them. 
 
 ----
