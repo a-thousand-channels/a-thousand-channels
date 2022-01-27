@@ -203,6 +203,8 @@
 
         <nuxt-content :document="index_de" />
 
+</div>
+
       <div v-if="$i18n.locale == 'es'" class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
         <p class="mt-3 text-gray-800">
           <strong>{{ $t('hello') }}</strong>
