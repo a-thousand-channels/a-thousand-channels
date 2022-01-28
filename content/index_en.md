@@ -133,7 +133,8 @@ You can reach us through the following channels:
   	
   #### E-mail
 
-   Send us an e-mail to <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">hello@a-thousand-channels.xyz</a>
+   Send us an e-mail to
+   <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">hello@a-thousand-channels.xyz</a>
 
   </div>
   <div class="column">
