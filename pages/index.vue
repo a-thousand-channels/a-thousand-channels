@@ -16,7 +16,7 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: 'My custom description'
+          content: 'A queer mapping plattform'
         }
       ]
     }
