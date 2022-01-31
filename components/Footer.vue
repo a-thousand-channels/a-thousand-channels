@@ -10,13 +10,31 @@
     </div>
     <div class="pt-2 pb-2 text-sm">
       <div v-if="$i18n.locale == 'de'">
-        Gefördert vom <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" class="text-link" target="_blank" alt="Logo des Bundesministeriums">Bundesministerium für Bildung und Forschung</a> und unterstützt vom <a href="https://prototypefund.de/" class="text-link" target="_blank" alt="Logo des Prototype Funds">Protoype Fund</a>
+        <p>
+          Gefördert vom <a href="https://www.bmbf.de/" class="text-link" target="_blank" >Bundesministerium für Bildung und Forschung</a> und unterstützt vom <a href="https://prototypefund.de/" class="text-link" target="_blank">Protoype Fund</a>
+        </p>
+        <p>
+          <a href="https://www.bmbf.de/" target="_blank">
+            <img src="BMBF_Logo.svg" class="h-40 inline-block pr-8" alt="Logo des Bundesministeriums">
+          </a>
+          <a href="https://prototypefund.de/" target="_blank">
+            <img src="PrototypeFund_Logo.svg" class="h-32 inline-block" alt="Logo des Prototype Funds">
+          </a>
+        </p>
       </div>
       <div v-else>
-        Funded by <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" class="text-link" target="_blank" alt="Logo of the Federal Ministry">Federal Ministry of Education and Research</a> and supported by <a href="https://prototypefund.de/" class="text-link" target="_blank" alt="Logo of Prototype Fund">Protoype Fund</a>
+        <p>
+          Funded by <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" class="text-link" target="_blank" >Federal Ministry of Education and Research</a> and supported by <a href="https://prototypefund.de/" class="text-link" target="_blank">Protoype Fund</a>
+        </p>
+        <p>
+          <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" target="_blank">
+            <img src="BMBF_Logo.svg" class="h-40 inline-block pr-8" alt="Logo of the Federal Ministry">
+          </a>
+          <a href="https://prototypefund.de/" target="_blank">
+            <img src="PrototypeFund_Logo.svg" class="h-32 inline-block" alt="Logo of Prototype Fund">
+          </a>
+        </p>
       </div>
-      <img src="BMBF_Logo.svg" class="h-40 inline-block pr-8">
-      <img src="PrototypeFund_Logo.svg" class="h-32 inline-block">
     </div>
     <div class="pt-2 pb-2 text-sm">
       A Thousand Channels 2021/22 – <nuxt-link to="/imprint" class="text-link">Impressum</nuxt-link> – <nuxt-link to="/privacy" class="text-link">Datenschutz</nuxt-link>
