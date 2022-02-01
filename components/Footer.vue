@@ -11,7 +11,7 @@
     <div class="pt-2 pb-2 text-sm">
       <div v-if="$i18n.locale == 'de'">
         <p>
-          Gefördert vom <a href="https://www.bmbf.de/" class="text-link" target="_blank" >Bundesministerium für Bildung und Forschung</a> und unterstützt vom <a href="https://prototypefund.de/" class="text-link" target="_blank">Protoype Fund</a>
+          Gefördert vom <a href="https://www.bmbf.de/" class="text-link" target="_blank" >Bundesministerium für Bildung und Forschung</a> und unterstützt vom <a href="https://prototypefund.de/" class="text-link" target="_blank">Prototype Fund</a>
         </p>
         <p>
           <a href="https://www.bmbf.de/" target="_blank">
@@ -24,7 +24,7 @@
       </div>
       <div v-else>
         <p>
-          Funded by <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" class="text-link" target="_blank" >Federal Ministry of Education and Research</a> and supported by <a href="https://prototypefund.de/" class="text-link" target="_blank">Protoype Fund</a>
+          Funded by <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" class="text-link" target="_blank" >Federal Ministry of Education and Research</a> and supported by <a href="https://prototypefund.de/" class="text-link" target="_blank">Prototype Fund</a>
         </p>
         <p>
           <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" target="_blank">
