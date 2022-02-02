@@ -55,7 +55,7 @@ Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 
 <div class="block">
 
-### Ein Baukasten
+### Ein Baukasten 🪜🔧
 
 Mit der Plattform *A 1000 channels* stellen wir einen Baukasten zur Verfügung, mit dem Ihr Inhalte und Medien zusammentragen, kombinieren und untereinander – räumlich und zeitlich – in Bezug setzen könnt. <br>
 Durch Klick auf eine weltweite Karte oder ein Suchfeld für Adressen könnt Ihr Orte oder Ereignisse anlegen. <br>
