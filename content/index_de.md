@@ -77,6 +77,12 @@ Wir experimentieren mit einer Rasterung von Fotos zur Untkenntlichmachung von Ge
 Am Ende eines jeden Projektes steht die Idee einer „Map to go“, einer Karte zum Mitnehmen. <br>
 Damit wollen wir eine dauerhafte Abhängigkeit von unserer Platform (und unserem Projekt) auflösen. <br>
 Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Server veröffentlichen, ohne dass ihr dafür Software installieren müßt.
+	
+----
+	
+#### Wiki 🎨
+
+Im <a href="https://github.com/a-thousand-channels/a-thousand-channels/wiki" class="text-link" target="_blank">Wiki</a> stellen wir Informationen zusammen, die die Features vorstellen und erklären, wie Ihr sie nutzen könnt.
 
 </div>
 
