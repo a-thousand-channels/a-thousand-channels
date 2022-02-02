@@ -56,7 +56,7 @@ With *A 1000 channels* we offer you a possibility to tell and document queer his
 
 <div class="block">
   
-### A construction kit
+### A construction kit 🪜🔧
   
 With the platform *A 1000 channels*, we provide a construction kit with which you can gather content and media, combine them and relate them to each other – spatially and temporally. <br>
 By clicking on a worldwide map or a search field for addresses, you can create places or events. <br>
@@ -77,7 +77,13 @@ We are experimenting with rasterisation of photos to obscure faces and there is 
 At the end of each project is the idea of a "map to go". <br>
 In this way, we want to break a permanent dependence on our platform (and our project). <br>
 You can simply take your map with you and publish it on your website, your own server, without having to install any software.
+	
+----
+	
+#### Wiki 🎨
 
+In the <a href="https://github.com/a-thousand-channels/a-thousand-channels/wiki" class="text-link" target="_blank">Wiki</a>, we put together information that introduces the features and explains how you can use them.
+		
 </div>
 
 <div class="block">
