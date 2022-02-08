@@ -94,7 +94,8 @@
       </div>
       <div class="flex justify-center p-4 m-2 mb-8 space-x-2">
         <a href="https://www.a-thousand-channels.xyz/" target="_blank" class="text-link">
-          A Thousand Channels – a queer 🏳️‍🌈 mapping 🗺 platform 🎁
+          A Thousand Channels – a queer 🏳️‍🌈 mapping 🗺 platform 🎁 
+          <img src="https://www.a-thousand-channels.xyz/progresiveflagcolor.svg" height="100">
         </a>
       </div>
 
