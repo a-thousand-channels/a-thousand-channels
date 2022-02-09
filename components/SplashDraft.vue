@@ -11,6 +11,9 @@
       background: rgb(255,0,249);
       background: linear-gradient(90deg, rgba(255,0,35,0.15) 0%, rgba(255,0,249,0.15) 50%, rgba(255,117,0,0.15) 100% );
    }
+  .bg-white {
+    background-color: white;
+   }
     button.text-link,
     a.text-link {
       text-decoration: none;
