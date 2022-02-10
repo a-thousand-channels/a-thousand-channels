@@ -82,7 +82,7 @@ You can simply take your map with you and publish it on your website, your own s
 	
 #### Wiki 🎨
 
-In the <a href="https://github.com/a-thousand-channels/a-thousand-channels/wiki" class="text-link" target="_blank">Wiki</a>, we put together information that introduces the features and explains how you can use them.
+In the <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="text-link" target="_blank">Wiki</a>, we put together information that introduces the features and explains how you can use them.
 		
 </div>
 
