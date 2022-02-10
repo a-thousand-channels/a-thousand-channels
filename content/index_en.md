@@ -94,7 +94,7 @@ In the <a href="https://github.com/a-thousand-channels/a-thousand-channels/wiki"
 
 Since summer 2021, the working group "Queer narratives, mapped" has been working with our platform. <br>
 
-The result is the map *From Gay To Queer* that tells the story of how queer cultures and alliances have developed from lesbian and gay niches, with a temporal focus on the 1990s and a spatial focus on Bremen. <br>  
+The result is the <a href="https://from-gay-to-queer.net/" class="text-link" target="_blank">map *From Gay To Queer*</a> that tells the story of how queer cultures and alliances have developed from lesbian and gay niches, with a temporal focus on the 1990s and a spatial focus on Bremen. <br>  
 
 From interviews and the collection of flyers, posters, photos and other printed matter, a map has emerged that tells of different, personal perspectives on the emergence of queer communities and coalitions. 
 
