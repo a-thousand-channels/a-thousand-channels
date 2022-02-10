@@ -98,8 +98,6 @@ Aus dieser Zusammenarbeit ist eine Karte entstanden, die mit dem zeitlichen Schw
 
 Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen ist eine Karte entstanden, die von unterschiedlichen, persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt.
 
-*Work in Progress*
-
 </div>
 
 <div class="block">
