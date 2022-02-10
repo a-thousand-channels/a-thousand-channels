@@ -82,7 +82,7 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 	
 #### Wiki 🎨
 
-Im <a href="https://github.com/a-thousand-channels/a-thousand-channels/wiki" class="text-link" target="_blank">Wiki</a> stellen wir Informationen zusammen, die die Features vorstellen und erklären, wie Ihr sie nutzen könnt.
+Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="text-link" target="_blank">Wiki</a> stellen wir Informationen zusammen, die die Features vorstellen und erklären, wie Ihr sie nutzen könnt.
 
 </div>
 
