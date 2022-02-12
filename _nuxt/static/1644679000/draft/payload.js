@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/draft", {data:[{}],fetch:{},mutations:void 0});

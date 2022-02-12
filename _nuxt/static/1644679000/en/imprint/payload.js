@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/imprint", {data:[{}],fetch:{},mutations:void 0});
