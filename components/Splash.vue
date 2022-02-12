@@ -47,7 +47,7 @@
       background-position: 0 100%;
     }
     h1 {
-      @apply pb-0 pt-1 pl-5 pr-5 text-3xl font-light leading-8
+      @apply pb-0 pt-1 pl-5 pr-5 text-2xl md:text-3xl font-light leading-8
     }
     h3 {
       @apply pb-4 pt-4 pl-5 pr-5 text-3xl font-normal
@@ -112,11 +112,11 @@
 
 <template>
 <div id="page">
-  <div class="relative flex items-top justify-center min-h-screen bg-pink-100 bg-a100c-1 sm:items-center sm:pt-0">
+  <div class="relative flex items-top justify-center min-h-screen bg-a100c-1 sm:items-center sm:pt-0">
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-12">
       <div class="flex">
-        <div class="flex align-center justify-center mt-8 pt-8 pl-10 sm:pt-0 mr-auto">
-          <img src="~/assets/a-thousand-channels--logo-variant-a--short.png" title="A thousand channels">
+        <div class="flex align-center justify-center mt-8 pt-8 pl-10 sm:pt-0 mr-auto lg:ml-[-110px]">
+          <img src="~/assets/a-thousand-channels--logo-variant-a--short.png" title="A thousand channels" class="mb-[-62px] w-16 md:w-28">
         </div>
         <div class="flex justify-right ml-auto mt-auto px-2">
 
@@ -131,8 +131,8 @@
         </div>
       </div>
 
-      <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
-        <h1 class="">
+      <div class="mt-8 bg-white overflow-hidden shadow p-6">
+        <h1>
           A Thousand Channels –  {{ $t('project_part1') }} <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-6 inline p-0 pb-1 align-middle" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
         </h1>
       </div>
