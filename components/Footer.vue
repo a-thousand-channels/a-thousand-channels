@@ -10,28 +10,28 @@
     </div>
     <div class="pt-2 pb-2 text-sm">
       <div v-if="$i18n.locale == 'de'">
-        <p>
-          Gefördert vom <a href="https://www.bmbf.de/" class="text-link" target="_blank" >Bundesministerium für Bildung und Forschung</a> und unterstützt vom <a href="https://prototypefund.de/" class="text-link" target="_blank">Prototype Fund</a>
+        <p class="p-0">
+          Gefördert vom <a href="https://www.bmbf.de/" class="text-link" target="_blank" >Bundesministerium für Bildung und Forschung</a> <span class="text-gray-800">(9'2021 – 2'2022, Förderkennzeichen 01IS21S54)</span> und unterstützt vom <a href="https://prototypefund.de/" class="text-link" target="_blank">Protoype Fund</a>
         </p>
-        <p>
+        <p class="p-0">
           <a href="https://www.bmbf.de/" target="_blank">
-            <img src="BMBF_Logo.svg" class="h-40 inline-block pr-8" alt="Logo des Bundesministeriums">
+            <img src="BMBF_Logo.svg" class="h-40 inline-block pr-16" alt="Logo des Bundesministeriums für Bildung und Forschung">
           </a>
           <a href="https://prototypefund.de/" target="_blank">
-            <img src="PrototypeFund_Logo.svg" class="h-32 inline-block" alt="Logo des Prototype Funds">
+            <img src="PrototypeFund_Logo.svg" class="h-28 inline-block" alt="Logo des Prototype Funds">
           </a>
         </p>
       </div>
       <div v-else>
-        <p>
-          Funded by <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" class="text-link" target="_blank" >Federal Ministry of Education and Research</a> and supported by <a href="https://prototypefund.de/" class="text-link" target="_blank">Prototype Fund</a>
+        <p class="p-0">
+          Funded by <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" class="text-link" target="_blank" >Federal Ministry of Education and Research</a> <span class="text-gray-800">(9'2021 – 2'2022, funding code 01IS21S54)</span> and supported by <a href="https://prototypefund.de/" class="text-link" target="_blank">Prototype Fund</a>
         </p>
-        <p>
+        <p class="p-0">
           <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" target="_blank">
-            <img src="BMBF_Logo.svg" class="h-40 inline-block pr-8" alt="Logo of the Federal Ministry">
+            <img src="BMBF_Logo.svg" class="h-40 inline-block pr-16" alt="Logo of the Federal Ministry of Educatio and Research">
           </a>
           <a href="https://prototypefund.de/" target="_blank">
-            <img src="PrototypeFund_Logo.svg" class="h-32 inline-block" alt="Logo of Prototype Fund">
+            <img src="PrototypeFund_Logo.svg" class="h-28 inline-block" alt="Logo of Prototype Fund">
           </a>
         </p>
       </div>

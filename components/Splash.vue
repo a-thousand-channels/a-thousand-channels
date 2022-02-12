@@ -36,7 +36,7 @@
       background-color: white;
      }
    .text-gray-800 {
-    color:  #888;
+    color:  #676767;
    }
     button.text-link,
     a.text-link {
