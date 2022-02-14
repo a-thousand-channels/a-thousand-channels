@@ -91,8 +91,7 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 <div class="block">
           
 <h4> …und so einfach geht das:</h4>
-          
-	<ol>
+          <ol>
             <li>
               Ihr meldet Euch bei uns mit Eurer Idee. <em>Wir klären gemeinsam, was Ihr braucht/was Euer Bedarf ist.</em>
             </li>
