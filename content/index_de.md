@@ -4,7 +4,6 @@
 
 Die vielfältigen sozialen und politischen Aktivitäten queerer Menschen sind meist flüchtig, temporär und kein selbstverständlicher Teil des öffentlichen Bildes einer Stadt. <br>
 Mit *A 1000 channels* entwickeln wir eine Plattform , die queeren Akteur*innen, Gruppen, Projekten eine Möglichkeit bietet, von diesen Räumen und Ereignissen zu berichten und sie sichtbar zu machen.
-
 </div>
 <div class="block">
 

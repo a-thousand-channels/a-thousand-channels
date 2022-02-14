@@ -30,8 +30,8 @@
   <div class="relative flex items-top justify-center min-h-screen bg-pink-100 bg-a100c-1 sm:items-center sm:pt-0">
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-12">
       <div class="flex">
-        <div class="flex align-center justify-center mt-8 pt-8 sm:pt-0 mr-auto">
-          <img src="a-thousand-channels--logo-variant-a--short.png" title="A thousand channels">
+        <div class="flex align-center justify-center pl-10 sm:pt-0 mr-auto lg:ml-[-110px]">
+          <img src="~/assets/a-thousand-channels--logo-variant-a--short.png" title="A thousand channels" class="mb-[-62px] w-16 md:w-28">
         </div>
         <div class="flex justify-right ml-auto mt-auto px-2">
 

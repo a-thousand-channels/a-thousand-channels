@@ -49,14 +49,44 @@
       @apply pb-4 pt-4 pl-5 pr-5 text-3xl font-normal
     }
     h4 {
-      @apply pb-0 pt-0 pl-5 pr-5 text-xl font-light
+      @apply pb-0 pt-0 pl-5 pr-5 text-2xl font-light
     }
     .column h4 {
-      @apply text-xl font-bold
+      @apply text-2xl font-bold
     }
     p {
       @apply pb-2 pt-2 pl-5 pr-5
     }
+
+    ol {
+      padding: 0.5rem 2.25rem 0.5rem 3.25rem;
+      counter-reset: my-awesome-counter;
+      margin: 1rem 3rem 0;
+    }
+    ol li {
+      margin: 0 0 1rem 0;
+      counter-increment: my-awesome-counter;
+      position: relative;
+    }
+    ol li::before {
+      content: counter(my-awesome-counter);
+      color: #ffffff;
+      font-size: 1.5rem;
+      font-weight: normal;
+      position: absolute;
+      --size: 32px;
+      left: calc(-1 * var(--size) - 15px);
+      line-height: var(--size);
+      width: var(--size);
+      height: var(--size);
+      top: -2px;
+      transform: rotate(0);
+      background: -webkit-linear-gradient(120deg,rgba(255,0,35,.75),rgba(255,117,0,.75) 50%,rgba(255,0,249,.75));
+      border-radius: 50%;
+      text-align: center;
+      box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06)
+    }
+
     hr {
       max-width: 400px;
       border-top-color: rgba(255,0,35,.75);
@@ -142,6 +172,8 @@
 <div v-if="$i18n.locale == 'de'" class="">
 
         <nuxt-content :document="index_de" />
+
+
 
 </div>
 
