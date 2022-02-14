@@ -105,6 +105,10 @@
      {
       @apply md:flex text-sm pt-4 pb-4 px-4 md:px-16
     }
+    div.block-2
+     {
+      @apply md:flex text-sm pt-4 pb-4
+    }
     div.block-3
      {
       @apply md:flex text-sm pt-4 pb-4
@@ -120,6 +124,12 @@
     }
     div.block-1 .column p {
       @apply px-2 py-2 md:p-2
+    }
+    div.block-2 .column {
+      @apply  md:flex-1
+    }
+    div.block-2 .column p {
+      @apply p-5 md:p-5
     }
     div.block-3 .column {
       @apply  md:flex-1
