@@ -93,7 +93,7 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 <h4> …und so einfach geht das:</h4>
           <ol>
             <li>
-              Ihr meldet Euch bei uns mit Eurer Idee. <em>Wir klären gemeinsam, was Ihr braucht/was Euer Bedarf ist.</em>
+              Ihr meldet Euch bei uns mit Eurer Idee. Wir klären gemeinsam, was Ihr braucht/was Euer Bedarf ist.
             </li>
             <li>
               Wir richten Euch einen Log-In ein für das Backend. Und schon kann es losgehen :)
