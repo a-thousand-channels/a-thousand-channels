@@ -1,7 +1,8 @@
 <style>
+
    .bg-a100c-1 {
       background: rgb(255,0,249);
-      background: linear-gradient(90deg, rgba(255,0,249,0.15) 0%, rgba(255,117,0,0.15) 50%, rgba(255,0,35,0.15) 100%);
+      background: linear-gradient(90deg, rgba(255,0,249,0.25) 0%, rgba(255,117,0,0.25) 50%, rgba(255,0,35,0.25) 100%);
    }
    .bg-a100c-2 {
       background: rgb(255,0,249);

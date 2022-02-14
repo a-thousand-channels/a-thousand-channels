@@ -13,18 +13,13 @@
       background: linear-gradient(90deg, rgba(255,0,35,0.15) 0%, rgba(255,0,249,0.15) 50%, rgba(255,117,0,0.15) 100% );
    }
    .text-a100c-1, .column h4 {
+      font-size: 1.55rem;
       color: #ff6d6d;
       background: -webkit-linear-gradient(120deg,rgba(255,0,35,.75),rgba(255,117,0,.75) 50%,rgba(255,0,249,.75));
       -webkit-background-clip: text;
       background-clip: text;
       -webkit-text-fill-color: transparent;
       /* transform: rotate(-1.5deg); */
-   }
-   .text-a100c-1, .column h4x {
-      color: #fff;
-      background-color: rgb(15, 178, 196);
-      display: inline-block;
-      /*  transform: rotate(3deg); */
    }
    .column:first-child h4 {
       /* transform: rotate(2.5deg); */
@@ -38,7 +33,8 @@
    .text-gray-800 {
     color:  #676767;
    }
-    button.text-link,
+   a[href^="mailto:"],
+   button.text-link,
     a.text-link {
       text-decoration: none;
       background-image: linear-gradient(120deg, #fde68a 0, #fde68a 100%);
