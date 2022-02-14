@@ -88,13 +88,9 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 
 </div>
 
-div v-if="$i18n.locale == 'de'" class="">
-
-        <nuxt-content :document="index_de" />
-
-
-        <div class="block">
-          <h4> …und so einfach geht das:</h4>
+<div class="block">
+          
+###…und so einfach geht das:
           <ol>
             <li>
               Ihr meldet Euch bei uns mit Eurer Idee. <em>Wir klären gemeinsam, was Ihr braucht/was Euer Bedarf ist.</em>
@@ -107,6 +103,7 @@ div v-if="$i18n.locale == 'de'" class="">
           </li>
           </ol>
         </div>
+
 <div class="block">
 
 <img src="/fgtq_all_layers_dark.jpg" class="pb-4 mb-2">
