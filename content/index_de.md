@@ -88,6 +88,18 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 
 </div>
 
+<div class="block-2">
+
+          <div class="column">
+
+#### Datenschutz 🤫
+
+Wir nehmen bei dem Design der Tools besondere Rücksicht auf den Datenschutz. <br>
+Bilder werden automatisch von Metadaten befreit. <br>
+Wir experimentieren mit einer Rasterung von Fotos zur Untkenntlichmachung von Gesichtern und es soll eine Funktion geben, genaue Ortsangaben zu verschleiern. 
+
+</div>
+
 <div class="block">
           
 <h3> …und so einfach geht das:</h3>
@@ -106,7 +118,8 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 ----
 
 <div class="block-3">
-  <div class="column">
+  
+<div class="column">
 
 #### Wiki 🎨
 
