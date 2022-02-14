@@ -81,8 +81,7 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 	
 #### Wiki 🎨
 
-Wir arbeiten mit ORTE Backend. <br>
-Mit dem ORTE Backend könnt Ihr digitale Karten für Eure queeren Geschichten erstellen.
+Wir arbeiten mit ORTE Backend. Mit dem ORTE Backend könnt Ihr digitale Karten für Eure queeren Geschichten erstellen.
 
 Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="text-link" target="_blank">ORTE-Backend-Wiki</a> stellen wir Informationen zusammen, die die Features vorstellen und erklären, wie Ihr sie nutzen könnt.
 
