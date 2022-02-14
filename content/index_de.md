@@ -99,6 +99,18 @@ Bilder werden automatisch von Metadaten befreit. <br>
 Wir experimentieren mit einer Rasterung von Fotos zur Untkenntlichmachung von Gesichtern und es soll eine Funktion geben, genaue Ortsangaben zu verschleiern. 
 
 </div>
+	</div>
+	
+	<div class="column">
+		
+#### Map to go 👜
+
+Am Ende eines jeden Projektes steht die Idee einer „Map to go“, einer Karte zum Mitnehmen. <br>
+Damit wollen wir eine dauerhafte Abhängigkeit von unserer Platform (und unserem Projekt) auflösen. <br>
+Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Server veröffentlichen, ohne dass ihr dafür Software installieren müßt.
+
+</div>
+	</div>
 
 <div class="block">
           
@@ -148,7 +160,7 @@ Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerze
 </div>
 
 <div class="block">
-
+	
 	
 ### Feedback 🎤
 
