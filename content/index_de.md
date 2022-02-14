@@ -91,7 +91,8 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 <div class="block">
           
 ### …und so einfach geht das:
-          <ol>
+          
+	<ol>
             <li>
               Ihr meldet Euch bei uns mit Eurer Idee. <em>Wir klären gemeinsam, was Ihr braucht/was Euer Bedarf ist.</em>
             </li>
@@ -101,8 +102,9 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
             <li>
               Ihr loggt euch ein und könnt anfangen Orte anzulegen und zu verknüpfen, Texte, Fotos und anderes Material hinzufügen.
           </li>
-          </ol>
-        </div>
+       </ol>
+        
+</div>
 
 <div class="block">
 
