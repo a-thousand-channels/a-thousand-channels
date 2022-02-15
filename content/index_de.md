@@ -104,7 +104,6 @@ Mit ORTE Backend könnt Ihr digitale Karten für Eure queeren Geschichten erstel
 
 Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="text-link" target="_blank">ORTE-Backend-Wiki</a> stellen wir Informationen zusammen, die die Features vorstellen und erklären, wie Ihr sie nutzen könnt.
 
-  	</div>
 </div>
 
 <div class="block">
