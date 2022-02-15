@@ -153,7 +153,7 @@
 <template>
 <div id="page">
   <div class="relative flex bg-white bg-a100c-1 min-h-[200px] items-top justify-center sm:items-center sm:pt-0">
-      <div class="flex max-h-[650px]">
+      <div class="flex max-h-[650px] lg:max-h-[750px] lg:mt-[-80px] xl:max-h-[800px] 2xl:max-h-[800px]">
         <video width="100%" autoplay loop muted  playsinline poster="https://github.com/a-thousand-channels/a1000c-assets/blob/main/aThousandChannels_Animation_Banner.jpg?raw=true">
           <source src="https://github.com/a-thousand-channels/a1000c-assets/blob/main/aThousandChannels_Animation_Banner.mp4?raw=true" type="video/mp4">
           Your browser does not support the video tag.
@@ -162,10 +162,10 @@
   </div>
   <div class="relative flex items-top justify-center min-h-screen bg-a100c-1 sm:items-center sm:pt-0">
 
-    <div class="max-w-4xl mx-auto px-6 lg:px-12 mt-[-65px] md:mt-[-150px] lg:mt-[-150px]">
+    <div class="max-w-4xl mx-auto px-6 lg:px-12 mt-[-60px] sm:mt-[-90px] md:mt-[-120px] lg:mt-[-120px]">
       <div class="flex">
-        <div class="flex align-center justify-center pl-10 sm:pt-0 mr-auto lg:ml-[-110px]">
-          <img src="~/assets/a-thousand-channels--logo-variant-a--short.png" title="A thousand channels" class="mb-[-62px] w-16 md:w-28">
+        <div class="flex align-center justify-center pl-10 sm:pt-0 mr-auto ml-[-54px] lg:ml-[-110px]">
+          <img src="~/assets/a-thousand-channels--logo-variant-a--short.png" title="A thousand channels" class="mb-[-58px] md:mb-[-64px] w-16 md:w-28">
         </div>
         <div class="flex justify-right ml-auto mt-auto mb-[-20px] px-2">
 
@@ -195,22 +195,6 @@
 <div v-if="$i18n.locale == 'de'" class="">
 
         <nuxt-content :document="index_de" />
-
-
-        <div class="block">
-          <h4> …und so einfach geht das:</h4>
-          <ol>
-            <li>
-              Ihr meldet Euch bei uns mit Eurer Idee. <em>Wir klären gemeinsam, was Ihr braucht/was Euer Bedarf ist.</em>
-            </li>
-            <li>
-              Wir richten Euch einen Log-In ein für das Backend. Und schon kann es losgehen :)
-            </li>
-            <li>
-              Ihr loggt euch ein und könnt anfangen Orte anlegen und verknpüfen, Texte und Fotos hinzufügen.
-          </li>
-          </ol>
-        </div>
 
 
         <div class="block-2">
