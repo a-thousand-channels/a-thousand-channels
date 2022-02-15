@@ -75,15 +75,6 @@ Wir experimentieren mit einer Rasterung von Fotos zur Untkenntlichmachung von Ge
 Am Ende eines jeden Projektes steht die Idee einer „Map to go“, einer Karte zum Mitnehmen. <br>
 Damit wollen wir eine dauerhafte Abhängigkeit von unserer Platform (und unserem Projekt) auflösen. <br>
 Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Server veröffentlichen, ohne dass ihr dafür Software installieren müßt.
-	
-----
-	
-#### Wiki 🎨
-
-Wir arbeiten mit ORTE Backend, ein einfaches, unkompliziertes Backend zum Erstellen und Verwalten von POIs (Point of Interests) / Geoplätzen – oder 'Orten' ;) und anderen Daten einer Karte. <br>
-Mit ORTE Backend könnt Ihr digitale Karten für Eure queeren Geschichten erstellen.
-
-Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="text-link" target="_blank">ORTE-Backend-Wiki</a> stellen wir Informationen zusammen, die die Features vorstellen und erklären, wie Ihr sie nutzen könnt.
 
 </div>
 
@@ -106,10 +97,6 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
         
 ----
 
-<div class="block-3">
-  
-<div class="column">
-
 #### Wiki 🎨
 
 Wir arbeiten mit ORTE Backend, ein einfaches, unkompliziertes Backend zum Erstellen und Verwalten von POIs (Point of Interests) / Geoplätzen – oder 'Orten' ;) und anderen Daten einer Karte. <br>
@@ -117,8 +104,6 @@ Mit ORTE Backend könnt Ihr digitale Karten für Eure queeren Geschichten erstel
 
 Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="text-link" target="_blank">ORTE-Backend-Wiki</a> stellen wir Informationen zusammen, die die Features vorstellen und erklären, wie Ihr sie nutzen könnt.
 
-</div>
-	</div>
   	</div>
 </div>
 
