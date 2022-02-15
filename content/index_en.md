@@ -63,6 +63,11 @@ By clicking on a worldwide map or a search field for addresses, you can create p
 Text fields, uploading images, audio or video give you different ways of telling about the places, events and people who create them. 
 
 ----
+	
+div class="block-3">
+
+ <div class="column">
+
   
 #### Data protection 🤫
 
@@ -70,7 +75,10 @@ We will pay special attention to data protection in the design of the tools. <br
 Images are automatically freed from metadata. <br>
 We are experimenting with rasterisation of photos to obscure faces and there is to be a function to obscure exact location information. 
 
-----
+</div>
+
+<div class="column">
+
 
 #### Map to go 👜
 
@@ -78,7 +86,10 @@ At the end of each project is the idea of a "map to go". <br>
 In this way, we want to break a permanent dependence on our platform (and our project). <br>
 You can simply take your map with you and publish it on your website, your own server, without having to install any software.
 	
-----
+
+</div>
+</div>
+
 	
 #### Wiki 🎨
 
