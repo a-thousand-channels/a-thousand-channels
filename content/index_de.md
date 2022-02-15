@@ -61,6 +61,12 @@ Durch Klick auf eine weltweite Karte oder ein Suchfeld für Adressen könnt Ihr 
 Textfelder, der Upload von Bildern, von Audio oder Video geben Euch verschiedene Möglichkeiten, wie Ihr von den Orten, Ereignissen und den Menschen, die diese erschaffen, erzählen wollt. 
 
 ----
+	
+	
+<div class="block-3">
+
+  <div class="column">
+
 
 #### Datenschutz 🤫
 
@@ -68,14 +74,16 @@ Wir nehmen bei dem Design der Tools besondere Rücksicht auf den Datenschutz. <b
 Bilder werden automatisch von Metadaten befreit. <br>
 Wir experimentieren mit einer Rasterung von Fotos zur Untkenntlichmachung von Gesichtern und es soll eine Funktion geben, genaue Ortsangaben zu verschleiern. 
 
-----
+  </div>
+
+  <div class="column">
 
 #### Map to go 👜
 
 Am Ende eines jeden Projektes steht die Idee einer „Map to go“, einer Karte zum Mitnehmen. <br>
 Damit wollen wir eine dauerhafte Abhängigkeit von unserer Platform (und unserem Projekt) auflösen. <br>
 Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Server veröffentlichen, ohne dass ihr dafür Software installieren müßt.
-
+	</div>
 </div>
 
 
