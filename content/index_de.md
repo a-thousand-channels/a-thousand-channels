@@ -7,7 +7,7 @@ Mit *A 1000 channels* entwickeln wir eine Plattform , die queeren Akteur*innen, 
 </div>
 <div class="block">
 
-### Mitmachen
+### Mitmachen 🧶📌
 
 Ihr möchtet queere Geschichten erzählen und kartieren? Ausgehend von Orten, Ereignissen, Aktionen, Projekten oder einzelnen Menschen? <br>
 Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu erzählen und zu dokumentieren. 
