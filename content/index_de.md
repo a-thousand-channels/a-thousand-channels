@@ -87,7 +87,7 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 </div>
 
 
-
+</div>
 <div class="block">
           
 <h3> …und so einfach geht das:</h3>
