@@ -64,7 +64,7 @@ Text fields, uploading images, audio or video give you different ways of telling
 
 ----
 	
-div class="block-3">
+<div class="block-3">
 
  <div class="column">
 
@@ -89,8 +89,9 @@ You can simply take your map with you and publish it on your website, your own s
 
 </div>
 </div>
+</div>
 
-div class="block">
+<div class="block">
           
 <h3> ...and it's as simple as that:</h3>
           <ol>
