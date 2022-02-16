@@ -41,6 +41,14 @@
       background-size: 100% 0.4em;
       background-position: 0 100%;
     }
+    button.text-link,
+    a.text-link2 {
+      text-decoration: none;
+      background-image: linear-gradient(120deg, #fde68a 0, #fde68a 100%);
+      background-repeat: no-repeat;
+      background-size: 100% 0.2em;
+      background-position: 0 100%;
+    }
     h1 {
       @apply pb-0 pt-1 pl-5 pr-5 text-2xl md:text-3xl font-light leading-8
     }
@@ -91,11 +99,15 @@
       border-top-color: rgba(255,0,35,.75);
       margin: 22px auto;
     }
+    video {
+      max-width: 100%;
+      height: 100%;
+    }
     div.block {
-      @apply overflow-hidden shadow sm:rounded-sm p-6 mt-8
+      @apply overflow-hidden shadow sm:rounded-sm p-6 mt-5
     }
     div.block.large {
-      @apply overflow-hidden shadow sm:rounded-sm text-lg p-6 mt-8
+      @apply overflow-hidden shadow sm:rounded-sm text-lg p-6 mt-5
     }
     div.block {
       background-color: white;
@@ -154,7 +166,7 @@
 <div id="page">
   <div class="relative flex bg-white bg-a100c-1 min-h-[200px] items-top justify-center sm:items-center sm:pt-0">
       <div class="flex max-h-[650px] lg:max-h-[750px] lg:mt-[-80px] xl:max-h-[800px] 2xl:max-h-[800px]">
-        <video width="100%" height="initial" autoplay loop muted  playsinline poster="https://github.com/a-thousand-channels/a1000c-assets/blob/main/aThousandChannels_Animation_Banner.jpg?raw=true">
+        <video class="" autoplay loop muted  playsinline poster="https://github.com/a-thousand-channels/a1000c-assets/blob/main/aThousandChannels_Animation_Banner.jpg?raw=true">
           <source src="https://github.com/a-thousand-channels/a1000c-assets/blob/main/aThousandChannels_Animation_Banner.mp4?raw=true" type="video/mp4">
           Your browser does not support the video tag.
         </video>
@@ -162,18 +174,18 @@
   </div>
   <div class="relative flex items-top justify-center min-h-screen bg-a100c-1 sm:items-center sm:pt-0">
 
-    <div class="max-w-4xl mx-auto px-6 lg:px-12 mt-[-60px] sm:mt-[-90px] md:mt-[-120px] lg:mt-[-120px]">
+    <div class="max-w-4xl mx-auto px-6 lg:px-12 mt-[-60px] sm:mt-[-90px] md:mt-[-105px] lg:mt-[-120px]">
       <div class="flex">
         <div class="flex align-center justify-center pl-10 sm:pt-0 mr-auto ml-[-54px] lg:ml-[-110px]">
-          <img src="~/assets/a-thousand-channels--logo-variant-a--short.png" title="A thousand channels" class="mb-[-58px] md:mb-[-64px] w-16 md:w-28">
+          <img src="~/assets/a-thousand-channels--logo-variant-a--short.png" title="A thousand channels" class="mb-[-58px] md:mb-[-64px] lg:mb-[-64px] w-16 md:w-24 lg:w-28">
         </div>
-        <div class="flex justify-right ml-auto mt-auto mb-[-20px] px-2">
+        <div class="flex justify-right ml-auto mt-auto mb-[-25px] px-2">
 
          <nuxt-link
             v-for="locale in $i18n.locales"
             :key="locale.code"
             :to="switchLocalePath(locale.code)"
-            class="text-link mr-2 px-1">
+            class="text-link2 mr-2 px-1">
             {{ locale.code }}
           </nuxt-link>
 
