@@ -101,7 +101,8 @@
     }
     video {
       max-width: 100%;
-      height: 100%;
+      /* 100% made old safaris very confused */
+      height: unset;
     }
     div.block {
       @apply overflow-hidden shadow sm:rounded-sm p-6 mt-5
