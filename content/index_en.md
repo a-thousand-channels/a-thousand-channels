@@ -90,12 +90,31 @@ You can simply take your map with you and publish it on your website, your own s
 </div>
 </div>
 
-	
+div class="block">
+          
+<h3> ...and it's as simple as that:</h3>
+          <ol>
+            <li>
+              You contact us with your idea. We will clarify together what you need.
+            </li>
+            <li>
+              We will set up a log-in for you for the backend. And you're ready to go :)
+            </li>
+            <li>
+              You log in and can start creating and linking places, adding texts, photos and other material.
+          </li>
+       </ol>
+        
+----
+
 #### Wiki 🎨
 
+We work with ORTE-Backend, a simple, straightforward backend for creating and managing POIs (Point of Interests) - or 'places' ;) - and other data on a map.
+With ORTE backend you can create digital maps for your queer stories.
 In the <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="text-link" target="_blank">Wiki</a>, we put together information that introduces the features and explains how you can use them.
-		
+
 </div>
+
 
 <div class="block">
 
