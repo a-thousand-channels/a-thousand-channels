@@ -154,7 +154,7 @@
 <div id="page">
   <div class="relative flex bg-white bg-a100c-1 min-h-[200px] items-top justify-center sm:items-center sm:pt-0">
       <div class="flex max-h-[650px] lg:max-h-[750px] lg:mt-[-80px] xl:max-h-[800px] 2xl:max-h-[800px]">
-        <video width="100%" autoplay loop muted  playsinline poster="https://github.com/a-thousand-channels/a1000c-assets/blob/main/aThousandChannels_Animation_Banner.jpg?raw=true">
+        <video width="100%" height="initial" autoplay loop muted  playsinline poster="https://github.com/a-thousand-channels/a1000c-assets/blob/main/aThousandChannels_Animation_Banner.jpg?raw=true">
           <source src="https://github.com/a-thousand-channels/a1000c-assets/blob/main/aThousandChannels_Animation_Banner.mp4?raw=true" type="video/mp4">
           Your browser does not support the video tag.
         </video>
