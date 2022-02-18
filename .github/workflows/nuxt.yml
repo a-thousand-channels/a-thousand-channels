@@ -9,8 +9,7 @@ on:
     branches:
       - main
       - feature*
-  workflow_dispatch:
-      - main
+  workflow_dispatch
 
 jobs:
   deployment:
