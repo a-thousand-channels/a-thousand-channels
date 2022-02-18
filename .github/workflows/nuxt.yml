@@ -12,8 +12,6 @@ on:
       - main
       - feature*
   workflow_dispatch:
-    branches:
-      - *
 
 jobs:
   deployment:
