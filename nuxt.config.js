@@ -65,28 +65,30 @@ export default {
             name: 'Deutsch',
             code: 'de',
             iso: 'de-DE',
-            file: 'de-DE.js'
+            file: 'de-DE.js',
+            active: true
           },
           {
             name: 'English',
             code: 'en',
             iso: 'en-US',
-            file: 'en-US.js'
-          }
-          /* ,
+            file: 'en-US.js',
+            active: true
+          },
           {
             name: 'Arabic',
             code: 'ar',
             iso: 'ar-AR',
-            file: 'ar-AR.js'
-          } */
-          /* ,
+            file: 'ar-AR.js',
+            active: false
+          },
           {
             name: 'Espanol',
             code: 'es',
             iso: 'es-ES',
-            file: 'es-ES.js'
-          } */
+            file: 'es-ES.js',
+            active: false
+          }
         ],
         langDir: 'lang/',
         defaultLocale: 'de',

@@ -156,11 +156,12 @@
         </div>
         <div class="flex justify-right ml-auto mt-auto px-2">
 
-         <nuxt-link
+        <nuxt-link
             v-for="locale in $i18n.locales"
+            v-if="locale.active == true"
             :key="locale.code"
             :to="switchLocalePath(locale.code)"
-            class="text-link mr-2 px-1">
+            class="text-link2 mr-2 px-1">
             {{ locale.code }}
           </nuxt-link>
 
@@ -212,8 +213,7 @@ export default {
     return {
       index_de: [],
       index_en: [],
-      index_es: []
-
+      index_es: [],
     }
   },
   methods: {
