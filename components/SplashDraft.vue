@@ -88,6 +88,7 @@
       counter-increment: my-awesome-counter;
       position: relative;
     }
+
     ol li::before {
       content: counter(my-awesome-counter);
       color: #ffffff;
@@ -105,6 +106,13 @@
       border-radius: 50%;
       text-align: center;
       box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06)
+    }
+    ol li::before {
+      /* content: none; */
+    }
+    div.lang_ar ol li::before {
+      left: auto;
+      right:  calc(-1 * var(--size) - 15px);;
     }
 
     hr {
@@ -197,7 +205,6 @@
 
          <nuxt-link
             v-for="locale in $i18n.locales"
-            v-if="locale.active == true"
             :key="locale.code"
             :to="switchLocalePath(locale.code)"
             class="text-link2 mr-2 px-1">

@@ -64,11 +64,11 @@
 
 <div class="block">
   
-### A construction kit 🪜🔧
+### منظومة ١٠٠٠ وسيلة 🔧
   
-With the platform *A 1000 channels*, we provide a construction kit with which you can gather content and media, combine them and relate them to each other – spatially and temporally. <br>
-By clicking on a worldwide map or a search field for addresses, you can create places or events. <br>
-Text fields, uploading images, audio or video give you different ways of telling about the places, events and people who create them. 
+من خلال المنظومة الأساسية لمشروع ١٠٠٠ وسيلة, يتم تقديم مجموعة أدوات يمكنكن / م  من خلالها جمع, دمج وربط المحتوى والوسائط ببعضها البعض - مكانيًا وزمانًيا من خلال البحث في الخريطة المزودة  أو البحث عن عناوين معينة.
+
+هناك امكانيات مختلفة للتوثيق و لتصوير وقائع او احداث من خلال وسائط متعددة كادراج نص و تحميل مقطع صوت / صورة او فيديو بحيث يتم تسجيل الأماكن والأحداث وحتى ذكر الاشخاص او المجموعات المساهمة في ذلك الحدث.
 
 ----
 	
@@ -77,23 +77,19 @@ Text fields, uploading images, audio or video give you different ways of telling
  <div class="column">
 
   
-#### Data protection 🤫
+#### الخصوصية 🤫
 
-We will pay special attention to data protection in the design of the tools. <br>
-Images are automatically freed from metadata. <br>
-We are experimenting with rasterisation of photos to obscure faces and there is to be a function to obscure exact location information. 
+نحن نولي اهمية كبيرة للخصوصية من خلال تصميمنا للمنصة و الادوات. بحيث يتم تجريد الصور تلقائيًا من البيانات الوصفية. كما اننا نستخدم الصور النقطية لإخفاء الوجوه ، وستكون هناك وسيلة لإخفاء معلومات المواقع المدرجة.
+
 
 </div>
 
 <div class="column">
 
 
-#### Map to go 👜
+#### خرائط للتحميل 👜
 
-At the end of each project is the idea of a "map to go". <br>
-In this way, we want to break a permanent dependence on our platform (and our project). <br>
-You can simply take your map with you and publish it on your website, your own server, without having to install any software.
-	
+في نهاية كل عملية ادراج هناك امكانية لتحميل الخرائط و بهذا نود تقليل الاعتماد الدائم على منصتنا (ومشروعنا). يمكنكن / م ببساطة تحميل الخريطة  ونشرها على موقع الويب او السيرفر الخاص ، دون الحاجة إلى تثبيت أي براامج خارجية.
 
 </div>
 </div>
@@ -101,26 +97,25 @@ You can simply take your map with you and publish it on your website, your own s
 
 <div class="block">
           
-<h3> ...and it's as simple as that:</h3>
+<h3>…. سهولة و بساطة العميلة </h3>
           <ol>
             <li>
-              You contact us with your idea. We will clarify together what you need.
+              ١. تواصلن / وا معنا عن الأفكار العملية. سنقوم معًا بتوضيح الامكانيات و المتطلبات
             </li>
             <li>
-              We will set up a log-in for you for the backend. And you're ready to go :)
+              ٢. سنقدم امكانية الوصول للواجهة الخلفية (باك اند) الخاصة بنا, و هناك  يبدأ المشوار :)
             </li>
             <li>
-              You log in and can start creating and linking places, adding texts, photos and other material.
+              ٣. بعد انشاء حساب و تسجيل الدخول يمكن الشروع  بإنشاء وربط الأماكن او إضافة نصوص / صور ووسائط أخرى ….
           </li>
        </ol>
         
 ----
 
-#### Wiki 🎨
+#### ويكي 🎨
 
-We work with ORTE-Backend, a simple, straightforward backend for creating and managing POIs (Point of Interests) - or 'places' ;) - and other data on a map.
-With ORTE backend you can create digital maps for your queer stories.
-In the <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="text-link" target="_blank">Wiki</a>, we put together information that introduces the features and explains how you can use them.
+
+في <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="text-link" target="_blank">ويكي</a> نقوم بتجميع المعلومات التي تقدم و تشرح ميزات الباك اند و كيفة استخدامها “ORTE” الواجهة الخلفية (باك اند) التي نعمل بها هي بسيطة وغير معقدة بحيث يتم إنشاء وإدارة الامكنة او نقاط اخرى من الخرائط حيث توفر هذه الخرائط الرقمية مساحة لسرد القصص الكويرية
 
 </div>
 
