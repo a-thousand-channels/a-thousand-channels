@@ -10,6 +10,7 @@ on:
       - main
       - feature*
   workflow_dispatch:
+      - main
 
 jobs:
   deployment:
