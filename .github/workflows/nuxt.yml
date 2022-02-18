@@ -1,9 +1,22 @@
-name: cd
+name: deployment
 
-on: [push, pull_request,workflow_dispatch]
+on: [push, pull_request, ]
+
+on:
+  push:
+    branches:
+      - main
+      - feature*
+  pull_request:
+    branches:
+      - main
+      - feature*
+  workflow_dispatch:
+    branches:
+      - *
 
 jobs:
-  cd:
+  deployment:
     runs-on: ${{ matrix.os }}
 
     strategy:
