@@ -64,6 +64,19 @@
     p {
       @apply pb-2 pt-2 pl-5 pr-5
     }
+    div.lang_ar h1,
+    div.lang_ar h2,
+    div.lang_ar h3,
+    div.lang_ar h4,
+    div.lang_ar ul,
+    div.lang_ar ul li,
+    div.lang_ar p
+    {
+      direction:  rtl;
+    }
+    h1.lang_ar {
+      direction:  rtl;
+    }
 
     ol {
       padding: 0.5rem 2.25rem 0.5rem 3.25rem;
@@ -194,7 +207,10 @@
       </div>
 
       <div class="mt-8 bg-white overflow-hidden shadow p-6">
-        <h1>
+        <h1 class="lang_ar" v-if="$i18n.locale == 'ar'">
+          ألف وسيلة - منصة  🎁 لرسم و خلق الخرائط 🌎  الكويرية <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-6 inline p-0 pb-1 align-middle" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black.">
+        </h1>
+        <h1 v-else>
           A Thousand Channels –  {{ $t('project_part1') }} <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-6 inline p-0 pb-1 align-middle" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
         </h1>
       </div>
@@ -202,6 +218,14 @@
 <div v-if="$i18n.locale == 'en'">
 
         <nuxt-content :document="index_en" />
+
+</div>
+
+<div v-if="$i18n.locale == 'ar'">
+
+    <div class="lang_ar">
+        <nuxt-content :document="index_ar" />
+    </div>
 
 </div>
 
@@ -275,7 +299,8 @@ export default {
     return {
       index_de: [],
       index_en: [],
-      index_es: []
+      index_es: [],
+      index_ar: []
 
     }
   },
@@ -287,6 +312,7 @@ export default {
   async fetch() {
     this.index_de = await this.$content('index_de', { deep: true }).fetch()
     this.index_en = await this.$content('index_en', { deep: true }).fetch()
+    this.index_ar = await this.$content('index_ar', { deep: true }).fetch()
   }
 
 }
