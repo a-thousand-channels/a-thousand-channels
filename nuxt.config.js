@@ -72,13 +72,14 @@ export default {
             code: 'en',
             iso: 'en-US',
             file: 'en-US.js'
-          },
+          }
+          /* ,
           {
             name: 'Arabic',
             code: 'ar',
             iso: 'ar-AR',
             file: 'ar-AR.js'
-          }
+          } */
           /* ,
           {
             name: 'Espanol',

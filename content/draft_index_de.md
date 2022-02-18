@@ -45,9 +45,16 @@ Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 <div class="block-3">
   <div class="column">
 
+  <div style="float: left">
+    <img src="/a1000c-relations.jpg" class="" width="250" style="padding: 20px 50px 20px 50px; margin: 0 auto;">
+  </div>
+
+  <div style="padding: 80px 0 0 20px;">
+
   #### Past, Present, Future, Fiction
 
   Mit *A 1000 channels* könnt Ihr Vergangenes dokumentieren, Gegenwärtiges aufzeichnen oder einen Blick in Zukünftiges eröffnen, z.B. durch die Sichtbarmachung von imaginären Orten und spekulativen Zukünften, wie wir uns unser queeres Leben vorstellen.
+</div>
   </div>
   </div>
 </div>
@@ -90,6 +97,7 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 
 <div class="block">
 
+<img src="/a1000c-map.jpg" class="" width="300" style="padding: 20px 10px; margin: 0 auto;">
           
 <h3> …und so einfach geht das:</h3>
 <ol>
