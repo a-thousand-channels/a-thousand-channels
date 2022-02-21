@@ -54,8 +54,6 @@ Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
     <img src="/a1000c-relations.jpg" class="" width="100" style="padding: 20px 50px 20px 50px; margin: 0 auto;">
   </div>
   <div class="column">
-  <div style="padding: 80px 0 0 20px;">
-
  <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Icons_Past.png?raw=true" width="90" style="padding: 20px 20px 20px 20px; margin: 0 auto;"> 
 </div>
   <div class="column">
