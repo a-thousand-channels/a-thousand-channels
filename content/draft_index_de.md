@@ -17,7 +17,8 @@ Ihr möchtet queere Geschichten erzählen und kartieren? Ausgehend von Orten, Er
 Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu erzählen und zu dokumentieren. 
 
 ----
-
+ </div>
+ 
 <div class="block-3">
 
   <div class="column">
