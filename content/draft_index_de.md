@@ -6,6 +6,10 @@ Die vielfältigen sozialen und politischen Aktivitäten queerer Menschen sind me
 Mit *A 1000 channels* entwickeln wir eine Plattform , die queeren Akteur*innen, Gruppen, Projekten eine Möglichkeit bietet, von diesen Räumen und Ereignissen zu berichten und sie sichtbar zu machen.
 </div>
 <div class="block">
+	
+	 <div style="float: center">
+    <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Mitmachen!.png?raw=true" class="" width="250" style="padding: 20px 50px 20px 50px; margin: 0 auto;">
+  </div>
 
 ### Mitmachen 🧶📌
 
