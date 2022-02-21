@@ -8,7 +8,8 @@ Mit *A 1000 channels* entwickeln wir eine Plattform , die queeren Akteur*innen, 
 <div class="block">
 	
 
-    <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Mitmachen!.png?raw=true" class="" width="250" style="padding: 20px 50px 20px 50px; margin: 0 auto;">
+<img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Mitmachen!.png?raw=true" width="300" style="padding: 20px 10px; margin: 0 auto;">
+	
   </div>
 
 ### Mitmachen 🧶📌
