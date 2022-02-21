@@ -55,8 +55,8 @@ With *A 1000 channels* we offer you a possibility to tell and document queer his
 </div>
 
 <div class="block">
-        <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Baukasten_Rainbow.png?raw=true" height="100">
- </div>
+        <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Baukasten_Rainbow.png?raw=true" style="width: 300px">
+
 	
 ### A construction kit 🪜🔧
   
