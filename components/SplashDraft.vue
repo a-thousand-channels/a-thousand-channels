@@ -222,6 +222,8 @@
           A Thousand Channels –  {{ $t('project_part1') }} <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-6 inline p-0 pb-1 align-middle" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
         </h1>
       </div>
+      
+
 
 <div v-if="$i18n.locale == 'en'">
 
@@ -239,7 +241,7 @@
 
 <div v-if="$i18n.locale == 'de'" class="">
 
-        <nuxt-content :document="index_de" />
+        <nuxt-content :document="draft_index_de" />
 
 
         <div class="block-2">
@@ -299,7 +301,6 @@
 </template>
 
 
-
 <script>
 
 export default {
@@ -318,6 +319,7 @@ export default {
     }
   },
   async fetch() {
+    this.draft_index_de = await this.$content('draft_index_de', { deep: true }).fetch()
     this.index_de = await this.$content('index_de', { deep: true }).fetch()
     this.index_en = await this.$content('index_en', { deep: true }).fetch()
     this.index_ar = await this.$content('index_ar', { deep: true }).fetch()
