@@ -124,13 +124,15 @@
 
 <img src="/fgtq_all_layers_dark.jpg" class="pb-4 mb-2">
   
-#### Intersections & Constellations. From Gay to Queer
+#### التقاطعات والوقائع, من المثلية الى الكويرية
 
-Since summer 2021, the working group "Queer narratives, mapped" has been working with our platform. <br>
 
-The result is the <a href="https://from-gay-to-queer.net/" class="text-link" target="_blank">map *From Gay To Queer*</a> that tells the story of how queer cultures and alliances have developed from lesbian and gay niches, with a temporal focus on the 1990s and a spatial focus on Bremen. <br>  
 
-From interviews and the collection of flyers, posters, photos and other printed matter, a map has emerged that tells of different, personal perspectives on the emergence of queer communities and coalitions. 
+منذ صيف ٢٠٢١ تعمل جماعة سرديات كويرية, مابد, مع منصتنا.
+
+لقد نتج عن هذا التعاون خريطة <a href="https://from-gay-to-queer.net/" class="text-link" target="_blank">"من المثليية إلى الكويرية"</a> ، والتي تركز على التجارب المكانية في فترة التسعينيات في مدينة بريمن ، بحيث توثق عملية تطور الثقافة المثلية والتحالفات الخاصة بين الكوير.
+
+تم إنشاء خريطة تعبر عن تجارب شخصية مختلفة تتمحور حول ظهور مجتمعات وتحالفات الكوير من خلال توثيق و ارشفة مقابلات / منشورات / صور / ملصقات و وثائق مطبوعة اخرى.
 
 </div>
 
