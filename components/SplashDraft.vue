@@ -241,7 +241,7 @@
 
 <div v-if="$i18n.locale == 'de'" class="">
 
-        <nuxt-content :document="index_de" />
+        <nuxt-content :document="draft_index_de" />
 
 
         <div class="block-2">
@@ -319,6 +319,7 @@ export default {
     }
   },
   async fetch() {
+    this.draft_index_de = await this.$content('draft_index_de', { deep: true }).fetch()
     this.index_de = await this.$content('index_de', { deep: true }).fetch()
     this.index_en = await this.$content('index_en', { deep: true }).fetch()
     this.index_ar = await this.$content('index_ar', { deep: true }).fetch()
