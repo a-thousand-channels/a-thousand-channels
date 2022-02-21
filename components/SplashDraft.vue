@@ -223,7 +223,7 @@
         </h1>
       </div>
       
-      <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Interventions_The%20future%20is%20intersecctional.png?raw=true"height="100"
+      <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Interventions_The%20future%20is%20intersecctional.png?raw=true"height="500"
 
 
 <div v-if="$i18n.locale == 'en'">
