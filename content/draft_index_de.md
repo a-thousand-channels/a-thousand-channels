@@ -68,7 +68,7 @@ Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 	 </div>
   <div class="column">
 	  <div style="padding: 80px 0 0 20px;">
-	  <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Icons_Fiction.png?raw=true" width="100" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
+	  <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Icons_Fiction.png?raw=true" width="110" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
 
 	  
   #### Past, Present, Future, Fiction
