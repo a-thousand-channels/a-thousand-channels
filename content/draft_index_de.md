@@ -56,6 +56,12 @@ Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 
   <div style="padding: 80px 0 0 20px;">
 
+	  <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Icons_Past.png?raw=true" width="250" style="padding: 20px 20px 20px 20px; margin: 0 auto;"> 
+	  <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Icons_Present.png?raw=true" width="250" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
+	  <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Icons-Future.png?raw=true" width="250" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
+	  <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Icons_Fiction.png?raw=true" width="250" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
+	  
+	  
   #### Past, Present, Future, Fiction
 
   Mit *A 1000 channels* könnt Ihr Vergangenes dokumentieren, Gegenwärtiges aufzeichnen oder einen Blick in Zukünftiges eröffnen, z.B. durch die Sichtbarmachung von imaginären Orten und spekulativen Zukünften, wie wir uns unser queeres Leben vorstellen.
@@ -102,7 +108,7 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 
 <div class="block">
 
-<img src="/a1000c-map.jpg" class="" width="300" style="padding: 20px 10px; margin: 0 auto;">
+<img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/MAP2.png?raw=true" class="" width="300" style="padding: 20px 10px; margin: 0 auto;">
           
 <h3> …und so einfach geht das:</h3>
 <ol>
