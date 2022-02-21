@@ -222,6 +222,9 @@
           A Thousand Channels –  {{ $t('project_part1') }} <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-6 inline p-0 pb-1 align-middle" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
         </h1>
       </div>
+      
+      <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Interventions_The%20future%20is%20intersecctional.png?raw=true"height="100"
+
 
 <div v-if="$i18n.locale == 'en'">
 
@@ -298,7 +301,6 @@
 </div>
 </template>
 
-<imgsrc="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Interventions_The%20future%20is%20intersecctional.png?raw=true"height="100"
 
 <script>
 
