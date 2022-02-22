@@ -78,7 +78,7 @@ Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 
 <div class="block">
 
-<img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Baukasten_Rainbow.png?raw=true" class="" width="250" style="padding: 20px 50px 20px 50px; margin: 0 auto;">
+<img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Baukasten_Rainbow.png?raw=true" class="" width="300" style="padding: 20px 50px 20px 50px; margin: 0 auto;">
 	
 ### Ein Baukasten 🪜🔧
 
