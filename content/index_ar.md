@@ -77,7 +77,7 @@
  <div class="column">
 
   
-#### الخصوصية 🤫
+#### الخصوصية <span class="emoji">🤫</span>
 
 نحن نولي اهمية كبيرة للخصوصية من خلال تصميمنا للمنصة و الادوات. بحيث يتم تجريد الصور تلقائيًا من البيانات الوصفية. كما اننا نستخدم الصور النقطية لإخفاء الوجوه ، وستكون هناك وسيلة لإخفاء معلومات المواقع المدرجة.
 
@@ -87,7 +87,7 @@
 <div class="column">
 
 
-#### خرائط للتحميل 👜
+#### خرائط للتحميل <span class="emoji">👜</span>
 
 في نهاية كل عملية ادراج هناك امكانية لتحميل الخرائط و بهذا نود تقليل الاعتماد الدائم على منصتنا (ومشروعنا). يمكنكن / م ببساطة تحميل الخريطة  ونشرها على موقع الويب او السيرفر الخاص ، دون الحاجة إلى تثبيت أي برامج خارجية.
 
@@ -126,8 +126,6 @@
   
 #### التقاطعات والوقائع, من المثلية الى الكويرية
 
-
-
 منذ صيف ٢٠٢١ تعمل جماعة سرديات كويرية, مابد, مع منصتنا.
 
 لقد نتج عن هذا التعاون خريطة <a href="https://from-gay-to-queer.net/" class="text-link" target="_blank">"من المثليية إلى الكويرية"</a> ، والتي تركز على التجارب المكانية في فترة التسعينيات في مدينة بريمن ، بحيث توثق عملية تطور الثقافة المثلية والتحالفات الخاصة بين الكوير.
@@ -138,55 +136,49 @@
 
 <div class="block">
 
+### التفاعل 🎤
 
-### Feedback 🎤
+نرحب بالافكار الخلاقة عن خرائط الكوير و نبحث حاليًا عن الأشخاص المهتمين بأفكار حول الخرائط  بحيث سيتم اختبار و تجريب ما نعمل عليه حاليًا من خلال الممارسة العملية.
 
-If you have an idea for queer mappings, feel free to contact us.
+هل أنتِ/تَ مهتم/ة بالتعاون والتبادل حول التكويد والتصميم الغرافي في السياقات الكويرية؟ أو لديكِ/كَ بعض الوقت لمراجعات الكود / الترجمات و تقييم بعض الاختبارات؟
 
-We are currently looking for people with ideas for mappings to try out what we are just working on in practice.
+سنكون سعداء بتلقي الدعم :) يساعدنا التعفاعل على تحسين مشروعنا و برنامجنا.
 
-Are you interested in collaboration and exchange about coding and design in queer contexts? Or do you have a little time for code reviews, translations and acceptance tests? <br>
-We are happy about support :)
-
-Your feedback helps us to improve the software.
 
 </div>
 
 <div class="block">
 	
-
-### Contact 📪 
+### التواصل 📪
 	
-If you have ideas, questions or are simply interested in the project, please do not hesitate to contact us.
-We speak German, English and Spanish.
+إذا كان مشروعنا مثير للاهتمام و هناك اي أسئلة او أفكار، هناك امكانية للتواصل المباشر بيننا.
+ نحن نتحدث الألمانية والإنكليزية والإسبانية, وسنعمل جاهدين لتوفير ترجمات للغات اخرى لنسهل عملية التواصل.
 
-If you want to contact us in another language, we will find a way to communicate ;)
 
-You can reach us through the following channels:
 
 ----
 
 <div class="block-3">
-
   <div class="column">
   	
   #### E-mail
 
-   Send us an e-mail to <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">hello@a-thousand-channels.xyz</a>
+  <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">hello@a-thousand-channels.xyz</a>
 
   </div>
   <div class="column">
 
   #### Github
 
-   Visit us at <a href="https://github.com/a-thousand-channels/" class="text-link" target="_blank">Github</a>
+   زورانا على جيت هب <a href="https://github.com/a-thousand-channels/" class="text-link" target="_blank">Github</a>
 
   </div>
   <div class="column">
 
-  #### Elements
+  #### Chat
 
-   Or chat with us at <a href="https://matrix.to/#/#a-thousand-channels:matrix.org" class="text-link" target="_blank">Element</a>  
+  ابدؤوا معنا محادثة <a href="https://matrix.to/#/#a-thousand-channels:matrix.org" class="text-link" target="_blank">Element</a>
 	  
+  </div>
 </div>
 
