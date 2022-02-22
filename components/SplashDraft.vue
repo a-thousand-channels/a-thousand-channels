@@ -12,6 +12,9 @@
       background: rgb(255,0,249);
       background: linear-gradient(90deg, rgba(255,0,35,0.15) 0%, rgba(255,0,249,0.15) 50%, rgba(255,117,0,0.15) 100% );
    }
+   .text-white {
+    color:  white;
+   }
    .text-a100c-1, .column h4 {
       font-size: 1.55rem;
       color: #ff6d6d;
@@ -20,6 +23,10 @@
       background-clip: text;
       -webkit-text-fill-color: transparent;
       /* transform: rotate(-1.5deg); */
+   }
+   .column h4 .emoji {
+      background: none;
+      -webkit-text-fill-color: black;
    }
    .column:first-child h4 {
       /* transform: rotate(2.5deg); */
@@ -46,18 +53,19 @@
       text-decoration: none;
       background-image: linear-gradient(120deg, #fde68a 0, #fde68a 100%);
       background-repeat: no-repeat;
-      background-size: 100% 0.2em;
+      background-size: 100% 0.3em;
       background-position: 0 100%;
     }
     h1 {
-      @apply pb-0 pt-1 pl-5 pr-5 text-2xl md:text-3xl font-light leading-8
+      @apply pb-0 pt-1 pl-5 pr-5 text-2xl md:text-3xl font-semibold leading-8
     }
     h3 {
-      @apply pb-4 pt-4 pl-5 pr-5 text-3xl font-normal
+      @apply pb-4 pt-4 pl-5 pr-5 text-3xl  font-semibold
     }
     h4 {
-      @apply pb-0 pt-0 pl-5 pr-5 text-2xl font-light
+      @apply pb-0 pt-0 pl-5 pr-5 text-3xl font-light
     }
+
     .column h4 {
       @apply text-2xl font-bold
     }
@@ -140,7 +148,7 @@
     }
     div.block-2
      {
-      @apply md:flex text-sm pt-4 pb-4
+      @apply md:flex text-sm pt-4 pb-0
     }
     div.block-3
      {
@@ -187,7 +195,7 @@
 <template>
 <div id="page">
   <div class="relative flex bg-white bg-a100c-1 min-h-[200px] items-top justify-center sm:items-center sm:pt-0">
-      <div class="flex max-h-[650px] lg:max-h-[750px] lg:mt-[-80px] xl:max-h-[800px] 2xl:max-h-[800px]">
+      <div class="flex max-h-[650px] lg:max-h-[650px] xl:max-h-[700px] 2xl:max-h-[700px]">
         <video class="" autoplay loop muted  playsinline poster="https://github.com/a-thousand-channels/a1000c-assets/blob/main/aThousandChannels_Animation_Banner.jpg?raw=true">
           <source src="https://github.com/a-thousand-channels/a1000c-assets/blob/main/aThousandChannels_Animation_Banner.mp4?raw=true" type="video/mp4">
           Your browser does not support the video tag.
@@ -207,7 +215,7 @@
             v-for="locale in $i18n.locales"
             :key="locale.code"
             :to="switchLocalePath(locale.code)"
-            class="text-link2 mr-2 px-1">
+            class="text-link2 mr-2 px-1 pb-1 font-semibold drop-shadow-sm shadow-white">
             {{ locale.code }}
           </nuxt-link>
 
@@ -248,17 +256,15 @@
 
           <div class="column">
 
-              <img src="/fgtq_all_layers_dark.jpg" class="pb-1">
+              <img src="/references/a1000c--client--from-gay-to-queer-splash1.jpg" class="pb-1">
 
               <h3>Intersections & Constellations. From Gay to Queer</h3>
 
               <p>
-
-              Seit Sommer 2021 arbeitet die Working group „Queer narratives, mapped“ mit unserer Plattform. <br>
-
+              Die Working group „Queer narratives, mapped“ arbeitet mit unserer Plattform. <br>
               </p>
               <p>
-              Aus dieser Zusammenarbeit ist die <a href="https://from-gay-to-queer.net/" class="text-link" target="_blank">Karte "From Gay to Queer"</a> entstanden, die mit dem zeitlichen Schwerpunkt in den 1990er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben. <br>
+              Daraus ist die <a href="https://from-gay-to-queer.net/" class="text-link" target="_blank">Karte "From Gay to Queer"</a> entstanden, die mit dem zeitlichen Schwerpunkt in den 1990er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben. <br>
               </p>
               <p>
               Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen ist eine Karte entstanden, die von unterschiedlichen, persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt.
@@ -266,22 +272,29 @@
           </div>
           <div class="column">
 
-              <img src="/fgtq_all_layers_dark.jpg" class="pb-1">
+              <img src="/references/a1000c--client--queer-topia-map-front.jpg" class="pb-1">
 
               <h3>„Queer.topia“: Eine reale Utopie in 12 Bildern</h3>
 
               <p>
-              Seit Sommer 2021 arbeitet die Working group „Queer narratives, mapped“ mit unserer Plattform. <br>
+              Während unserer Projektarbeit ist die Karte „Queer.topia. Eine reale Utopie in 12 Bildern“ entstanden.
               </p>
               <p>
-              Aus dieser Zusammenarbeit ist die <a href="https://from-gay-to-queer.net/" class="text-link" target="_blank">Karte "From Gay to Queer"</a> entstanden, die mit dem zeitlichen Schwerpunkt in den 1990er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben. <br>
-              </p>
+                Queer.topia ist ein Kalenderprojekt von Garabatos Atelier. Der Queer.topia-Kalender 2021 zeigt queere* Persönlichkeiten, deren Biografien in vielschichtiger Weise mit Bremen in Berührung stehen an verschiedenen Orten in Bremen und umzu in selbstermächtigenden Fotografien.</p>
               <p>
-              Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen ist eine Karte entstanden, die von unterschiedlichen, persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt.
+                  Die Karte <a href="https://queer-topia.a-thousand-channels.xyz/" class="text-link" target="_blank">„Queer.topia“: Eine reale Utopie in 12 Bildern</a> dokumentiert die Foto-Shootings: die Orte, an denen 2020 die Fotos gemacht wurden und zeigt natürlich die Kalenderbilder.
               </p>
           </div>
         </div>
+        <div class="block">
+          <div class="column">
+          <p>Courious? Try out <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank" class="text-link">our democlient</a> with some sample queer poetry content:</p>
+          <p>
+              <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="bg-red-400 bg-a100c-1-button text-white text-center px-4 py-2 rounded-lg" id="jump">Take a look on our map client</a>
 
+          </p>
+          </div>
+        </div>
       </div>
 
       <div v-if="$i18n.locale == 'es'" class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
@@ -306,6 +319,7 @@
 export default {
   data() {
     return {
+      draft_index_de: [],
       index_de: [],
       index_en: [],
       index_es: [],
@@ -319,7 +333,9 @@ export default {
     }
   },
   async fetch() {
-    this.draft_index_de = await this.$content('draft_index_de', { deep: true }).fetch()
+    this.draft_index_de = await this.$content('draft_index_de', { deep: true }).fetch().catch((err) => {
+     error({ statusCode: 404, message: 'Page not found' })
+    })
     this.index_de = await this.$content('index_de', { deep: true }).fetch()
     this.index_en = await this.$content('index_en', { deep: true }).fetch()
     this.index_ar = await this.$content('index_ar', { deep: true }).fetch()

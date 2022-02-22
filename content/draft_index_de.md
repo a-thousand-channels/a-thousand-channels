@@ -3,25 +3,26 @@
 *A 1000 channels* ist ein Softwareprojekt. Seit September 2021 entwicklen wir eine queere Mappingplattform, mit der queere Narrationen leicht zugänglich auf einer Karte visualisiert und veröffentlicht werden können.
 
 Die vielfältigen sozialen und politischen Aktivitäten queerer Menschen sind meist flüchtig, temporär und kein selbstverständlicher Teil des öffentlichen Bildes einer Stadt. <br>
-Mit *A 1000 channels* entwickeln wir eine Plattform , die queeren Akteur*innen, Gruppen, Projekten eine Möglichkeit bietet, von diesen Räumen und Ereignissen zu berichten und sie sichtbar zu machen.
+Mit *A 1000 channels* entwickeln wir eine Plattform, die queeren Akteur*innen, Gruppen, Projekten eine Möglichkeit bietet, von diesen Räumen und Ereignissen zu berichten und sie sichtbar zu machen.
 </div>
 
- <div style="float: left">
-<img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Mitmachen!.png?raw=true" width="300" style="padding: 50px 10px; margin: 0 auto;">
+<div>
+  <img src="/illustrations/Mitmachen.png?raw=true" width="300" style="padding: 50px 10px; margin: 0 auto;">
+</div>
 
 <div class="block">
 	
 
-<img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Mitmachen!.png?raw=true" width="300" style="padding: 20px 10px; margin: 0 auto;">
+<img src="/illustrations/Mitmachen.png?raw=true" width="300" style="padding: 20px 10px; margin: 0 auto; display: none">
  
 
-### Mitmachen 🧶📌
+### Mitmachen 🧶
 
 Ihr möchtet queere Geschichten erzählen und kartieren? Ausgehend von Orten, Ereignissen, Aktionen, Projekten oder einzelnen Menschen? <br>
-Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu erzählen und zu dokumentieren. 
+Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu erzählen und zu dokumentieren.
 
 ----
- </div>
+
  
 <div class="block-3">
 
@@ -59,18 +60,17 @@ Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
   </div>
 
   <div style="padding: 80px 0 0 20px;">
-
- <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Icons_Past.png?raw=true" width="100" style="padding: 20px 20px 20px 20px; margin: 0 auto;"> 
- </div>
-	  <div style="padding: 80px 0 0 20px;">
-	  <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Icons_Present.png?raw=true" width="100" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
-	   </div>
-	  <div style="padding: 80px 0 0 20px;">
-	  <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Icons-Future.png?raw=true" width="100" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
-	   </div>
-	  <div style="padding: 80px 0 0 20px;">
-	  <img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Icons_Fiction.png?raw=true" width="110" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
-	   </div>
+   <img src="/illustrations/Icons_Past.png?raw=true" width="100" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
+   </div>
+  <div style="padding: 80px 0 0 20px;">
+  <img src="/illustrations/Icons_Present.png?raw=true" width="100" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
+   </div>
+  <div style="padding: 80px 0 0 20px;">
+  <img src="/illustrations/Icons-Future.png?raw=true" width="100" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
+   </div>
+  <div style="padding: 80px 0 0 20px;">
+  <img src="/illustrations/Icons_Fiction.png?raw=true" width="110" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
+   </div>
 	  
   #### Past, Present, Future, Fiction
 
@@ -79,12 +79,12 @@ Mit *A 1000 channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
   </div>
   </div>
 </div>
+<img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="" style="width: 500px;padding: 40px 50px 0 50px; margin: 0 auto;">
 
 <div class="block">
 
-<img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/Baukasten_Rainbow.png?raw=true" class="" width="500" style="padding: 20px 50px 20px 50px; margin: 0 auto;">
-	
-### Ein Baukasten 🪜🔧
+
+### Ein Baukasten 🔧
 
 Mit der Plattform *A 1000 channels* stellen wir einen Baukasten zur Verfügung, mit dem Ihr Inhalte und Medien zusammentragen, kombinieren und untereinander – räumlich und zeitlich – in Bezug setzen könnt. <br>
 Durch Klick auf eine weltweite Karte oder ein Suchfeld für Adressen könnt Ihr Orte oder Ereignisse anlegen. <br>
@@ -98,7 +98,7 @@ Textfelder, der Upload von Bildern, von Audio oder Video geben Euch verschiedene
   <div class="column">
 
 
-#### Datenschutz 🤫
+#### Datenschutz <span class="emoji">🤫</span>
 
 Wir nehmen bei dem Design der Tools besondere Rücksicht auf den Datenschutz. <br>
 Bilder werden automatisch von Metadaten befreit. <br>
@@ -108,7 +108,7 @@ Wir experimentieren mit einer Rasterung von Fotos zur Untkenntlichmachung von Ge
 
   <div class="column">
 
-#### Map to go 👜
+#### Map to go <span class="emoji">👜</span>
 
 Am Ende eines jeden Projektes steht die Idee einer „Map to go“, einer Karte zum Mitnehmen. <br>
 Damit wollen wir eine dauerhafte Abhängigkeit von unserer Platform (und unserem Projekt) auflösen. <br>
@@ -117,10 +117,10 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 </div>
 
 </div>
+<img src="/illustrations/MAP2.png?raw=true" class="" width="250" style="padding: 50px 10px; margin: 0 auto;">
 
 <div class="block">
 
-<img src="https://github.com/a-thousand-channels/a-thousand-channels/blob/main/static/illustrations/MAP2.png?raw=true" class="" width="300" style="padding: 20px 10px; margin: 0 auto;">
           
 <h3> …und so einfach geht das:</h3>
 <ol>
@@ -216,4 +216,5 @@ Ihr könnt uns über folgende Kanäle erreichen:
 
    Oder chattet mit uns bei <a href="https://matrix.to/#/#a-thousand-channels:matrix.org" class="text-link" target="_blank">Element</a>
   	  
+  </div>
 </div>
