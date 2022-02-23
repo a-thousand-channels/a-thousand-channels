@@ -209,7 +209,7 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
   </div>
 
 <div>
- <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-right" style="width: 190px; margin-left: 670px; margin-top: 50px;">
+ <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-right2" style="">
 </div>
 
 

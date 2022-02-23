@@ -139,8 +139,11 @@
     img.illustration.illustration-right {
       @apply py-6 px-4 mx-auto w-[300px] lg:absolute lg:ml-[600px] lg:mt-[-5px] lg:w-[370px]
     }
+    img.illustration.illustration-right2 {
+      @apply pt-12 pb-4 px-4 mx-auto w-[170px] lg:absolute lg:ml-[670px] lg:mt-[50px] lg:w-[190px]
+    }
     img.illustration.illustration-outside-left {
-      @apply hidden py-6 px-4 mx-auto w-[200px] lg:block lg:absolute lg:ml-[-170px] lg:mt-[60px] lg:w-[250px]
+      @apply pt-12 pb-6 px-4 mx-auto w-[200px] lg:block lg:absolute lg:ml-[-170px] lg:mt-[60px] lg:w-[250px]
     }
     img.illustration.illustration-outside-right {
       @apply hidden py-6 px-4 mx-auto w-[200px] lg:block lg:absolute lg:ml-[710px] lg:mt-[545px] lg:w-[190px]
