@@ -144,6 +144,7 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 </div>
 
 
+
 <div class="block">
 
 <img src="https://github.com/a-thousand-channels/a1000c-assets/blob/main/demoweek/orte%20small%20samall%20small.gif?raw=true" title="A screencasts that demonstrates to usage of the backend" class="pb-4 mb-2 mx-auto">
@@ -207,8 +208,12 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
     </div>
   </div>
 
+<div>
+ <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-right" style="width: 190px; margin-left: 670px; margin-top: 50px;">
+</div>
 
-<div class="block">
+
+<div class="block  block-after-illustration">
 	
 	
 ### Feedback 🎤
@@ -224,6 +229,10 @@ Euer Feedback hilft uns, die Software zu verbessern.
 
 </div>
 
+<div>
+ <img src="/illustrations/Spaces.png" class="illustration illustration-outside-left" style="">
+</div>
+
 <div class="block">
 	
 
@@ -232,7 +241,9 @@ Euer Feedback hilft uns, die Software zu verbessern.
 Wenn Ihr Ideen, Fragen oder einfach Interesse an dem Projekt habt, zögert nicht, Kontakt mit uns aufzunehmen.
 Wir sprechen deutsch, englisch und spanisch.
 
+<p style="padding-left: 45px">
 Wenn Ihr in einer anderen Sprache mit uns Kontakt aufnehmen wollt, finden wir einen Weg, wie wir miteinander kommunizieren können ;)
+</p>
 
 Ihr könnt uns über folgende Kanäle erreichen:
 
