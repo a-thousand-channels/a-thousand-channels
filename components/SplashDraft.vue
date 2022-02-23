@@ -133,11 +133,20 @@
       /* 100% made old safaris very confused */
       height: unset;
     }
+    img.illustration.illustration-left {
+      @apply py-6 px-4 mx-auto w-[300px] lg:absolute lg:ml-[-220px] lg:mt-[5px] lg:w-[370px]
+    }
+    img.illustration.illustration-right {
+      @apply py-6 px-4 mx-auto w-[300px] lg:absolute lg:ml-[600px] lg:mt-[-5px] lg:w-[370px]
+    }
     div.block {
       @apply overflow-hidden shadow sm:rounded-sm p-6 mt-5
     }
     div.block.large {
       @apply overflow-hidden shadow sm:rounded-sm text-lg p-6 mt-5
+    }
+    div.block.block-after-illustration {
+      @apply lg:mt-[170px]
     }
     div.block {
       background-color: white;
@@ -215,7 +224,7 @@
             v-for="locale in $i18n.locales"
             :key="locale.code"
             :to="switchLocalePath(locale.code)"
-            class="text-link2 mr-2 px-1 pb-1 font-semibold drop-shadow-sm shadow-white">
+            class="text-link2 mr-2 px-1 pb-1 font-semibold drop-shadow-sm shadow-black text-white">
             {{ locale.code }}
           </nuxt-link>
 

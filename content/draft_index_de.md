@@ -7,10 +7,10 @@ Mit *A 1000 channels* entwickeln wir eine Plattform, die queeren Akteur*innen, G
 </div>
 
 <div>
-  <img src="/illustrations/Mitmachen.png?raw=true" width="300" style="padding: 50px 10px; margin: 0 auto;">
+  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-right">
 </div>
 
-<div class="block">
+<div class="block block-after-illustration">
 	
 
 <img src="/illustrations/Mitmachen.png?raw=true" width="300" style="padding: 20px 10px; margin: 0 auto; display: none">
@@ -79,10 +79,12 @@ Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
   </div>
   </div>
 </div>
-<img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="" style="width: 500px;padding: 40px 50px 0 50px; margin: 0 auto;">
 
-<div class="block">
+<div>
+  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-left">
+</div>
 
+<div class="block block-after-illustration">
 
 ### Ein Baukasten 🔧
 
@@ -117,10 +119,11 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 </div>
 
 </div>
-<img src="/illustrations/MAP2.png?raw=true" class="" width="250" style="padding: 50px 10px; margin: 0 auto;">
+<div>
+<img src="/illustrations/MAP2.png?raw=true" class="illustration illustration-right" style="width: 240px;">
+</div>
 
-<div class="block">
-
+<div class="block block-after-illustration">
           
 <h3> …und so einfach geht das:</h3>
 <ol>
@@ -140,11 +143,18 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 
 <div class="block">
 
+<img src="https://github.com/a-thousand-channels/a1000c-assets/blob/main/demoweek/orte%20small%20samall%20small.gif?raw=true" title="A screencasts that demonstrates to usage of the backend" class="pb-4 mb-2 mx-auto">
+
+----
+
+#### Backend 🎨
+
+Wir arbeiten mit ORTE Backend, ein einfaches, unkompliziertes Backend zum Erstellen und Verwalten von POIs (Point of Interests) – oder 'Orten' ;) – und anderen Daten einer Karte. <br>
+Mit ORTE backend könnt Ihr digitale Karten für Eure queeren Geschichten erstellen.
+
+----
 
 #### Wiki 🎨
-
-Wir arbeiten mit ORTE backend, ein einfaches, unkompliziertes Backend zum Erstellen und Verwalten von POIs (Point of Interests) – oder 'Orten' ;) – und anderen Daten einer Karte. <br>
-Mit ORTE backend könnt Ihr digitale Karten für Eure queeren Geschichten erstellen.
 
 Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="text-link" target="_blank">Wiki</a> stellen wir Informationen zusammen, die die Features vorstellen und erklären, wie Ihr sie nutzen könnt.
 
