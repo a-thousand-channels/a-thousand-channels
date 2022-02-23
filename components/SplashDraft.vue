@@ -139,6 +139,9 @@
     img.illustration.illustration-right {
       @apply py-6 px-4 mx-auto w-[300px] lg:absolute lg:ml-[600px] lg:mt-[-5px] lg:w-[370px]
     }
+    img.illustration.illustration-outside-right {
+      @apply hidden py-6 px-4 mx-auto w-[200px] lg:block lg:absolute lg:ml-[710px] lg:mt-[545px] lg:w-[190px]
+    }
     div.block {
       @apply overflow-hidden shadow sm:rounded-sm p-6 mt-5
     }
@@ -260,61 +263,17 @@
 
         <nuxt-content :document="draft_index_de" />
 
+</div>
 
-        <div class="block-2">
+<div v-if="$i18n.locale == 'es'" class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
+  <p class="mt-3 text-gray-800">
+    <strong>{{ $t('hello') }}</strong>
+  </p>
+  <p class="mt-3 text-gray-800">
+    <em>... Texto siguiente ...</em>
+  </p>
 
-          <div class="column">
-
-              <img src="/references/a1000c--client--from-gay-to-queer-splash1.jpg" class="pb-1">
-
-              <h3>Intersections & Constellations. From Gay to Queer</h3>
-
-              <p>
-              Die Working group „Queer narratives, mapped“ arbeitet mit unserer Plattform. <br>
-              </p>
-              <p>
-              Daraus ist die <a href="https://from-gay-to-queer.net/" class="text-link" target="_blank">Karte "From Gay to Queer"</a> entstanden, die mit dem zeitlichen Schwerpunkt in den 1990er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben. <br>
-              </p>
-              <p>
-              Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen ist eine Karte entstanden, die von unterschiedlichen, persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt.
-              </p>
-          </div>
-          <div class="column">
-
-              <img src="/references/a1000c--client--queer-topia-map-front.jpg" class="pb-1">
-
-              <h3>„Queer.topia“: Eine reale Utopie in 12 Bildern</h3>
-
-              <p>
-              Während unserer Projektarbeit ist die Karte „Queer.topia. Eine reale Utopie in 12 Bildern“ entstanden.
-              </p>
-              <p>
-                Queer.topia ist ein Kalenderprojekt von Garabatos Atelier. Der Queer.topia-Kalender 2021 zeigt queere* Persönlichkeiten, deren Biografien in vielschichtiger Weise mit Bremen in Berührung stehen an verschiedenen Orten in Bremen und umzu in selbstermächtigenden Fotografien.</p>
-              <p>
-                  Die Karte <a href="https://queer-topia.a-thousand-channels.xyz/" class="text-link" target="_blank">„Queer.topia“: Eine reale Utopie in 12 Bildern</a> dokumentiert die Foto-Shootings: die Orte, an denen 2020 die Fotos gemacht wurden und zeigt natürlich die Kalenderbilder.
-              </p>
-          </div>
-        </div>
-        <div class="block">
-          <div class="column">
-          <p>Courious? Try out <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank" class="text-link">our democlient</a> with some sample queer poetry content:</p>
-          <p>
-              <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="bg-red-400 bg-a100c-1-button text-white text-center px-4 py-2 rounded-lg" id="jump">Take a look on our map client</a>
-
-          </p>
-          </div>
-        </div>
-      </div>
-
-      <div v-if="$i18n.locale == 'es'" class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
-        <p class="mt-3 text-gray-800">
-          <strong>{{ $t('hello') }}</strong>
-        </p>
-        <p class="mt-3 text-gray-800">
-          <em>... Texto siguiente ...</em>
-        </p>
-
-      </div>
+</div>
       <Footer></Footer>
 
     </div>

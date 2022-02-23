@@ -10,11 +10,13 @@ Mit *A 1000 channels* entwickeln wir eine Plattform, die queeren Akteur*innen, G
   <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-right">
 </div>
 
-<div class="block block-after-illustration">
-	
+<div>
+ <img src="/illustrations/Interventions_The_future_is_intersectional.png" class="illustration illustration-outside-right">
+</div>
 
-<img src="/illustrations/Mitmachen.png?raw=true" width="300" style="padding: 20px 10px; margin: 0 auto; display: none">
- 
+
+<div class="block block-after-illustration">
+
 
 ### Mitmachen 🧶
 
@@ -55,26 +57,27 @@ Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 <div class="block-3">
   <div class="column">
 
+  <div style="clear:both;">
   <div style="float: left">
-    <img src="/a1000c-relations.jpg" class="" width="250" style="padding: 20px 50px 20px 50px; margin: 0 auto;">
-  </div>
+   <img src="/illustrations/Icons_Past.png?raw=true" width="70" style="padding: 10px; margin: 0 auto;">
+   </div>
+  <div style="float: left">
+  <img src="/illustrations/Icons_Present.png?raw=true" width="70" style="padding: 10px; margin: 0 auto;">
+   </div>
+  <div style="float: left">
+  <img src="/illustrations/Icons-Future.png?raw=true" width="70" style="padding: 10px; margin: 0 auto;">
+   </div>
+  <div style="float: left">
+  <img src="/illustrations/Icons_Fiction.png?raw=true" width="95" style="padding: 10px; margin: 0 auto;">
+   </div>
+ </div>
 
-  <div style="padding: 80px 0 0 20px;">
-   <img src="/illustrations/Icons_Past.png?raw=true" width="100" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
-   </div>
-  <div style="padding: 80px 0 0 20px;">
-  <img src="/illustrations/Icons_Present.png?raw=true" width="100" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
-   </div>
-  <div style="padding: 80px 0 0 20px;">
-  <img src="/illustrations/Icons-Future.png?raw=true" width="100" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
-   </div>
-  <div style="padding: 80px 0 0 20px;">
-  <img src="/illustrations/Icons_Fiction.png?raw=true" width="110" style="padding: 20px 20px 20px 20px; margin: 0 auto;">
-   </div>
+  <div  style="clear:both;">
 	  
   #### Past, Present, Future, Fiction
 
   Mit *A 1000 channels* könnt Ihr Vergangenes dokumentieren, Gegenwärtiges aufzeichnen oder einen Blick in Zukünftiges eröffnen, z.B. durch die Sichtbarmachung von imaginären Orten und spekulativen Zukünften, wie wir uns unser queeres Leben vorstellen.
+</div>
 </div>
   </div>
   </div>
@@ -120,7 +123,7 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 
 </div>
 <div>
-<img src="/illustrations/MAP2.png?raw=true" class="illustration illustration-right" style="width: 240px;">
+<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px">
 </div>
 
 <div class="block block-after-illustration">
@@ -160,19 +163,50 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 
 </div>
 
-<div class="block">
 
-<img src="/fgtq_all_layers_dark.jpg" class="pb-4 mb-2">
+<div class="block-2">
 
-### Intersections & Constellations. From Gay to Queer
+  <div class="column">
 
-Seit Sommer 2021 arbeitet die Working group „Queer narratives, mapped“ mit unserer Plattform. <br>
+  <img src="/references/a1000c--client--from-gay-to-queer-splash1.jpg" class="pb-1">
 
-Aus dieser Zusammenarbeit ist die <a href="https://from-gay-to-queer.net/" class="text-link" target="_blank">Karte "From Gay to Queer"</a> entstanden, die mit dem zeitlichen Schwerpunkt in den 1990er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben. <br>
+  <h3>Intersections & Constellations. From Gay to Queer</h3>
 
-Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen ist eine Karte entstanden, die von unterschiedlichen, persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt.
+  <p>
+  Die Working group „Queer narratives, mapped“ arbeitet mit unserer Plattform. <br>
+  </p>
+  <p>
+  Daraus ist die <a href="https://from-gay-to-queer.net/" class="text-link" target="_blank">Karte "From Gay to Queer"</a> entstanden, die mit dem zeitlichen Schwerpunkt in den 1990er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben. <br>
+  </p>
+  <p>
+  Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen ist eine Karte entstanden, die von unterschiedlichen, persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt.
+  </p>
+  </div>
+  <div class="column">
 
-</div>
+  <img src="/references/a1000c--client--queer-topia-map-front.jpg" class="pb-1">
+
+  <h3>„Queer.topia“: Eine reale Utopie in 12 Bildern</h3>
+
+  <p>
+  Während unserer Projektarbeit ist die Karte „Queer.topia. Eine reale Utopie in 12 Bildern“ entstanden.
+  </p>
+  <p>
+    Queer.topia ist ein Kalenderprojekt von Garabatos Atelier. Der Queer.topia-Kalender 2021 zeigt queere* Persönlichkeiten, deren Biografien in vielschichtiger Weise mit Bremen in Berührung stehen an verschiedenen Orten in Bremen und umzu in selbstermächtigenden Fotografien.</p>
+  <p>
+      Die Karte <a href="https://queer-topia.a-thousand-channels.xyz/" class="text-link" target="_blank">„Queer.topia“: Eine reale Utopie in 12 Bildern</a> dokumentiert die Foto-Shootings: die Orte, an denen 2020 die Fotos gemacht wurden und zeigt natürlich die Kalenderbilder.
+  </p>
+  </div>
+  </div>
+  <div class="block">
+    <div class="column">
+    <p>Curious? We have a democlient with wonderful queer poetry content:</p>
+    <p>
+        <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="bg-red-400 bg-a100c-1-button text-white text-center px-4 py-2 rounded-lg" id="jump">Try out our democlient</a>
+    </p>
+    </div>
+  </div>
+
 
 <div class="block">
 	
