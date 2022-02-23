@@ -118,10 +118,11 @@ Wir experimentieren mit einer Rasterung von Fotos zur Untkenntlichmachung von Ge
 Am Ende eines jeden Projektes steht die Idee einer „Map to go“, einer Karte zum Mitnehmen. <br>
 Damit wollen wir eine dauerhafte Abhängigkeit von unserer Platform (und unserem Projekt) auflösen. <br>
 Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Server veröffentlichen, ohne dass ihr dafür Software installieren müßt.
-	</div>
-</div>
 
 </div>
+</div>
+</div>
+
 <div>
 <img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px">
 </div>
@@ -203,7 +204,7 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
     <div class="column">
     <p>Curious? We have a democlient with wonderful queer poetry content:</p>
     <p>
-        <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="bg-red-400 bg-a100c-1-button text-white text-center px-4 py-2 rounded-lg" id="jump">Try out our democlient</a>
+    <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="bg-red-400 bg-a100c-1-button text-white text-center px-4 py-2 rounded-lg" id="jump">Try out our democlient</a>
     </p>
     </div>
   </div>

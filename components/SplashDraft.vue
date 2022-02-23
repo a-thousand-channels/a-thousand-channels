@@ -56,6 +56,10 @@
       background-size: 100% 0.3em;
       background-position: 0 100%;
     }
+    .bg-a100c-1-button {
+        background: none;
+        background-color: rgba(242, 71, 38, 1);
+     }
     h1 {
       @apply pb-0 pt-1 pl-5 pr-5 text-2xl md:text-3xl font-semibold leading-8
     }
