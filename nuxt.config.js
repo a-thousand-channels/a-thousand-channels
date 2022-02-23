@@ -80,7 +80,7 @@ export default {
             code: 'ar',
             iso: 'ar-AR',
             file: 'ar-AR.js',
-            active: false
+            active: true
           },
           {
             name: 'Espanol',

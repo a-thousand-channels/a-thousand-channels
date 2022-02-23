@@ -231,6 +231,7 @@
 
          <nuxt-link
             v-for="locale in $i18n.locales"
+            v-if="locale.active == true"
             :key="locale.code"
             :to="switchLocalePath(locale.code)"
             class="text-link2 mr-2 px-1 pb-1 font-semibold drop-shadow-sm shadow-black text-white">
