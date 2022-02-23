@@ -16,10 +16,10 @@
         </p>
         <p class="p-0">
           <a href="https://www.bmbf.de/" target="_blank">
-            <img src="BMBF_Logo.svg" class="h-40 inline-block pr-16" alt="Logo des Bundesministeriums für Bildung und Forschung">
+            <img src="/BMBF_Logo.svg" class="h-40 inline-block pr-16" alt="Logo des Bundesministeriums für Bildung und Forschung">
           </a>
           <a href="https://prototypefund.de/" target="_blank">
-            <img src="PrototypeFund_Logo.svg" class="h-28 inline-block" alt="Logo des Prototype Funds">
+            <img src="/PrototypeFund_Logo.svg" class="h-28 inline-block" alt="Logo des Prototype Funds">
           </a>
         </p>
       </div>
