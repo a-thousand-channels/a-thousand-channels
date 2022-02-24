@@ -196,7 +196,7 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
   <p>
     Queer.topia ist ein Kalenderprojekt von Garabatos Atelier. Der Kalender 2021 zeigt in selbstermächtigenden Fotografien queere* Persönlichkeiten, deren Biografien in vielschichtiger Weise mit Bremen in Berührung stehen, an verschiedenen Orten in Bremen und umzu.</p>
   <p>
-      Aus der Arbeit mit unserer Plattform entsteht eine Karte, die mit den Kalenderbildern und zusätzlichem Material aus den Foto-Shootings die Entstehungsgeschichte des Kalenders erzählt und die Orte markiert, an denen die Fotos entstanden sind.
+      Aus der Arbeit mit unserer Plattform ist eine Karte entwickelt worden, die mit den Kalenderbildern und zusätzlichem Material aus den Foto-Shootings die Entstehungsgeschichte des Kalenders erzählt und die Orte markiert, an denen die Fotos entstanden sind.
   </p>
   </div>
   </div>
