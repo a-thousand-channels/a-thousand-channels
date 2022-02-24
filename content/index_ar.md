@@ -173,7 +173,7 @@
 
   <div class="column">
 
-<img src="/references/a1000c--client--from-gay-to-queer-splash1.jpg" class="pb-1">
+<img src="/references/a1000c--client--from-gay-to-queer-splash1.jpg" class="p-4">
   
 ### التقاطعات والوقائع, من المثلية الى الكويرية
 
@@ -186,7 +186,7 @@
 </div>
   <div class="column">
 
-  <img src="/references/a1000c--client--queer-topia-map-front.jpg" class="pb-1">
+  <img src="/references/a1000c--client--queer-topia-map-front.jpg" class="p-6 pb-4">
 
   <h3>„Queer.topia“: Eine reale Utopie in 12 Bildern</h3>
 
