@@ -16,7 +16,7 @@ With *A 1000 channels*, we are developing a platform that offers queer actors, g
 </div>
 
 
-<div class="block block-after-illustration">
+<div class="block block-after-illustration" id="contribute">
 
 ### Take part 🧶
 
@@ -87,7 +87,7 @@ With *A 1000 channels* we offer you a possibility to tell and document queer his
   <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-left">
 </div>
 
-<div class="block block-after-illustration">
+<div class="block block-after-illustration" id="toolbox">
 
 ### A construction kit 🔧
   
@@ -164,7 +164,7 @@ In the <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class=
 
 </div>
 
-<div class="block-2">
+<div class="block-2" id="references">
     <div class="column">
 
 <img src="/references/a1000c--client--from-gay-to-queer-splash1.jpg" class="p-4 pb-4">

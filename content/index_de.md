@@ -15,7 +15,7 @@ Mit *A 1000 channels* entwickeln wir eine Plattform, die queeren Akteur*innen, G
 </div>
 
 
-<div class="block block-after-illustration">
+<div class="block block-after-illustration" id="contribute">
 
 
 ### Mitmachen 🧶
@@ -87,7 +87,7 @@ Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
   <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-left">
 </div>
 
-<div class="block block-after-illustration">
+<div class="block block-after-illustration" id="toolbox">
 
 ### Ein Baukasten 🔧
 
@@ -166,7 +166,7 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 </div>
 
 
-<div class="block-2">
+<div class="block-2" id="references">
   <div class="column">
 
   <img src="/references/a1000c--client--from-gay-to-queer-splash1.jpg" class="p-4 pb-4">
@@ -213,7 +213,7 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 </div>
 
 
-<div class="block  block-after-illustration">
+<div class="block  block-after-illustration" id="feedback">
 	
 	
 ### Feedback 🎤
