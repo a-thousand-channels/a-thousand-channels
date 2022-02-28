@@ -188,15 +188,17 @@ In the <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class=
   <h3>Queer.topia. Eine reale Utopie in 12 Bildern</h3>
 
   <p>
-  Während unserer Projektarbeit ist die <a href="https://queer-topia.a-thousand-channels.xyz/" class="text-link" target="_blank">Karte „Queer.topia. Eine reale Utopie in 12 Bildern“</a> entstanden.
+  During our project work the <a href="https://queer-topia.a-thousand-channels.xyz/" class="text-link" target="_blank">map „Queer.topia. Eine reale Utopie in 12 Bildern“</a> (Queer.topia. A real utopia in 12 images) was created by Garabatos Atelier.
   </p>
   <p>
-    Queer.topia ist ein Kalenderprojekt von Garabatos Atelier. Der Kalender 2021 zeigt in selbstermächtigenden Fotografien queere* Persönlichkeiten, deren Biografien in vielschichtiger Weise mit Bremen in Berührung stehen, an verschiedenen Orten in Bremen und umzu.</p>
+  Queer.topia is a calendar project by Garabatos Atelier. In self-empowering photographs, the 2021 calendar shows queer* personalities whose biographies are connected to Bremen in many different ways, at various locations in Bremen and around.
+</p>
   <p>
-      Aus der Arbeit mit unserer Plattform ist eine Karte entwickelt worden, die mit den Kalenderbildern und zusätzlichem Material aus den Foto-Shootings die Entstehungsgeschichte des Kalenders erzählt und die Orte markiert, an denen die Fotos entstanden sind.
-  </p>
+  From the work with our platform, a map was developed that uses the calendar images and additional material from the photo shoots to tell how the calendar was created and mark the places where the photos were taken.
+ </p>
   </div>
   </div>
+  
   <div class="block">
     <div class="column">
     <p>Curious? We have a democlient with wonderful queer poetry content:</p>
