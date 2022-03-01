@@ -152,7 +152,7 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 
 ----
 
-#### Backend 🎨
+#### Backend 🗺
 
 Wir arbeiten mit ORTE Backend, ein einfaches, unkompliziertes Backend zum Erstellen und Verwalten von POIs (Point of Interests) – oder 'Orten' ;) – und anderen Daten einer Karte. <br>
 Mit ORTE backend könnt Ihr digitale Karten für Eure queeren Geschichten erstellen.
@@ -165,6 +165,11 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 
 </div>
 
+<div class="block block-after-illustration">
+          
+<h3> Zwei Beispiele: From Gay To Queer & Queer.topia 2021 </h3>
+
+</div>
 
 <div class="block-2" id="references">
   <div class="column">
