@@ -24,9 +24,13 @@
       -webkit-text-fill-color: transparent;
       /* transform: rotate(-1.5deg); */
    }
+
    .column h4 .emoji {
       background: none;
       -webkit-text-fill-color: black;
+   }
+   .column h4 svg {
+      display: inline-block;
    }
    .column:first-child h4 {
       /* transform: rotate(2.5deg); */
@@ -39,6 +43,9 @@
      }
    .text-gray-800 {
     color:  #676767;
+   }
+   button svg {
+     display: inline;
    }
     button.text-link,
     a.text-link {

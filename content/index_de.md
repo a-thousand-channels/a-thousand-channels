@@ -165,9 +165,16 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 
 </div>
 
+
+<div>
+ <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-right2" style="">
+</div>
+
 <div class="block block-after-illustration">
           
 <h3> Zwei Beispiele: From Gay To Queer & Queer.topia 2021 </h3>
+
+<p>Mit den Werkzeugen unserer Platform sind zwei spannende queere Mappings entstanden:</p>
 
 </div>
 
@@ -176,7 +183,7 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 
   <img src="/references/a1000c--client--from-gay-to-queer-splash1.jpg" class="p-4 pb-4">
 
-  <h3>Intersections & Constellations. From Gay to Queer</h3>
+  <h3>From Gay to Queer</h3>
 
   <p>
   Die Working group „Queer narratives, mapped“ arbeitet mit unserer Plattform. <br>
