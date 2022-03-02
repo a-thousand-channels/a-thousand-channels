@@ -7,11 +7,11 @@ Mit *A 1000 channels* entwickeln wir eine Plattform, die queeren Akteur*innen, G
 </div>
 
 <div>
-  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-right" title="Eine Zeichnung auf der Hände verschiedener Menschen gemeinsam eine Karte berühren">
+  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-right" alt="Eine Zeichnung auf der Hände verschiedener Menschen gemeinsam eine Karte berühren">
 </div>
 
 <div>
- <img src="/illustrations/Interventions_The_future_is_intersectional.png" class="illustration illustration-outside-right" title="Eine Illustration mit einem Lippenstift und einem Plakat mit Aufschrift 'The future is intersectional'">
+ <img src="/illustrations/Interventions_The_future_is_intersectional.png" class="illustration illustration-outside-right" alt="Eine Illustration mit einem Lippenstift und einem Plakat mit Aufschrift 'The future is intersectional'">
 </div>
 
 
@@ -84,7 +84,7 @@ Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 </div>
 
 <div>
-<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px">
+<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px" alt="">
 </div>
 
 <div class="block block-after-illustration">
