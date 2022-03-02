@@ -66,7 +66,18 @@
     .bg-a100c-1-button {
         background: none;
         background-color: rgba(242, 71, 38, 1);
+        background: -webkit-linear-gradient(120deg,rgba(255,0,35,.75),rgba(255,117,0,.75) 50%,rgba(255,0,249,.75));
      }
+    .bg-a100c-2-button {
+        background: none;
+        background-color: rgba(242, 71, 38, 1);
+        background: -webkit-linear-gradient(70deg,rgba(255,0,35,.75),rgba(255,117,0,.75) 50%,rgba(255,0,249,.75));
+    }
+    .bg-a100c-3-button {
+        background: none;
+        background-color: rgba(242, 71, 38, 1);
+        background: -webkit-linear-gradient(10deg,rgba(255,0,35,.75),rgba(255,117,0,.75) 50%,rgba(255,0,249,.75));
+    }
     h1 {
       @apply pb-0 pt-1 pl-5 pr-5 text-2xl md:text-3xl font-semibold leading-8
     }
@@ -82,6 +93,12 @@
     }
     p {
       @apply pb-2 pt-2 pl-5 pr-5
+    }
+    p.small {
+      @apply text-sm
+    }
+    .column p {
+      @apply pb-2 pt-2 pl-8 pr-5
     }
     div.lang_ar h1,
     div.lang_ar h2,
@@ -144,6 +161,9 @@
       /* 100% made old safaris very confused */
       height: unset;
     }
+    img.illustration.illustration-middle {
+      @apply py-6 px-4 mx-auto w-[160px] lg:w-[200px]
+    }
     img.illustration.illustration-left {
       @apply py-6 px-4 mx-auto w-[300px] lg:absolute lg:ml-[-220px] lg:mt-[5px] lg:w-[370px]
     }
@@ -187,7 +207,7 @@
       background-color: white;
     }
     div.block .column p {
-      @apply px-2 py-2 md:p-2
+      @apply pb-2 pt-2 pl-5 pr-5
     }
     div.block-1 .column {
       @apply  md:flex-1
@@ -260,7 +280,7 @@
           ألف وسيلة - منصة  🎁 لرسم و خلق الخرائط 🌎  الكويرية <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-6 inline p-0 pb-1 align-middle" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black.">
         </h1>
         <h1 v-else>
-          A Thousand Channels –  {{ $t('project_part1') }} <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-6 inline p-0 pb-1 align-middle" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
+          A Thousand Channels –  {{ $t('project_part1') }} <img src="progresiveflagcolor.svg" style="height: 30px; display: inline;" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
         </h1>
       </div>
       
@@ -268,7 +288,7 @@
 
 <div v-if="$i18n.locale == 'en'">
 
-        <nuxt-content :document="index_en" />
+  <nuxt-content :document="index_en" />
 
 </div>
 
@@ -282,17 +302,13 @@
 
 <div v-if="$i18n.locale == 'de'" class="">
 
-        <nuxt-content :document="index_de" />
+  <nuxt-content :document="index_de" />
 
 </div>
 
-<div v-if="$i18n.locale == 'es'" class="mt-8 bg-white overflow-hidden shadow sm:rounded-smX p-6">
-  <p class="mt-3 text-gray-800">
-    <strong>{{ $t('hello') }}</strong>
-  </p>
-  <p class="mt-3 text-gray-800">
-    <em>... Texto siguiente ...</em>
-  </p>
+<div v-if="$i18n.locale == 'es'">
+
+  <nuxt-content :document="index_es" />
 
 </div>
       <Footer></Footer>

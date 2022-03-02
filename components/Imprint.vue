@@ -56,6 +56,12 @@
           </nuxt-link>
         </h1>
       </div>
+
+      <div class="mt-4 bg-white overflow-hidden shadow sm:rounded-md text-sm p-6">
+        <h3 class="text-semibold">Credits</h3>
+        <p>Illustration by Pau*Schwer // Digital Art Work by D. Jaramillo</p>
+        <p>Stopmotion video by Garabatos Atelier</p>
+      </div>
       <div class="mt-4 bg-white overflow-hidden shadow sm:rounded-md text-sm p-6">
         <h3 class="text-semibold">Impressum</h3>
         <p class="text-gray-800">

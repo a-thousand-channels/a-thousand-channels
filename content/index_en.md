@@ -8,11 +8,11 @@ With *A 1000 channels*, we are developing a platform that offers queer actors, g
 </div>
 
 <div>
-  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-right" title="Eine Zeichnung auf der Hände verschiedener Menschen gemeinsam eine Karte berühren">
+  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-right" alt="Eine Zeichnung auf der Hände verschiedener Menschen gemeinsam eine Karte berühren">
 </div>
 
 <div>
- <img src="/illustrations/Interventions_The_future_is_intersectional.png" class="illustration illustration-outside-right" title="Eine Illustration mit einem Lippenstift und einem Plakat mit Aufschrift 'The future is intersectional'">
+ <img src="/illustrations/Interventions_The_future_is_intersectional.png" class="illustration illustration-outside-right" alt="Eine Illustration mit einem Lippenstift und einem Plakat mit Aufschrift 'The future is intersectional'">
 </div>
 
 
@@ -82,6 +82,27 @@ With *A 1000 channels* we offer you a possibility to tell and document queer his
   </div>
 </div>
 
+<div>
+<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px">
+</div>
+
+<div class="block block-after-illustration">
+
+<h3> ...and it's as simple as that:</h3>
+<ol>
+  <li>
+    If you would like to create your own map, please contact us! We will clarify with you what you need.
+  </li>
+  <li>
+    We will set up a log-in for you for the backend. And you're ready to go :)
+  </li>
+  <li>
+    You log in and can start creating and linking places, adding texts, photos and other material.
+</li>
+</ol>
+
+</div>
+
 
 <div>
   <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-left">
@@ -90,23 +111,23 @@ With *A 1000 channels* we offer you a possibility to tell and document queer his
 <div class="block block-after-illustration" id="toolbox">
 
 ### A construction kit 🔧
-  
+
 With the platform *A 1000 channels*, we provide a construction kit with which you can gather content and media, combine them and relate them to each other – spatially and temporally. <br>
 By clicking on a worldwide map or a search field for addresses, you can create places or events. <br>
-Text fields, uploading images, audio or video give you different ways of telling about the places, events and people who create them. 
+Text fields, uploading images, audio or video give you different ways of telling about the places, events and people who create them.
 
 ----
-	
+
 <div class="block-3">
 
  <div class="column">
 
-  
+
 #### Data protection <span class="emoji">🤫</span>
 
 We will pay special attention to data protection in the design of the tools. <br>
 Images are automatically freed from metadata. <br>
-We are experimenting with rasterisation of photos to obscure faces and there is to be a function to obscure exact location information. 
+We are experimenting with rasterisation of photos to obscure faces and there is to be a function to obscure exact location information.
 
 </div>
 
@@ -118,31 +139,10 @@ We are experimenting with rasterisation of photos to obscure faces and there is 
 At the end of each project is the idea of a "map to go". <br>
 In this way, we want to break a permanent dependence on our platform (and our project). <br>
 You can simply take your map with you and publish it on your website, your own server, without having to install any software.
-	
+
 
 </div>
 </div>
-</div>
-
-<div>
-<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px">
-</div>
-
-<div class="block block-after-illustration">
-
-<h3> ...and it's as simple as that:</h3>
-<ol>
-  <li>
-    You contact us with your idea. We will clarify together what you need.
-  </li>
-  <li>
-    We will set up a log-in for you for the backend. And you're ready to go :)
-  </li>
-  <li>
-    You log in and can start creating and linking places, adding texts, photos and other material.
-</li>
-</ol>
-
 </div>
 
 <div class="block">
@@ -164,8 +164,22 @@ In the <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class=
 
 </div>
 
-<div class="block-2" id="references">
-    <div class="column">
+
+<div>
+ <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-right2" style="">
+</div>
+
+<div class="block block-after-illustration" id="references">
+
+<h3> Zwei Beispiele: From Gay To Queer & Queer.topia 2021 </h3>
+
+<p>Mit den Werkzeugen unserer Platform sind zwei spannende queere Mappings entstanden:</p>
+
+</div>
+
+<div class="block-2" >
+  <div class="column">
+
 
 <img src="/references/a1000c--client--from-gay-to-queer-splash1.jpg" class="p-4 pb-4">
   
@@ -199,13 +213,20 @@ In the <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class=
   </div>
   </div>
   
-  <div class="block">
+ <div class="block">
     <div class="column">
-    <p>Curious? We have a democlient with wonderful queer poetry content:</p>
+    <p>Curious? We have a democlient with <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="text-link" id="jump">wonderful queer poetry</a>.</p>
     <p>
-    <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="bg-red-400 bg-a100c-1-button text-white text-center px-4 py-2 rounded-lg" id="jump">Try out our democlient</a>
+      If you want to add a poem to make the map grow further, contact us:
     </p>
-    </div>
+    <p>
+      <a href="mailto:hello@a-thousand-channels.xyz?subject=I%20want%20to%20add%20a%20poem" target="_blank" class="bg-a100c-1-button text-white text-center px-4 py-2 rounded-lg" id="jump">I want to add a poem</a>
+    </p>
+    <p class="small text-gray-800">
+       We will create a log-in for you for the backend.
+       So that you can put the poem online yourself and at the same time make your first experiences in the ORTE Backend.
+    </p>
+  </div>
   </div>
 
 <div class="block">

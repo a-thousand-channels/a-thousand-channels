@@ -84,28 +84,6 @@ Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 </div>
 
 <div>
-<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px">
-</div>
-
-<div class="block block-after-illustration">
-
-<h3> …und so einfach geht das:</h3>
-<ol>
-  <li>
-    Wenn Ihr eine eigene Karte erstellen möchtet, meldet Euch bei uns!
-    Wir klären mit Euch gemeinsam, was Ihr braucht.
-  </li>
-  <li>
-    Wir richten Euch einen Log-In ein für das Backend. Und schon kann es losgehen :)
-  </li>
-  <li>
-    Ihr loggt euch ein und könnt anfangen Orte anzulegen und zu verknüpfen, Texte, Fotos und anderes Material hinzufügen.
-  </li>
-</ol>
-
-</div>
-
-<div>
   <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-left">
 </div>
 
@@ -143,27 +121,48 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 
 </div>
 </div>
+</div>
 
-----
+<div>
+<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px">
+</div>
+
+<div class="block block-after-illustration">
+          
+<h3> …und so einfach geht das:</h3>
+<ol>
+  <li>
+    Ihr meldet Euch bei uns mit Eurer Idee. Wir klären gemeinsam, was Ihr braucht/was Euer Bedarf ist.
+  </li>
+  <li>
+    Wir richten Euch einen Log-In ein für das Backend. Und schon kann es losgehen :)
+  </li>
+  <li>
+    Ihr loggt euch ein und könnt anfangen Orte anzulegen und zu verknüpfen, Texte, Fotos und anderes Material hinzufügen.
+  </li>
+</ol>
+
+</div>
+
+
+
+<div class="block">
 
 <img src="https://github.com/a-thousand-channels/a1000c-assets/blob/main/demoweek/orte%20small%20samall%20small.gif?raw=true" title="A screencasts that demonstrates to usage of the backend" class="pb-4 mb-2 mx-auto">
 
-<div class="column">
+----
 
-
-#### Backend <span class="emoji">🌎</span>
+#### Backend 🗺
 
 Wir arbeiten mit ORTE Backend, ein einfaches, unkompliziertes Backend zum Erstellen und Verwalten von POIs (Point of Interests) – oder 'Orten' ;) – und anderen Daten einer Karte. <br>
 Mit ORTE backend könnt Ihr digitale Karten für Eure queeren Geschichten erstellen.
 
 ----
 
-#### Wiki <span class="emoji">🎨</span>
+#### Wiki 🎨
 
 Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="text-link" target="_blank">Wiki</a> stellen wir Informationen zusammen, die die Features vorstellen und erklären, wie Ihr sie nutzen könnt.
 
-
-</div>
 </div>
 
 
@@ -171,7 +170,7 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
  <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-right2" style="">
 </div>
 
-<div class="block block-after-illustration" id="references">
+<div class="block block-after-illustration">
           
 <h3> Zwei Beispiele: From Gay To Queer & Queer.topia 2021 </h3>
 
@@ -179,7 +178,7 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 
 </div>
 
-<div class="block-2" >
+<div class="block-2" id="references">
   <div class="column">
 
   <img src="/references/a1000c--client--from-gay-to-queer-splash1.jpg" class="p-4 pb-4">
@@ -216,23 +215,25 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
   <div>
 
   </div>
-
   <div class="block">
     <div class="column">
-    <p>Neugierig? Wir haben einen Democlient mit <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="text-link" id="jump">wunderbaren queeren Gedichten</a>.</p>
+    <p>Curious? We have a democlient with <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="text-link" id="jump">wonderful queer poetry content</a></p>
     <p>
-      Wenn Ihr ein Gedicht hinzufügen möchtet, damit die Karte weiter wächst, kontaktiert uns:
+      If you want to add a poem to make the map grow further, contact us:
     </p>
     <p>
-      <a href="mailto:hello@a-thousand-channels.xyz?subject=Ich%20möchte%20ein%20Gedicht%20hinzufügen" target="_blank" class="bg-a100c-1-button text-white text-center px-4 py-2 rounded-lg" id="jump">Ich möchte ein Gedicht hinzufügen</a>
+      <a href="https://orte-backend-staging.a-thousand-channels.xyz/" target="_blank" class="bg-a100c-1-button text-white text-center px-4 py-2 rounded-lg" id="jump">I want to add a poem</a>
     </p>
-    <p class="small text-gray-800">
-      Wir legen Euch einen Log-in für das Backend an.
-      Damit könnt Ihr das Gedicht selbst online stellen und gleichzeitig erste Erfahrungen im ORTE-Backend machen.
+    <hr />
+    <p>Excited? Do you want to do your own mappings? Visit our backend and apply for an account</p>
+    <p>
+    <a href="https://orte-backend-staging.a-thousand-channels.xyz/" target="_blank" class="bg-a100c-2-button text-white text-center px-4 py-2 rounded-lg" id="jump">I want to start a queer mapping</a>
+    </p>
+    <p class="small text-gray-800 ">
+      We will create a log-in for you for the backend. With this you can put the poem online yourself and at the same time make your first experiences in the ORTE backend.
     </p>
   </div>
   </div>
-
 
 <div class="block" id="feedback">
 	
