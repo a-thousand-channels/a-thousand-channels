@@ -59,8 +59,8 @@
 
       <div class="mt-4 bg-white overflow-hidden shadow sm:rounded-md text-sm p-6">
         <h3 class="text-semibold">Credits</h3>
-        <p>Illustration by Pau*Schwer // Digital Art Work by D. Jaramillo</p>
-        <p>Stopmotion video by Garabatos Atelier</p>
+        <p>Illustration by <a href="https://www.instagram.com/btch_delabutch/" class="text-link">Pau*Schwer</a> // Digital Art Work by <a href="https://www.instagram.com/daphne.jaramillo/" class="text-link">D. Jaramillo</a></p>
+        <p>Stopmotion video by <a href="https://www.instagram.com/garabatos.atelier/" class="text-link">Garabatos Atelier</a> </p>
       </div>
       <div class="mt-4 bg-white overflow-hidden shadow sm:rounded-md text-sm p-6">
         <h3 class="text-semibold">Impressum</h3>
