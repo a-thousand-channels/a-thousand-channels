@@ -1,9 +1,9 @@
 <div class="block large">
 
-*A 1000 channels* ist ein Softwareprojekt. Seit September 2021 entwicklen wir eine queere Mappingplattform, mit der queere Narrationen leicht zugänglich auf einer Karte visualisiert und veröffentlicht werden können.
+A 1000 channels es un proyecto de software. Desde septiembre de 2021 estamos desarrollando una plataforma de cartografía queer con la que se pueden publicar y visualizar en un mapa narraciones queer de forma sencilla.
+Las actividades sociales y políticas de las personas queer suelen ser, además de muy variadas, también muy efímeras y temporales y no forman parte de la imagen pública de una ciudad.
 
-Die vielfältigen sozialen und politischen Aktivitäten queerer Menschen sind meist flüchtig, temporär und kein selbstverständlicher Teil des öffentlichen Bildes einer Stadt. <br>
-Mit *A 1000 channels* entwickeln wir eine Plattform, die queeren Akteur*innen, Gruppen, Projekten eine Möglichkeit bietet, von diesen Räumen und Ereignissen zu berichten und sie sichtbar zu machen.
+Con A 1000 channels estamos desarrollando una plataforma que ofrece a grupos, proyectos y personas queer la posibilidad de informar sobre sus actividades y espacios y hacerlos más visibles.
 </div>
 
 <div>
