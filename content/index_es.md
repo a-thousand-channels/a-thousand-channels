@@ -245,16 +245,15 @@ Vuestros comentarios nos ayudan a mejorar el software.
 <div class="block">
 	
 
-### Kontakt 📪 
+### Contacto 📪 
 	
-Wenn Ihr Ideen, Fragen oder einfach Interesse an dem Projekt habt, zögert nicht, Kontakt mit uns aufzunehmen.
-Wir sprechen deutsch, englisch und spanisch.
+Si tenéis ideas, preguntas o simplemente os interesa el proyecto, no dudéis en contactarnos. Hablamos alemán, inglés y español
 
 <p style="padding-left: 45px">
-Wenn Ihr in einer anderen Sprache mit uns Kontakt aufnehmen wollt, finden wir einen Weg, wie wir miteinander kommunizieren können ;)
+Si habláis cualquier otro idioma, encontraremos la manera de comunicarnos ;)
 </p>
 
-Ihr könnt uns über folgende Kanäle erreichen:
+Nos encontraréis en los siguientes canales:
 
 ----
 
@@ -264,7 +263,7 @@ Ihr könnt uns über folgende Kanäle erreichen:
 
   #### <a href="mailto:hello@a-thousand-channels.xyz">E-mail</a> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="21" height="21"><path fill="none" d="M0 0h24v24H0z"/><path d="M22 20.007a1 1 0 0 1-.992.993H2.992A.993.993 0 0 1 2 20.007V19h18V7.3l-8 7.2-10-9V4a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v16.007zM4.434 5L12 11.81 19.566 5H4.434zM0 15h8v2H0v-2zm0-5h5v2H0v-2z"/></svg>
 
-   Schreibt uns eine <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">E-Mail</a>
+   SEscribidnos un E-Mail a <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">E-Mail</a>
 
   </div>
   <div class="column">
@@ -278,13 +277,13 @@ Ihr könnt uns über folgende Kanäle erreichen:
 
   #### <a href="https://github.com/a-thousand-channels/" target="_blank">Github</a> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M5.883 18.653c-.3-.2-.558-.455-.86-.816a50.32 50.32 0 0 1-.466-.579c-.463-.575-.755-.84-1.057-.949a1 1 0 0 1 .676-1.883c.752.27 1.261.735 1.947 1.588-.094-.117.34.427.433.539.19.227.33.365.44.438.204.137.587.196 1.15.14.023-.382.094-.753.202-1.095C5.38 15.31 3.7 13.396 3.7 9.64c0-1.24.37-2.356 1.058-3.292-.218-.894-.185-1.975.302-3.192a1 1 0 0 1 .63-.582c.081-.024.127-.035.208-.047.803-.123 1.937.17 3.415 1.096A11.731 11.731 0 0 1 12 3.315c.912 0 1.818.104 2.684.308 1.477-.933 2.613-1.226 3.422-1.096.085.013.157.03.218.05a1 1 0 0 1 .616.58c.487 1.216.52 2.297.302 3.19.691.936 1.058 2.045 1.058 3.293 0 3.757-1.674 5.665-4.642 6.392.125.415.19.879.19 1.38a300.492 300.492 0 0 1-.012 2.716 1 1 0 0 1-.019 1.958c-1.139.228-1.983-.532-1.983-1.525l.002-.446.005-.705c.005-.708.007-1.338.007-1.998 0-.697-.183-1.152-.425-1.36-.661-.57-.326-1.655.54-1.752 2.967-.333 4.337-1.482 4.337-4.66 0-.955-.312-1.744-.913-2.404a1 1 0 0 1-.19-1.045c.166-.414.237-.957.096-1.614l-.01.003c-.491.139-1.11.44-1.858.949a1 1 0 0 1-.833.135A9.626 9.626 0 0 0 12 5.315c-.89 0-1.772.119-2.592.35a1 1 0 0 1-.83-.134c-.752-.507-1.374-.807-1.868-.947-.144.653-.073 1.194.092 1.607a1 1 0 0 1-.189 1.045C6.016 7.89 5.7 8.694 5.7 9.64c0 3.172 1.371 4.328 4.322 4.66.865.097 1.201 1.177.544 1.748-.192.168-.429.732-.429 1.364v3.15c0 .986-.835 1.725-1.96 1.528a1 1 0 0 1-.04-1.962v-.99c-.91.061-1.662-.088-2.254-.485z"/></svg>
 
-  Besucht uns bei  <a href="https://github.com/a-thousand-channels/" class="text-link" target="_blank">Github</a>
+  Visitadnos en  <a href="https://github.com/a-thousand-channels/" class="text-link" target="_blank">Github</a>
 
   </div>
   <div class="column">
 
   #### <a href="https://matrix.to/#/#a-thousand-channels:matrix.org" target="_blank">Element</a> <svg width="20" height="20" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M19.4414 3.24C19.4414 1.4506 20.892 0 22.6814 0C34.6108 0 44.2814 9.67065 44.2814 21.6C44.2814 23.3894 42.8308 24.84 41.0414 24.84C39.252 24.84 37.8014 23.3894 37.8014 21.6C37.8014 13.2494 31.032 6.48 22.6814 6.48C20.892 6.48 19.4414 5.0294 19.4414 3.24Z" fill="#000000"/><path fill-rule="evenodd" clip-rule="evenodd" d="M34.5586 50.76C34.5586 52.5494 33.108 54 31.3186 54C19.3893 54 9.71861 44.3294 9.71861 32.4C9.71861 30.6106 11.1692 29.16 12.9586 29.16C14.748 29.16 16.1986 30.6106 16.1986 32.4C16.1986 40.7505 22.9681 47.52 31.3186 47.52C33.108 47.52 34.5586 48.9706 34.5586 50.76Z" fill="#000000"/><path fill-rule="evenodd" clip-rule="evenodd" d="M3.24 34.5601C1.4506 34.5601 -6.34076e-08 33.1095 -1.41625e-07 31.3201C-6.63074e-07 19.3907 9.67065 9.72007 21.6 9.72007C23.3894 9.72007 24.84 11.1707 24.84 12.9601C24.84 14.7495 23.3894 16.2001 21.6 16.2001C13.2495 16.2001 6.48 22.9695 6.48 31.3201C6.48 33.1095 5.0294 34.5601 3.24 34.5601Z" fill="#000000"/><path fill-rule="evenodd" clip-rule="evenodd" d="M50.76 19.4399C52.5494 19.4399 54 20.8905 54 22.6799C54 34.6093 44.3294 44.2799 32.4 44.2799C30.6106 44.2799 29.16 42.8293 29.16 41.0399C29.16 39.2505 30.6106 37.7999 32.4 37.7999C40.7505 37.7999 47.52 31.0305 47.52 22.6799C47.52 20.8905 48.9706 19.4399 50.76 19.4399Z" fill="#000000"/></svg>
 
-  Oder chattet mit uns bei <a href="https://matrix.to/#/#a-thousand-channels:matrix.org" class="text-link" target="_blank">Element</a>
+  O podemos chatear en <a href="https://matrix.to/#/#a-thousand-channels:matrix.org" class="text-link" target="_blank">Element</a>
 
 </div>
