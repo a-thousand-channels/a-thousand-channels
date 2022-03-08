@@ -18,10 +18,10 @@ Con A 1000 channels estamos desarrollando una plataforma que ofrece a grupos, pr
 <div class="block block-after-illustration" id="contribute">
 
 
-### Mitmachen 🧶
+### Colaborar 🧶
 
-Ihr möchtet queere Geschichten erzählen und kartieren? Ausgehend von Orten, Ereignissen, Aktionen, Projekten oder einzelnen Menschen? <br>
-Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu erzählen und zu dokumentieren.
+¿Queréis contar y cartografiar historias queer partiendo de ciertos lugares, sucesos, acciones, proyectos o personas? 
+Con A 1000 channels os ofrecemos la posibilidad de contar y documentar historias queer.
 
 ----
 
@@ -30,23 +30,22 @@ Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 
   <div class="column">
 
-  #### Spaces
+  #### Espacios
 
-  Dies können die alternative queere Kneipenkultur in einer bestimmten Stadt während einer bestimmten Zeit sein. Oder auch – persönlicher – Geschichten, Erlebnisse, Orte eines oder mehrerer Menschen …
+  Pueden ser los bares queer alternativos en una ciudad concreta durante una época determinada, historias (personales), vivencias, lugares significativos para una o varias personas...
+  </div>
+  <div class="column">
+
+  #### Intervenciones
+
+  Acciones y manifestaciones de un movimiento político, intervenciones en un espacio público, protestas espontáneas, movilizaciones...
 
   </div>
   <div class="column">
 
-  #### Interventions
+  #### Relaciones
 
-  … Aktionen und Demonstrationen einer politischen Bewegung, räumliche Interventionen, spontane Proteste, öffentliche Kundgebungen.
-
-  </div>
-  <div class="column">
-
-  #### Relations
-
-  Ereignisse, Orte, Erzählungen können miteinander in Verbindung gesetzt werden. So entstehen räumliche, zeitliche oder assoziative Konstellationen.
+  Se pueden poner en relación sucesos, lugares y narraciones. De esta manera, surgen constelaciones espaciales, temporales y asociativas.
 
   </div>
 </div>
@@ -74,9 +73,9 @@ Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 
   <div style="clear:both;">
 	  
-  #### Past, Present, Future, Fiction
+  #### Pasado, presente, futuro, ficción
 
-  Mit *A 1000 channels* könnt Ihr Vergangenes dokumentieren, Gegenwärtiges aufzeichnen oder einen Blick in Zukünftiges eröffnen, z.B. durch die Sichtbarmachung von imaginären Orten und spekulativen Zukünften, wie wir uns unser queeres Leben vorstellen.
+ Con A 1000 channels podéis documentar el pasado, registrar el presente o esbozar el futuro, por ejemplo, dando visibilidad a lugares imaginarios y posibles futuros de cómo nos imaginamos nuestra vida queer.
 </div>
 </div>
   </div>
