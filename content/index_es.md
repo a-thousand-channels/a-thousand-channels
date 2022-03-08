@@ -88,11 +88,11 @@ Con A 1000 channels os ofrecemos la posibilidad de contar y documentar historias
 
 <div class="block block-after-illustration" id="toolbox">
 
-### Ein Baukasten 🔧
+### Un módulo 🔧
 
-Mit der Plattform *A 1000 channels* stellen wir einen Baukasten zur Verfügung, mit dem Ihr Inhalte und Medien zusammentragen, kombinieren und untereinander – räumlich und zeitlich – in Bezug setzen könnt. <br>
-Durch Klick auf eine weltweite Karte oder ein Suchfeld für Adressen könnt Ihr Orte oder Ereignisse anlegen. <br>
-Textfelder, der Upload von Bildern, von Audio oder Video geben Euch verschiedene Möglichkeiten, wie Ihr von den Orten, Ereignissen und den Menschen, die diese erschaffen, erzählen wollt. 
+Con la plataforma A 1000 channels ponemos a vuestra disposición un módulo en el que podéis incluir contenidos y medios, combinarlos y ponerlos en relación (física y temporal).
+Haciendo clic en un mapamundi o en el campo de búsqueda de direcciones, podéis introducir lugares o sucesos.
+El campo de texto o la función para subir fotos, audios o vídeos os ofrecen diferentes posibilidades para crear a vuestra manera narraciones sobre lugares, sucesos o personas.
 
 ----
 	
@@ -102,11 +102,11 @@ Textfelder, der Upload von Bildern, von Audio oder Video geben Euch verschiedene
   <div class="column">
 
 
-#### Datenschutz <span class="emoji">🤫</span>
+#### Protección de datos <span class="emoji">🤫</span>
 
-Wir nehmen bei dem Design der Tools besondere Rücksicht auf den Datenschutz. <br>
-Bilder werden automatisch von Metadaten befreit. <br>
-Wir experimentieren mit einer Rasterung von Fotos zur Untkenntlichmachung von Gesichtern und es soll eine Funktion geben, genaue Ortsangaben zu verschleiern. 
+A la hora de desarrollar las herramientas, ponemos especial cuidado en la protección de datos.
+Los metadatos de las imágenes se eliminan automáticamente.
+Estamos experimentando con la rasterización de fotos para hacer las caras irreconocibles y habrá una función para ocultar la dirección concreta de los sitios. 
 
   </div>
 
@@ -114,9 +114,9 @@ Wir experimentieren mit einer Rasterung von Fotos zur Untkenntlichmachung von Ge
 
 #### Map to go <span class="emoji">👜</span>
 
-Am Ende eines jeden Projektes steht die Idee einer „Map to go“, einer Karte zum Mitnehmen. <br>
-Damit wollen wir eine dauerhafte Abhängigkeit von unserer Platform (und unserem Projekt) auflösen. <br>
-Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Server veröffentlichen, ohne dass ihr dafür Software installieren müßt.
+Al final de cada proyecto existe la posibilidad de hacer un “Map to go”, un mapa para llevar.
+Con esto queremos evitar la dependencia a largo plazo de nuestra plataforma (y de nuestro proyecto).
+Podéis llevaros vuestro mapa y publicarlo en vuestra página web o en vuestro propio servidor sin tener que instalar ningún tipo de software.
 
 </div>
 </div>
@@ -128,16 +128,16 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 
 <div class="block block-after-illustration">
           
-<h3> …und so einfach geht das:</h3>
+<h3> …y es así de sencillo: </h3>
 <ol>
   <li>
-    Ihr meldet Euch bei uns mit Eurer Idee. Wir klären gemeinsam, was Ihr braucht/was Euer Bedarf ist.
+    Poneos en contacto con nosotros y contadnos vuestra idea. Aclaramos qué necesitáis/cuáles son vuestras necesidades.
   </li>
   <li>
-    Wir richten Euch einen Log-In ein für das Backend. Und schon kann es losgehen :)
+    Os creamos una cuenta de acceso para el Backend. Y ya podéis empezar :)
   </li>
   <li>
-    Ihr loggt euch ein und könnt anfangen Orte anzulegen und zu verknüpfen, Texte, Fotos und anderes Material hinzufügen.
+    Iniciáis la sesión y podéis empezar a crear y conectar lugares y a añadir textos, fotos y todo el material que queráis.
   </li>
 </ol>
 
@@ -151,16 +151,11 @@ Ihr könnt Eure Karte einfach mitnehmen und auf Eurer Website, Eurem eigenen Ser
 
 ----
 
-#### Backend 🗺
+#### Backend & Wiki 🗺 🎨
 
-Wir arbeiten mit ORTE Backend, ein einfaches, unkompliziertes Backend zum Erstellen und Verwalten von POIs (Point of Interests) – oder 'Orten' ;) – und anderen Daten einer Karte. <br>
-Mit ORTE backend könnt Ihr digitale Karten für Eure queeren Geschichten erstellen.
-
-----
-
-#### Wiki 🎨
-
-Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="text-link" target="_blank">Wiki</a> stellen wir Informationen zusammen, die die Features vorstellen und erklären, wie Ihr sie nutzen könnt.
+Trabajamos con el backend ORTE (lugares, en alemán), un backend sencillo y poco complicado para crear y gestionar POIs (Point of Interests) – o 'lugares' ;) – y otros tipos de datos en un mapa. 
+Con el backend ORTE podéis crear mapas digitales para vuestras historias queer.
+En la Wiki recopilamos información sobre las funciones y sobre cómo usarlas.
 
 </div>
 
@@ -171,9 +166,9 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 
 <div class="block block-after-illustration">
           
-<h3> Zwei Beispiele: From Gay To Queer & Queer.topia 2021 </h3>
+<h3> Dos ejemplos: From Gay To Queer & Queer.topia 2021 </h3>
 
-<p>Mit den Werkzeugen unserer Platform sind zwei spannende queere Mappings entstanden:</p>
+<p>Se crearon dos emocionantes mapeos queer con las herramientas de nuestra plataforma:</p>
 
 </div>
 
@@ -185,28 +180,21 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
   <h3>From Gay to Queer</h3>
 
   <p>
-  Die Working group „Queer narratives, mapped“ arbeitet mit unserer Plattform. <br>
-  </p>
-  <p>
-  Daraus ist die <a href="https://from-gay-to-queer.net/" class="text-link" target="_blank">Karte "From Gay to Queer"</a> entstanden, die mit dem zeitlichen Schwerpunkt in den 1990er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben. <br>
-  </p>
-  <p>
-  Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen ist eine Karte entstanden, die von unterschiedlichen, persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt.
+ Desde verano de 2021 el grupo de trabajo „Queer narratives, mapped“ utiliza nuestra plataforma. 
+De esta colaboración surgió el mapa "From Gay to Queer" que, centrándose en los años 90 en Bremen, cuenta cómo se desarrollaron las asociaciones y la cultura queer desde los puntos de encuentro de lesbianas y gays.
+A partir de entrevistas y la recopilación de flyers, posters, fotos y todo tipo de material impreso se creó un mapa que cuenta el surgimiento de comunidades y coaliciones queer desde diferentes perspectivas personales.
   </p>
   </div>
   <div class="column">
 
   <img src="/references/a1000c--client--queer-topia-map-front.jpg" class="p-6 pb-4">
 
-  <h3>Queer.topia. Eine reale Utopie in 12 Bildern</h3>
+  <h3>Queer.topia. Una utopía real en 12 imágenes</h3>
 
   <p>
-  Während unserer Projektarbeit ist die <a href="https://queer-topia.a-thousand-channels.xyz/" class="text-link" target="_blank">Karte „Queer.topia. Eine reale Utopie in 12 Bildern“</a> entstanden.
-  </p>
-  <p>
-    Queer.topia ist ein Kalenderprojekt von Garabatos Atelier. Der Kalender 2021 zeigt in selbstermächtigenden Fotografien queere* Persönlichkeiten, deren Biografien in vielschichtiger Weise mit Bremen in Berührung stehen, an verschiedenen Orten in Bremen und umzu.</p>
-  <p>
-      Aus der Arbeit mit unserer Plattform ist eine Karte entwickelt worden, die mit den Kalenderbildern und zusätzlichem Material aus den Foto-Shootings die Entstehungsgeschichte des Kalenders erzählt und die Orte markiert, an denen die Fotos entstanden sind.
+  De nuestro trabajo en el proyecto surgió el mapa „Queer.topia. Eine reale Utopie in 12 Bildern“.
+Queer.topia es un proyecto para hacer un calendario de Garabatos Atelier. El calendario de 2021 presenta por medio de fotos empoderadoras personajes queer* cuyas biografías están relacionadas con Bremen de maneras muy diversas, en diferentes lugares de Bremen y en sus alrededores.
+Por medio de nuestra plataforma, Garabatos Atelier desarrolló un mapa que cuenta el origen del calendario y marca los lugares donde se hicieron las fotos usando las imágenes del calendario y añadiendo material extra.
   </p>
   </div>
   </div>
@@ -237,16 +225,16 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 <div class="block" id="feedback">
 	
 	
-### Feedback 🎤
+### Comentarios 🎤
 
-Wenn Ihr eine Idee für queere Mappings habt, meldet Euch gerne bei uns.
+Si tenéis una idea desarrollar un mapa queer, ¡contactadnos!
 
-Aktuell suchen wir Menschen mit Ideen für Mappings, die das, woran wir gerade arbeiten, in der Praxis ausprobieren.
+Buscamos gente que tenga ideas para hacer mapas para poner en práctica el proyecto en el que estamos trabajando.
 
-Ihr habt Interesse an Kollaboration und Austausch über Coding und Design in queeren Kontexten? Oder ein wenig Zeit für Code Reviews, Übersetzungen und Akzeptanz Testing? <br>
-Wir freuen uns über Unterstützung :)
+¿Os interesa colaborar o intercambiar ideas sobre codificación y diseño en contextos queer? ¿Tenéis tiempo para revisar códigos, traducir y hacer pruebas de aceptación?
+!Agradecemos cualquier tipo de apoyo! :)
 
-Euer Feedback hilft uns, die Software zu verbessern.
+Vuestros comentarios nos ayudan a mejorar el software.
 
 </div>
 
