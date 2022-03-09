@@ -8,7 +8,7 @@ With *A 1000 channels*, we are developing a platform that offers queer actors, g
 </div>
 
 <div>
-  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-right" alt="Eine Zeichnung auf der Hände verschiedener Menschen gemeinsam eine Karte berühren">
+  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-left" alt="Illustration mit drei Händen die zusammen eine Weltkarte halten. Zwei lila Pfeile zeigen auf die Karte. Auf der Karte sind drei Orte in Pink markiert.">
 </div>
 
 <div>
@@ -83,7 +83,7 @@ With *A 1000 channels* we offer you a possibility to tell and document queer his
 </div>
 
 <div>
-<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px">
+<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-left2" alt="Illustration einer vierseitigen ausgeklappten Weltkarte. Auf der Karte sind zwei Orte in Pink markiert. Wege – oder Verbindungen – zwischen Orten werden als schwarz gestrichelte Linien angezeigt.">
 </div>
 
 <div class="block block-after-illustration">
@@ -105,7 +105,7 @@ With *A 1000 channels* we offer you a possibility to tell and document queer his
 
 
 <div>
-  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-left">
+  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-right" alt="Eine Ilustration mit einer Werkzeugkiste. In der Kiste sind zwei Zangen. Aus der Kiste verlaufen nach unten Regenbogenfarben.">
 </div>
 
 <div class="block block-after-illustration" id="toolbox">
@@ -166,7 +166,7 @@ In the <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class=
 
 
 <div>
- <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-right2" style="">
+ <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-left3" style="">
 </div>
 
 <div class="block block-after-illustration" id="references">
@@ -231,8 +231,11 @@ Using interviews and the collected materials such as flyers, posters, photograph
   </div>
   </div>
 
-<div class="block">
+<div>
+ <img src="/illustrations/Relations.png" class="illustration illustration-right1" style="">
+</div>
 
+<div class="block  block-after-illustration" id="feedback">
 
 ### Feedback 🎤
 
@@ -248,7 +251,7 @@ Your feedback helps us to improve the software.
 </div>
 
 <div>
- <img src="/illustrations/Spaces.png" class="illustration illustration-outside-left" style="">
+ <img src="/illustrations/Spaces.png" class="illustration illustration-outside-left1" style="">
 </div>
 
 
