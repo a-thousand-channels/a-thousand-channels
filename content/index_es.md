@@ -88,9 +88,9 @@ Con A 1000 channels os ofrecemos la posibilidad de contar y documentar historias
 
 <div class="block block-after-illustration" id="toolbox">
 
-### Un módulo 🔧
+### Kit de Herramientas 🔧
 
-Con la plataforma A 1000 channels ponemos a vuestra disposición un módulo en el que podéis incluir contenidos y medios, combinarlos y ponerlos en relación (física y temporal).
+Con la plataforma A 1000 channels ponemos a vuestra disposición un conjunto der herramientas con el que podéis recopilar contenidos y medios, combinarlos y ponerlos en relación (física y temporal).
 Haciendo clic en un mapamundi o en el campo de búsqueda de direcciones, podéis introducir lugares o sucesos.
 El campo de texto o la función para subir fotos, audios o vídeos os ofrecen diferentes posibilidades para crear a vuestra manera narraciones sobre lugares, sucesos o personas.
 
