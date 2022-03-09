@@ -195,8 +195,8 @@ A partir de entrevistas y la recopilación de flyers, posters, fotos y todo tipo
   <h3>Queer.topia. Una utopía real en 12 imágenes</h3>
 
   <p>
-  De nuestro trabajo en el proyecto surgió el mapa „Queer.topia. Eine reale Utopie in 12 Bildern“.
-Queer.topia es un proyecto para hacer un calendario de Garabatos Atelier. El calendario de 2021 presenta por medio de fotos empoderadoras personajes queer* cuyas biografías están relacionadas con Bremen de maneras muy diversas, en diferentes lugares de Bremen y en sus alrededores.
+  Durante nuestro trabajo en el proyecto surgió el mapa „Queer.topia. Eine reale Utopie in 12 Bildern“.
+Queer.topia es un calendario y proyecto para hacer un calendario de Garabatos Atelier. El calendario de 2021 presenta por medio de fotos empoderadoras personajes queer* cuyas biografías están relacionadas con Bremen de maneras muy diversas, en diferentes lugares de Bremen y en sus alrededores.
 Por medio de nuestra plataforma, Garabatos Atelier desarrolló un mapa que cuenta el origen del calendario y marca los lugares donde se hicieron las fotos usando las imágenes del calendario y añadiendo material extra.
   </p>
   </div>
@@ -230,7 +230,7 @@ Por medio de nuestra plataforma, Garabatos Atelier desarrolló un mapa que cuent
 	
 ### Comentarios 🎤
 
-Si tenéis una idea desarrollar un mapa queer, ¡contactadnos!
+Si tenéis una idea para desarrollar un mapa queer, ¡contactadnos!
 
 Buscamos gente que tenga ideas para hacer mapas para poner en práctica el proyecto en el que estamos trabajando.
 
