@@ -7,7 +7,7 @@ Mit *A 1000 channels* entwickeln wir eine Plattform, die queeren Akteur*innen, G
 </div>
 
 <div>
-  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-right" alt="Illustration mit drei Händen die zusammen eine Weltkarte halten. Zwei lila Pfeile zeigen auf die Karte. Auf der Karte sind drei Orte in Pink markiert.">
+  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-left" alt="Illustration mit drei Händen die zusammen eine Weltkarte halten. Zwei lila Pfeile zeigen auf die Karte. Auf der Karte sind drei Orte in Pink markiert.">
 </div>
 
 <div>
@@ -84,7 +84,7 @@ Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 </div>
 
 <div>
-<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right2" alt="Illustration einer vierseitigen ausgeklappten Weltkarte. Auf der Karte sind zwei Orte in Pink markiert. Wege – oder Verbindungen – zwischen Orten werden als schwarz gestrichelte Linien angezeigt.">
+<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-left2" alt="Illustration einer vierseitigen ausgeklappten Weltkarte. Auf der Karte sind zwei Orte in Pink markiert. Wege – oder Verbindungen – zwischen Orten werden als schwarz gestrichelte Linien angezeigt.">
 </div>
 
 <div class="block block-after-illustration">
@@ -168,7 +168,7 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 
 
 <div>
- <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-right3" style="">
+ <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-left3" style="">
 </div>
 
 <div class="block block-after-illustration" id="references">
