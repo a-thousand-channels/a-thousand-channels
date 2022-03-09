@@ -213,10 +213,6 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
   </div>
   </div>
 
-  <div>
-
-  </div>
-
   <div class="block">
     <div class="column">
     <p>Neugierig? Wir haben einen Democlient mit <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="text-link" id="jump">wunderbaren queeren Gedichten</a>.</p>

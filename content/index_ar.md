@@ -11,7 +11,7 @@
 
 
 <div>
-  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-right" title="Eine Zeichnung auf der Hände verschiedener Menschen gemeinsam eine Karte berühren">
+  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-left" title="Eine Zeichnung auf der Hände verschiedener Menschen gemeinsam eine Karte berühren">
 </div>
 
 <div>
@@ -20,7 +20,7 @@
 
 
 
-<div class="block  block-after-illustration">
+<div class="block block-after-illustration">
 
 ### المساهمة 🧶
 
@@ -89,12 +89,32 @@
 </div>
 </div>
 
-
 <div>
-  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-left">
+<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-left2" alt="Illustration einer vierseitigen ausgeklappten Weltkarte. Auf der Karte sind zwei Orte in Pink markiert. Wege – oder Verbindungen – zwischen Orten werden als schwarz gestrichelte Linien angezeigt.">
 </div>
 
 <div class="block block-after-illustration">
+
+<h3>…. سهولة و بساطة العميلة </h3>
+          <ol>
+            <li>
+              ١. تواصلن / وا معنا عن الأفكار العملية. سنقوم معًا بتوضيح الامكانيات و المتطلبات
+            </li>
+            <li>
+              ٢. سنقدم امكانية الوصول للواجهة الخلفية (باك اند) الخاصة بنا, و هناك  يبدأ المشوار :)
+            </li>
+            <li>
+              ٣. بعد انشاء حساب و تسجيل الدخول يمكن الشروع  بإنشاء وربط الأماكن او إضافة نصوص / صور ووسائط أخرى ….
+          </li>
+       </ol>
+
+</div>
+
+<div>
+  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-right" alt="Eine Ilustration mit einer Werkzeugkiste. In der Kiste sind zwei Zangen. Aus der Kiste verlaufen nach unten Regenbogenfarben.">
+</div>
+
+<div class="block block-after-illustration" id="toolbox">
 
 ### منظومة ١٠٠٠ وسيلة 🔧
   
@@ -125,36 +145,12 @@
 
 </div>
 </div>
-</div>
 
-<div>
-<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px">
-</div>
-
-<div class="block block-after-illustration">
-          
-<h3>…. سهولة و بساطة العميلة </h3>
-          <ol>
-            <li>
-              ١. تواصلن / وا معنا عن الأفكار العملية. سنقوم معًا بتوضيح الامكانيات و المتطلبات
-            </li>
-            <li>
-              ٢. سنقدم امكانية الوصول للواجهة الخلفية (باك اند) الخاصة بنا, و هناك  يبدأ المشوار :)
-            </li>
-            <li>
-              ٣. بعد انشاء حساب و تسجيل الدخول يمكن الشروع  بإنشاء وربط الأماكن او إضافة نصوص / صور ووسائط أخرى ….
-          </li>
-       </ol>
-        
-</div>
-
-
-
-<div class="block">
+----
 
 <img src="https://github.com/a-thousand-channels/a1000c-assets/blob/main/demoweek/orte%20small%20samall%20small.gif?raw=true" title="A screencasts that demonstrates to usage of the backend" class="pb-4 mb-2 mx-auto">
 
-----
+<div class="column">
 
 #### Backend 🎨
 
@@ -167,7 +163,19 @@
 في <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="text-link" target="_blank">ويكي</a> نقوم بتجميع المعلومات التي تقدم و تشرح ميزات الباك اند و كيفة استخدامها
 
 </div>
+</div>
 
+<div>
+ <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-left3" style="">
+</div>
+
+<div class="block block-after-illustration" id="references">
+
+<h3> Zwei Beispiele: From Gay To Queer & Queer.topia 2021 </h3>
+
+<p>Mit den Werkzeugen unserer Platform sind zwei spannende queere Mappings entstanden:</p>
+
+</div>
 
 <div class="block-2">
 
@@ -209,8 +217,9 @@
     </div>
   </div>
 
+
 <div>
- <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-right2" style="">
+ <img src="/illustrations/Relations.png" class="illustration illustration-right1" style="">
 </div>
 
 
@@ -229,8 +238,9 @@
 </div>
 
 <div>
- <img src="/illustrations/Spaces.png" class="illustration illustration-outside-left" style="">
+ <img src="/illustrations/Spaces.png" class="illustration illustration-outside-left1" style="">
 </div>
+
 
 <div class="block">
 	
