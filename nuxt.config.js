@@ -87,7 +87,7 @@ export default {
             code: 'es',
             iso: 'es-ES',
             file: 'es-ES.js',
-            active: false
+            active: true
           }
         ],
         langDir: 'lang/',
