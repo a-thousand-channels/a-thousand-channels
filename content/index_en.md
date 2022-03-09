@@ -173,6 +173,7 @@ In the <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class=
 
 <h3>Two examples: From Gay To Queer & Queer.topia 2021 </h3>
 
+Two exciting queer mappings were created with the tools of our platform:
 
 </div>
 
