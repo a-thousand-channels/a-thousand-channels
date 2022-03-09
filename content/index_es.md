@@ -24,7 +24,6 @@ Con A 1000 channels estamos desarrollando una plataforma que ofrece a grupos, pr
 Con A 1000 channels os ofrecemos la posibilidad de contar y documentar historias queer.
 
 ----
-
  
 <div class="block-3">
 
@@ -214,7 +213,7 @@ Por medio de nuestra plataforma, Garabatos Atelier desarrolló un mapa que cuent
   </div>
   <div class="block">
     <div class="column">
-    <p>¿Tiene curiosidad? Tenemos un cliente de demostración con <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="text-link" id="jump">maravilloso contenido de poesía queer</a></p>
+    <p>¿Tiene curiosidad? Tenemos un cliente de demostración con <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="text-link" id="jump">maravilloso contenido de poesía queer</a>.</p>
     <p>
       Si quieres añadir un poema para que el mapa crezca más, ponte en contacto con nosotros:
     </p>
@@ -222,10 +221,7 @@ Por medio de nuestra plataforma, Garabatos Atelier desarrolló un mapa que cuent
       <a href="https://orte-backend-staging.a-thousand-channels.xyz/" target="_blank" class="bg-a100c-1-button text-white text-center px-4 py-2 rounded-lg" id="jump">I want to add a poem</a>
     </p>
     <hr />
-    <p>¿Emocionado? ¿Quieres hacer tus propios mapeos? Visita nuestro backend y solicita una cuenta</p>
-    <p>
-    <a href="https://orte-backend-staging.a-thousand-channels.xyz/" target="_blank" class="bg-a100c-2-button text-white text-center px-4 py-2 rounded-lg" id="jump">I want to start a queer mapping</a>
-    </p>
+    
     <p class="small text-gray-800 ">
       Crearemos para ti un inicio de sesión para el backend. Con esto puedes poner el poema en línea tú mismo y al mismo tiempo hacer tus primeras experiencias en el backend de ORTE.
     </p>
@@ -257,7 +253,7 @@ Vuestros comentarios nos ayudan a mejorar el software.
 
 ### Contacto 📪 
 	
-Si tenéis ideas, preguntas o simplemente os interesa el proyecto, no dudéis en contactarnos. Hablamos alemán, inglés y español
+Si tenéis ideas, preguntas o simplemente os interesa el proyecto, no dudéis en contactarnos. Hablamos alemán, inglés y español.
 
 <p style="padding-left: 45px">
 Si habláis cualquier otro idioma, encontraremos la manera de comunicarnos ;)
