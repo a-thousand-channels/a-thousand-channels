@@ -168,13 +168,13 @@
       @apply py-6 px-4 mx-auto w-[300px] mt-[35px] lg:absolute lg:ml-[-220px] lg:mt-[5px] lg:w-[270px]  xl:ml-[-470px]
     }
     img.illustration.illustration-right {
-      @apply py-6 px-4 mx-auto w-[250px] mt-[35px] lg:absolute lg:ml-[600px] lg:mt-[-5px] lg:w-[370px] xl:ml-[850px]
+      @apply py-6 px-4 mx-auto w-[250px] mt-[35px] lg:absolute lg:ml-[600px] lg:mt-[25px] lg:w-[340px] xl:ml-[850px]
     }
     img.illustration.illustration-right1 {
       @apply py-6 px-4 mx-auto w-[300px] mt-[50px] lg:absolute lg:ml-[550px] lg:mt-[50px] lg:w-[320px] xl:ml-[850px]
     }
     img.illustration.illustration-right2 {
-      @apply pt-12 pb-4 px-4 mx-auto w-[185px] lg:absolute lg:ml-[670px] lg:mt-[50px] lg:w-[240px]
+      @apply pt-12 pb-4 px-4 mx-auto w-[185px] lg:absolute lg:ml-[670px] lg:mt-[50px] lg:w-[240px] xl:ml-[850px]
     }
     img.illustration.illustration-right3 {
       @apply pt-12 pb-4 px-4 mx-auto w-[185px] lg:absolute lg:ml-[670px] lg:mt-[50px] lg:w-[190px]

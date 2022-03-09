@@ -106,7 +106,7 @@ Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 </div>
 
 <div>
-  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-right1" alt="Eine Ilustration mit einer Werkzeugkiste. In der Kiste sind zwei Zangen. Aus der Kiste verlaufen nach unten Regenbogenfarben.">
+  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-right" alt="Eine Ilustration mit einer Werkzeugkiste. In der Kiste sind zwei Zangen. Aus der Kiste verlaufen nach unten Regenbogenfarben.">
 </div>
 
 <div class="block block-after-illustration" id="toolbox">
