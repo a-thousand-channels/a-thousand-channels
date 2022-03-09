@@ -84,7 +84,7 @@ Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 </div>
 
 <div>
-<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px" alt="Illustration einer vierseitigen ausgeklappten Weltkarte. Auf der Karte sind zwei Orte in Pink markiert. Wege – oder Verbindungen – zwischen Orten werden als schwarz gestrichelte Linien angezeigt.">
+<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right2" alt="Illustration einer vierseitigen ausgeklappten Weltkarte. Auf der Karte sind zwei Orte in Pink markiert. Wege – oder Verbindungen – zwischen Orten werden als schwarz gestrichelte Linien angezeigt.">
 </div>
 
 <div class="block block-after-illustration">
@@ -106,7 +106,7 @@ Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 </div>
 
 <div>
-  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-left" alt="Eine Ilustration mit einer Werkzeugkiste. In der Kiste sind zwei Zangen. Aus der Kiste verlaufen nach unten Regenbogenfarben.">
+  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-right1" alt="Eine Ilustration mit einer Werkzeugkiste. In der Kiste sind zwei Zangen. Aus der Kiste verlaufen nach unten Regenbogenfarben.">
 </div>
 
 <div class="block block-after-illustration" id="toolbox">
@@ -168,7 +168,7 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 
 
 <div>
- <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-right2" style="">
+ <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-right3" style="">
 </div>
 
 <div class="block block-after-illustration" id="references">
@@ -234,7 +234,11 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
   </div>
 
 
-<div class="block" id="feedback">
+<div>
+ <img src="/illustrations/Relations.png" class="illustration illustration-right1" style="">
+</div>
+
+<div class="block  block-after-illustration" id="feedback">
 	
 	
 ### Feedback 🎤
@@ -251,7 +255,7 @@ Euer Feedback hilft uns, die Software zu verbessern.
 </div>
 
 <div>
- <img src="/illustrations/Spaces.png" class="illustration illustration-outside-left" style="">
+ <img src="/illustrations/Spaces.png" class="illustration illustration-outside-left1" style="">
 </div>
 
 <div class="block">

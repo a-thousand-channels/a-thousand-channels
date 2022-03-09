@@ -165,16 +165,25 @@
       @apply py-6 px-4 mx-auto w-[160px] lg:w-[200px]
     }
     img.illustration.illustration-left {
-      @apply py-6 px-4 mx-auto w-[300px] lg:absolute lg:ml-[-220px] lg:mt-[5px] lg:w-[370px]
+      @apply py-6 px-4 mx-auto w-[300px] mt-[35px] lg:absolute lg:ml-[-220px] lg:mt-[5px] lg:w-[270px]  xl:ml-[-470px]
     }
     img.illustration.illustration-right {
-      @apply py-6 px-4 mx-auto w-[300px] lg:absolute lg:ml-[600px] lg:mt-[-5px] lg:w-[370px]
+      @apply py-6 px-4 mx-auto w-[250px] mt-[35px] lg:absolute lg:ml-[600px] lg:mt-[-5px] lg:w-[370px] xl:ml-[850px]
+    }
+    img.illustration.illustration-right1 {
+      @apply py-6 px-4 mx-auto w-[300px] mt-[50px] lg:absolute lg:ml-[550px] lg:mt-[50px] lg:w-[320px] xl:ml-[850px]
     }
     img.illustration.illustration-right2 {
-      @apply pt-12 pb-4 px-4 mx-auto w-[170px] lg:absolute lg:ml-[670px] lg:mt-[50px] lg:w-[190px]
+      @apply pt-12 pb-4 px-4 mx-auto w-[185px] lg:absolute lg:ml-[670px] lg:mt-[50px] lg:w-[240px]
+    }
+    img.illustration.illustration-right3 {
+      @apply pt-12 pb-4 px-4 mx-auto w-[185px] lg:absolute lg:ml-[670px] lg:mt-[50px] lg:w-[190px]
     }
     img.illustration.illustration-outside-left {
-      @apply pt-12 pb-6 px-4 mx-auto w-[200px] lg:block lg:absolute lg:ml-[-170px] lg:mt-[60px] lg:w-[250px]
+      @apply pt-12 pb-6 px-4 mx-auto w-[200px] lg:block lg:absolute lg:ml-[-125px] lg:mt-[385px] lg:w-[190px]
+    }
+    img.illustration.illustration-outside-left1 {
+      @apply pt-12 pb-6 px-4 mx-auto w-[200px] lg:block lg:absolute lg:ml-[-125px] lg:mt-[85px] lg:w-[190px]
     }
     img.illustration.illustration-outside-right {
       @apply hidden py-6 px-4 mx-auto w-[200px] lg:block lg:absolute lg:ml-[710px] lg:mt-[545px] lg:w-[190px]
