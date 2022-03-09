@@ -185,20 +185,22 @@ In the <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class=
   <h3>Intersections & Constellations. From Gay to Queer</h3>
 
   <p>
-  Die Working group „Queer narratives, mapped“ arbeitet mit unserer Plattform. <br>
-  </p>
+  The working group "Queer narratives, mapped" works with our platform.
+</p>
   <p>
-  Daraus ist die <a href="https://from-gay-to-queer.net/" class="text-link" target="_blank">Karte "From Gay to Queer"</a> entstanden, die mit dem zeitlichen Schwerpunkt in den 1990er Jahren und dem räumlichen Fokus auf Bremen erzählt, wie sich aus lesbischen und schwulen Nischen queere Kulturen und Bündnisse entwickelt haben. <br>
-  </p>
+With a focus on the 1990s and Bremen as a spatial reference and frame, the <a href="https://from-gay-to-queer.net/" class="text-link" target="_blank">map "From Gay to Queer"</a> traces how queer cultures and alliances developed out of the formerly seperated gay and lesbian niches.
+</p>
   <p>
-  Aus Interviews und der Sammlung von Flyern, Postern, Fotos und anderen Druckerzeugnissen ist eine Karte entstanden, die von unterschiedlichen, persönlichen Perspektiven auf die Entstehung von queeren Communities und Koalitionen erzählt.
+Using interviews and the collected materials such as flyers, posters, photographs and other material, a map was created showing different personal perspectives on the emergence of queer communities and coalitions (and its intersections and relations) <br>
   </p>
+  
   </div>
-  <div class="column">
+  
+<div class="column">
 
   <img src="/references/a1000c--client--queer-topia-map-front.jpg" class="p-6 pb-4">
 
-  <h3>Queer.topia. Eine reale Utopie in 12 Bildern</h3>
+  <h3>Queer.topia. A real utopia in 12 images</h3>
 
   <p>
   During our project work the <a href="https://queer-topia.a-thousand-channels.xyz/" class="text-link" target="_blank">map „Queer.topia. Eine reale Utopie in 12 Bildern“</a> (Queer.topia. A real utopia in 12 images) was created by Garabatos Atelier.
