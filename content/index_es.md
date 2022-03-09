@@ -7,7 +7,7 @@ Con A 1000 channels estamos desarrollando una plataforma que ofrece a grupos, pr
 </div>
 
 <div>
-  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-right" title="Eine Zeichnung auf der Hände verschiedener Menschen gemeinsam eine Karte berühren">
+  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-left" title="Eine Zeichnung auf der Hände verschiedener Menschen gemeinsam eine Karte berühren">
 </div>
 
 <div>
@@ -81,6 +81,10 @@ Con A 1000 channels os ofrecemos la posibilidad de contar y documentar historias
   </div>
 </div>
 
+<div>
+<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-left2" alt="Illustration einer vierseitigen ausgeklappten Weltkarte. Auf der Karte sind zwei Orte in Pink markiert. Wege – oder Verbindungen – zwischen Orten werden als schwarz gestrichelte Linien angezeigt.">
+</div>
+
 <div class="block block-after-illustration">
           
 <h3> …y es así de sencillo: </h3>
@@ -98,9 +102,8 @@ Con A 1000 channels os ofrecemos la posibilidad de contar y documentar historias
 
 </div>
 
-
 <div>
-  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-left">
+  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-right" alt="Eine Ilustration mit einer Werkzeugkiste. In der Kiste sind zwei Zangen. Aus der Kiste verlaufen nach unten Regenbogenfarben.">
 </div>
 
 <div class="block block-after-illustration" id="toolbox">
@@ -138,10 +141,6 @@ Podéis llevaros vuestro mapa y publicarlo en vuestra página web o en vuestro p
 </div>
 </div>
 
-<div>
-<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px">
-</div>
-
 
 <div class="block">
 
@@ -162,7 +161,7 @@ En la Wiki recopilamos información sobre las funciones y sobre cómo usarlas.
 
 
 <div>
- <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-right2" style="">
+ <img src="/illustrations/FGaytQueer_Koffer.png" class="illustration illustration-left3" style="">
 </div>
 
 <div class="block block-after-illustration">
@@ -227,7 +226,11 @@ Por medio de nuestra plataforma, Garabatos Atelier desarrolló un mapa que cuent
   </div>
   </div>
 
-<div class="block" id="feedback">
+<div>
+ <img src="/illustrations/Relations.png" class="illustration illustration-right1" style="">
+</div>
+
+<div class="block  block-after-illustration" id="feedback">
 	
 	
 ### Comentarios 🎤
@@ -244,7 +247,7 @@ Vuestros comentarios nos ayudan a mejorar el software.
 </div>
 
 <div>
- <img src="/illustrations/Spaces.png" class="illustration illustration-outside-left" style="">
+ <img src="/illustrations/Spaces.png" class="illustration illustration-outside-left1" style="">
 </div>
 
 <div class="block">
