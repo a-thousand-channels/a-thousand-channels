@@ -220,9 +220,8 @@ Por medio de nuestra plataforma, Garabatos Atelier desarrolló un mapa que cuent
     <p>
       <a href="https://orte-backend-staging.a-thousand-channels.xyz/" target="_blank" class="bg-a100c-1-button text-white text-center px-4 py-2 rounded-lg" id="jump">I want to add a poem</a>
     </p>
-    <hr />
     
-    <p class="small text-gray-800 ">
+<p class="small text-gray-800 ">
       Crearemos para ti un inicio de sesión para el backend. Con esto puedes poner el poema en línea tú mismo y al mismo tiempo hacer tus primeras experiencias en el backend de ORTE.
     </p>
   </div>
