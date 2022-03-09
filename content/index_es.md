@@ -1,8 +1,8 @@
 <div class="block large">
 
 A 1000 channels es un proyecto de software. Desde septiembre de 2021 estamos desarrollando una plataforma de cartografía queer con la que se pueden publicar y visualizar en un mapa narraciones queer de forma sencilla.
-Las actividades sociales y políticas de las personas queer suelen ser, además de muy variadas, también muy efímeras y temporales y no forman parte de la imagen pública de una ciudad.
 
+Las actividades sociales y políticas de las personas queer suelen ser, además de muy variadas, también muy efímeras y temporales y no forman parte de la imagen pública de una ciudad.<br>
 Con A 1000 channels estamos desarrollando una plataforma que ofrece a grupos, proyectos y personas queer la posibilidad de informar sobre sus actividades y espacios y hacerlos más visibles.
 </div>
 
@@ -20,7 +20,7 @@ Con A 1000 channels estamos desarrollando una plataforma que ofrece a grupos, pr
 
 ### Colaborar 🧶
 
-¿Queréis contar y cartografiar historias queer partiendo de ciertos lugares, sucesos, acciones, proyectos o personas? 
+¿Queréis contar y cartografiar historias queer partiendo de ciertos lugares, sucesos, acciones, proyectos o personas?<br>
 Con A 1000 channels os ofrecemos la posibilidad de contar y documentar historias queer.
 
 ----
@@ -82,50 +82,6 @@ Con A 1000 channels os ofrecemos la posibilidad de contar y documentar historias
   </div>
 </div>
 
-<div>
-  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-left">
-</div>
-
-<div class="block block-after-illustration" id="toolbox">
-
-### Kit de Herramientas 🔧
-
-Con la plataforma A 1000 channels ponemos a vuestra disposición un conjunto der herramientas con el que podéis recopilar contenidos y medios, combinarlos y ponerlos en relación (física y temporal).
-Haciendo clic en un mapamundi o en el campo de búsqueda de direcciones, podéis introducir lugares o sucesos.
-El campo de texto o la función para subir fotos, audios o vídeos os ofrecen diferentes posibilidades para crear a vuestra manera narraciones sobre lugares, sucesos o personas.
-
-----
-	
-	
-<div class="block-3">
-
-  <div class="column">
-
-
-#### Protección de datos <span class="emoji">🤫</span>
-
-A la hora de desarrollar las herramientas, ponemos especial cuidado en la protección de datos.
-Los metadatos de las imágenes se eliminan automáticamente.
-Estamos experimentando con la rasterización de fotos para hacer las caras irreconocibles y habrá una función para ocultar la dirección concreta de los sitios. 
-
-  </div>
-
-  <div class="column">
-
-#### Map to go <span class="emoji">👜</span>
-
-Al final de cada proyecto existe la posibilidad de hacer un “Map to go”, un mapa para llevar.
-Con esto queremos evitar la dependencia a largo plazo de nuestra plataforma (y de nuestro proyecto).
-Podéis llevaros vuestro mapa y publicarlo en vuestra página web o en vuestro propio servidor sin tener que instalar ningún tipo de software.
-
-</div>
-</div>
-</div>
-
-<div>
-<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px">
-</div>
-
 <div class="block block-after-illustration">
           
 <h3> …y es así de sencillo: </h3>
@@ -144,6 +100,49 @@ Podéis llevaros vuestro mapa y publicarlo en vuestra página web o en vuestro p
 </div>
 
 
+<div>
+  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-left">
+</div>
+
+<div class="block block-after-illustration" id="toolbox">
+
+### Kit de Herramientas 🔧
+
+Con la plataforma A 1000 channels ponemos a vuestra disposición un conjunto der herramientas con el que podéis recopilar contenidos y medios, combinarlos y ponerlos en relación (física y temporal).<br>
+Haciendo clic en un mapamundi o en el campo de búsqueda de direcciones, podéis introducir lugares o sucesos.<br>
+El campo de texto o la función para subir fotos, audios o vídeos os ofrecen diferentes posibilidades para crear a vuestra manera narraciones sobre lugares, sucesos o personas.
+
+----	
+	
+<div class="block-3">
+
+  <div class="column">
+
+
+#### Protección de datos <span class="emoji">🤫</span>
+
+A la hora de desarrollar las herramientas, ponemos especial cuidado en la protección de datos.<br>
+Los metadatos de las imágenes se eliminan automáticamente.<br>
+Estamos experimentando con la rasterización de fotos para hacer las caras irreconocibles y habrá una función para ocultar la dirección concreta de los sitios. 
+
+  </div>
+
+  <div class="column">
+
+#### Map to go <span class="emoji">👜</span>
+
+Al final de cada proyecto existe la posibilidad de hacer un “Map to go”, un mapa para llevar.<br>
+Con esto queremos evitar la dependencia a largo plazo de nuestra plataforma (y de nuestro proyecto).>br>
+Podéis llevaros vuestro mapa y publicarlo en vuestra página web o en vuestro propio servidor sin tener que instalar ningún tipo de software.
+
+</div>
+</div>
+</div>
+
+<div>
+<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px">
+</div>
+
 
 <div class="block">
 
@@ -153,7 +152,7 @@ Podéis llevaros vuestro mapa y publicarlo en vuestra página web o en vuestro p
 
 #### Backend 🗺
 
-Trabajamos con el backend ORTE (lugares, en alemán), un backend sencillo y poco complicado para crear y gestionar POIs (Point of Interests) – o 'lugares' ;) – y otros tipos de datos en un mapa. 
+Trabajamos con el backend ORTE (lugares, en alemán), un backend sencillo y poco complicado para crear y gestionar POIs (Point of Interests) – o 'lugares' ;) – y otros tipos de datos en un mapa.<br>
 Con el backend ORTE podéis crear mapas digitales para vuestras historias queer.
 	
 #### Wiki 🎨	
@@ -183,8 +182,12 @@ En la Wiki recopilamos información sobre las funciones y sobre cómo usarlas.
   <h3>From Gay to Queer</h3>
 
   <p>
- Desde verano de 2021 el grupo de trabajo „Queer narratives, mapped“ utiliza nuestra plataforma. 
+ Desde verano de 2021 el grupo de trabajo „Queer narratives, mapped“ utiliza nuestra plataforma.
+	  </p>
+<p>
 De esta colaboración surgió el mapa "From Gay to Queer" que, centrándose en los años 90 en Bremen, cuenta cómo se desarrollaron las asociaciones y la cultura queer desde los puntos de encuentro de lesbianas y gays.
+	  </p>
+<p>
 A partir de entrevistas y la recopilación de flyers, posters, fotos y todo tipo de material impreso se creó un mapa que cuenta el surgimiento de comunidades y coaliciones queer desde diferentes perspectivas personales.
   </p>
   </div>
@@ -196,7 +199,11 @@ A partir de entrevistas y la recopilación de flyers, posters, fotos y todo tipo
 
   <p>
   Durante nuestro trabajo en el proyecto surgió el mapa „Queer.topia. Eine reale Utopie in 12 Bildern“.
+	  </p>
+<p>
 Queer.topia es un calendario y proyecto de Garabatos Atelier. El calendario de 2021 presenta por medio de fotos empoderadoras personajes queer* cuyas biografías están relacionadas con Bremen de maneras muy diversas, en diferentes lugares de Bremen y en sus alrededores.
+	  </p>
+<p>
 Por medio de nuestra plataforma, Garabatos Atelier desarrolló un mapa que cuenta el origen del calendario y marca los lugares donde se hicieron las fotos usando las imágenes del calendario y añadiendo material extra.
   </p>
   </div>
