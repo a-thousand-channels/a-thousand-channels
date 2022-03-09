@@ -280,7 +280,7 @@
           ألف وسيلة - منصة  🎁 لرسم و خلق الخرائط 🌎  الكويرية <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-6 inline p-0 pb-1 align-middle" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black.">
         </h1>
         <h1 v-else>
-          A Thousand Channels –  {{ $t('project_part1') }} <img src="progresiveflagcolor.svg" style="height: 30px; display: inline;" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
+          A Thousand Channels –  {{ $t('project_part1') }} <img src="/progresiveflagcolor.svg" style="height: 30px; display: inline;" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> {{ $t('project_part2') }}
         </h1>
       </div>
       
