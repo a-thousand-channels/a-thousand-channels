@@ -151,10 +151,13 @@ Podéis llevaros vuestro mapa y publicarlo en vuestra página web o en vuestro p
 
 ----
 
-#### Backend & Wiki 🗺 🎨
+#### Backend 🗺
 
 Trabajamos con el backend ORTE (lugares, en alemán), un backend sencillo y poco complicado para crear y gestionar POIs (Point of Interests) – o 'lugares' ;) – y otros tipos de datos en un mapa. 
 Con el backend ORTE podéis crear mapas digitales para vuestras historias queer.
+	
+#### Wiki 🎨	
+
 En la Wiki recopilamos información sobre las funciones y sobre cómo usarlas.
 
 </div>
@@ -204,20 +207,20 @@ Por medio de nuestra plataforma, Garabatos Atelier desarrolló un mapa que cuent
   </div>
   <div class="block">
     <div class="column">
-    <p>Curious? We have a democlient with <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="text-link" id="jump">wonderful queer poetry content</a></p>
+    <p>¿Tiene curiosidad? Tenemos un cliente de demostración con <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="text-link" id="jump">maravilloso contenido de poesía queer</a></p>
     <p>
-      If you want to add a poem to make the map grow further, contact us:
+      Si quieres añadir un poema para que el mapa crezca más, ponte en contacto con nosotros:
     </p>
     <p>
       <a href="https://orte-backend-staging.a-thousand-channels.xyz/" target="_blank" class="bg-a100c-1-button text-white text-center px-4 py-2 rounded-lg" id="jump">I want to add a poem</a>
     </p>
     <hr />
-    <p>Excited? Do you want to do your own mappings? Visit our backend and apply for an account</p>
+    <p>¿Emocionado? ¿Quieres hacer tus propios mapeos? Visita nuestro backend y solicita una cuenta</p>
     <p>
     <a href="https://orte-backend-staging.a-thousand-channels.xyz/" target="_blank" class="bg-a100c-2-button text-white text-center px-4 py-2 rounded-lg" id="jump">I want to start a queer mapping</a>
     </p>
     <p class="small text-gray-800 ">
-      We will create a log-in for you for the backend. With this you can put the poem online yourself and at the same time make your first experiences in the ORTE backend.
+      Crearemos para ti un inicio de sesión para el backend. Con esto puedes poner el poema en línea tú mismo y al mismo tiempo hacer tus primeras experiencias en el backend de ORTE.
     </p>
   </div>
   </div>
@@ -263,14 +266,14 @@ Nos encontraréis en los siguientes canales:
 
   #### <a href="mailto:hello@a-thousand-channels.xyz">E-mail</a> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="21" height="21"><path fill="none" d="M0 0h24v24H0z"/><path d="M22 20.007a1 1 0 0 1-.992.993H2.992A.993.993 0 0 1 2 20.007V19h18V7.3l-8 7.2-10-9V4a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v16.007zM4.434 5L12 11.81 19.566 5H4.434zM0 15h8v2H0v-2zm0-5h5v2H0v-2z"/></svg>
 
-   SEscribidnos un E-Mail a <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">E-Mail</a>
+   Sescribidnos un E-Mail a <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">E-Mail</a>
 
   </div>
   <div class="column">
 
   #### <a href="https://twitter.com/a_1000_channels" target="_blank">Twitter</a> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M15.3 5.55a2.9 2.9 0 0 0-2.9 2.847l-.028 1.575a.6.6 0 0 1-.68.583l-1.561-.212c-2.054-.28-4.022-1.226-5.91-2.799-.598 3.31.57 5.603 3.383 7.372l1.747 1.098a.6.6 0 0 1 .034.993L7.793 18.17c.947.059 1.846.017 2.592-.131 4.718-.942 7.855-4.492 7.855-10.348 0-.478-1.012-2.141-2.94-2.141zm-4.9 2.81a4.9 4.9 0 0 1 8.385-3.355c.711-.005 1.316.175 2.669-.645-.335 1.64-.5 2.352-1.214 3.331 0 7.642-4.697 11.358-9.463 12.309-3.268.652-8.02-.419-9.382-1.841.694-.054 3.514-.357 5.144-1.55C5.16 15.7-.329 12.47 3.278 3.786c1.693 1.977 3.41 3.323 5.15 4.037 1.158.475 1.442.465 1.973.538z"/></svg>
 
-  Folgt uns auf <a href="https://twitter.com/a_1000_channels" target="_blank" class="text-link">Twitter</a>
+  Síguenos en <a href="https://twitter.com/a_1000_channels" target="_blank" class="text-link">Twitter</a>
 
   </div>
   <div class="column">
