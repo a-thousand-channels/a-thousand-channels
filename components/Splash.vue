@@ -105,7 +105,9 @@
     div.lang_ar h3,
     div.lang_ar h4,
     div.lang_ar ul,
+    div.lang_ar ol,
     div.lang_ar ul li,
+    div.lang_ar ol li,
     div.lang_ar p
     {
       direction:  rtl;
