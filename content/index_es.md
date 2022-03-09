@@ -181,7 +181,7 @@ En la Wiki recopilamos información sobre las funciones y sobre cómo usarlas.
   <h3>From Gay to Queer</h3>
 
   <p>
- Desde verano de 2021 el grupo de trabajo „Queer narratives, mapped“ utiliza nuestra plataforma.
+El grupo de trabajo „Queer narratives, mapped“ utiliza nuestra plataforma.
 	  </p>
 <p>
 De esta colaboración surgió el mapa "From Gay to Queer" que, centrándose en los años 90 en Bremen, cuenta cómo se desarrollaron las asociaciones y la cultura queer desde los puntos de encuentro de lesbianas y gays.
