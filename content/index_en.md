@@ -173,6 +173,7 @@ In the <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class=
 
 <h3>Two examples: From Gay To Queer & Queer.topia 2021 </h3>
 
+Two exciting queer mappings were created with the tools of our platform:
 
 </div>
 
@@ -182,7 +183,7 @@ In the <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class=
 
 <img src="/references/a1000c--client--from-gay-to-queer-splash1.jpg" class="p-4 pb-4">
   
-  <h3>Intersections & Constellations. From Gay to Queer</h3>
+  <h3>From Gay to Queer</h3>
 
   <p>
   The working group "Queer narratives, mapped" works with our platform.
@@ -191,7 +192,7 @@ In the <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class=
 With a focus on the 1990s and Bremen as a spatial reference and frame, the <a href="https://from-gay-to-queer.net/" class="text-link" target="_blank">map "From Gay to Queer"</a> traces how queer cultures and alliances developed out of the formerly seperated gay and lesbian niches.
 </p>
   <p>
-Using interviews and the collected materials such as flyers, posters, photographs and other material, a map was created showing different personal perspectives on the emergence of queer communities and coalitions (and its intersections and relations) <br>
+Using interviews and the collected materials such as flyers, posters, photographs and other material, a map was created showing different personal perspectives on the emergence of queer communities and coalitions (and its intersections and relations). <br>
   </p>
   
   </div>
