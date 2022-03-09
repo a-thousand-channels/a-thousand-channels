@@ -7,7 +7,7 @@ Mit *A 1000 channels* entwickeln wir eine Plattform, die queeren Akteur*innen, G
 </div>
 
 <div>
-  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-right" alt="Eine Zeichnung auf der Hände verschiedener Menschen gemeinsam eine Karte berühren">
+  <img src="/illustrations/Mitmachen.png?raw=true" class="illustration illustration-right" alt="Illustration mit drei Händen die zusammen eine Weltkarte halten. Zwei lila Pfeile zeigen auf die Karte. Auf der Karte sind drei Orte in Pink markiert.">
 </div>
 
 <div>
@@ -84,7 +84,7 @@ Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 </div>
 
 <div>
-<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px" alt="">
+<img src="/illustrations/MAP1.png?raw=true" class="illustration illustration-right" style="width: 300px; margin-top: 50px" alt="Illustration einer vierseitigen ausgeklappten Weltkarte. Auf der Karte sind zwei Orte in Pink markiert. Wege – oder Verbindungen – zwischen Orten werden als schwarz gestrichelte Linien angezeigt.">
 </div>
 
 <div class="block block-after-illustration">
@@ -106,7 +106,7 @@ Mit *A 1000 Channels* bieten wir Euch eine Möglichkeit, queere Geschichte(n) zu
 </div>
 
 <div>
-  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-left">
+  <img src="/illustrations/Baukasten_Rainbow.png?raw=true" class="illustration illustration-left" alt="Eine Ilustration mit einer Werkzeugkiste. In der Kiste sind zwei Zangen. Aus der Kiste verlaufen nach unten Regenbogenfarben.">
 </div>
 
 <div class="block block-after-illustration" id="toolbox">
