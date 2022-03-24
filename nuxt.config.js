@@ -7,28 +7,24 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'A thousand channles',
+    title: 'A thousand channels',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { name: 'format-detection', content: 'telephone=no' },
+      { hid: 'title', name: 'title', content: 'A 1000 Channels' },
+      { hid: 'og:title', name: 'og:title', content: 'A 1000 Channels' },
+      { hid: 'description', name: 'description', content: 'A queer mapping platform to document and visualize queer narratives.' },
+      { hid: 'og:description', name: 'og:description', content: 'A queer mapping platform to document and visualize queer narratives.' },
+      { hid: 'og:image', name: 'og:image', content: 'https://a-thousand-channels.xyz/a1000c-animation-banner.jpg'
+      }
+
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'apple-touch-icon', sizes: '120x120', href: '/apple-touch-icon.png' },
       { rel: 'icon', type: 'image/png', sizes: "32x32", href: '/favicon-32x32.png' },
       { rel: 'icon', type: 'image/png', sizes: "16x16", href: '/favicon-16x16.png' },
-
-/*
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#ffc40d">
-<meta name="theme-color" content="#ffffff">
-*/
-
-
-
     ]
   },
 
