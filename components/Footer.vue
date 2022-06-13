@@ -23,7 +23,7 @@
     <div class="pt-2 pb-2">
 
         <a href="/" target="_blank" class="text-link">
-          A Thousand Channels – a queer <img src="~/assets/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-4 inline p-0.5" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> mapping 🌎 platform 🎁
+          A Thousand Channels – a queer <img src="/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-4 inline p-0.5" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> mapping 🌎 platform 🎁
         </a>
 
 
@@ -51,16 +51,16 @@
         </p>
         <p class="p-0">
           <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" target="_blank">
-            <img src="BMBF_Logo.svg" class="h-40 inline-block pr-16" alt="Logo of the Federal Ministry of Educatio and Research">
+            <img src="/BMBF_Logo.svg" class="h-40 inline-block pr-16" alt="Logo of the Federal Ministry of Educatio and Research">
           </a>
           <a href="https://prototypefund.de/" target="_blank">
-            <img src="PrototypeFund_Logo.svg" class="h-28 inline-block" alt="Logo of Prototype Fund">
+            <img src="/PrototypeFund_Logo.svg" class="h-28 inline-block" alt="Logo of Prototype Fund">
           </a>
         </p>
       </div>
     </div>
     <hr />
-    <img src="progresiveflagcolor.svg" class="illustration illustration-middle" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black.">
+    <img src="/progresiveflagcolor.svg" class="illustration illustration-middle" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black.">
     <div class="pt-2 pb-2 text-sm">
       A Thousand Channels 2021/22 – <nuxt-link to="/imprint" class="text-link">Impressum</nuxt-link> – <nuxt-link to="/privacy" class="text-link">Datenschutz</nuxt-link>
     </div>
