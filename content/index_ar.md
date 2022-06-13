@@ -213,9 +213,12 @@
   </p>
   </div>
   </div>
-  <div class="block">
+  
+<div class="block">
     <div class="column">
-    <p>هل انتِ/ انتَ مهتم/ة ؟ لدينا مثال عمل تجريبي جميل (شعر كويري)</p>
+    <p>هل انتِ/ انتَ مهتم/ة ؟ لدينا مثال عمل تجريبي جميل (شعر كويري)
+    <a href="https://a-thousand-channels.github.io/a1000c-map-client/" target="_blank"  class="text-link" id="jump">wonderful queer poetry</a>.
+    </p>
 
 <p>إذا كان لديكن/ لديكم اهتمام و رغبة في إضافة قصيدة لاغناء نمو الخريطة، تواصلن/ وا معنا:</p>
     <p>
