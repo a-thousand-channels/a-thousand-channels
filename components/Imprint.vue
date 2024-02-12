@@ -68,9 +68,8 @@
           Angaben gemäß § 5 TMG
         </p>
         <p class="text-gray-800">
-          <span class="font-semibold">A 1000 Channels Design und Entwicklung Böker Jaramillo Treger GbR</span><br />
+          <span class="font-semibold">A 1000 Channels. Ein Projekt von Thomas Böker, Dafne Jaramillo und Ulf Treger</span><br />
           E-Mail: <a href="mailto:hello@a-thousand-channels.xyz" class="text-link">hello@a-thousand-channels.xyz</a><br/>
-          Telefon: <a href="tel:+494039198655">+49 40 391 98 655</a><br />
           Postanschrift: A Thousand Channels, Gaußstraße 25b, D-22765 Hamburg<br />
         </p>
         <p>
