@@ -20,16 +20,6 @@
       </div>
     </div>
 
-    <div class="pt-2 pb-2">
-
-        <a href="/" target="_blank" class="text-link">
-          A Thousand Channels – a queer <img src="/lgbtq+_rainbow_flag_quasar_progress_flag_variant.svg" class="h-4 inline p-0.5" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black."> mapping 🌎 platform 🎁
-        </a>
-
-
-
-
-    </div>
     <hr />
     <div class="pt-2 pb-2 text-sm">
       <div v-if="$i18n.locale == 'de'">
@@ -60,7 +50,7 @@
       </div>
     </div>
     <hr />
-    <img src="/progresiveflagcolor.svg" class="illustration illustration-middle" title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black.">
+    <img src="/progresiveflagcolor.svg" class="illustration illustration-middle" alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black.">
     <div class="pt-2 pb-2 text-sm">
       A Thousand Channels 2021/22 – <nuxt-link to="/imprint" class="text-link">Impressum</nuxt-link> – <nuxt-link to="/privacy" class="text-link">Datenschutz</nuxt-link>
     </div>
