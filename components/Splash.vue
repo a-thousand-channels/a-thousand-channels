@@ -85,11 +85,11 @@
       @apply pb-4 pt-4 pl-5 pr-5 text-3xl  font-semibold
     }
     h4 {
-      @apply pb-0 pt-0 pl-5 pr-0 text-2xl font-light
+      @apply pb-0 pt-0 pl-5 pr-0 text-3xl font-light
     }
 
     .column h4 {
-      @apply text-2xl font-bold
+      @apply text-xl font-bold
     }
     p {
       @apply pb-2 pt-2 pl-5 pr-5
