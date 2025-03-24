@@ -19,40 +19,9 @@
           </nuxt-link>
       </div>
     </div>
-
-    <hr />
-    <div class="pt-2 pb-2 text-sm">
-      <div v-if="$i18n.locale == 'de'">
-        <p class="p-0">
-          Gefördert vom <a href="https://www.bmbf.de/" class="text-link" target="_blank" >Bundesministerium für Bildung und Forschung</a> von 9'2021 – 2'2022 <span class="text-gray-800">(Förderkennzeichen 01IS21S54)</span> und unterstützt vom <a href="https://prototypefund.de/" class="text-link" target="_blank">Protoype Fund</a>
-        </p>
-        <p class="p-0">
-          <a href="https://www.bmbf.de/" target="_blank">
-            <img src="/BMBF_Logo.svg" class="h-40 inline-block pr-16" alt="Logo des Bundesministeriums für Bildung und Forschung">
-          </a>
-          <a href="https://prototypefund.de/" target="_blank">
-            <img src="/PrototypeFund_Logo.svg" class="h-28 inline-block" alt="Logo des Prototype Funds">
-          </a>
-        </p>
-      </div>
-      <div v-else>
-        <p class="p-0">
-          Funded by <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" class="text-link" target="_blank" >Federal Ministry of Education and Research</a> <span class="text-gray-800">(9'2021 – 2'2022, funding code 01IS21S54)</span> and supported by <a href="https://prototypefund.de/" class="text-link" target="_blank">Prototype Fund</a>
-        </p>
-        <p class="p-0">
-          <a href="https://www.bmbf.de/bmbf/en/home/home_node.html" target="_blank">
-            <img src="/BMBF_Logo.svg" class="h-40 inline-block pr-16" alt="Logo of the Federal Ministry of Educatio and Research">
-          </a>
-          <a href="https://prototypefund.de/" target="_blank">
-            <img src="/PrototypeFund_Logo.svg" class="h-28 inline-block" alt="Logo of Prototype Fund">
-          </a>
-        </p>
-      </div>
-    </div>
-    <hr />
     <img src="/progresiveflagcolor.svg" class="illustration illustration-middle" alt="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black." title="Pride flag variant based on Daniel Quasar's 2018 design combining elements of the Philadelphia flag and the trans pride flag, and brown and black.">
     <div class="pt-2 pb-2 text-sm">
-      A Thousand Channels 2021/22 – <nuxt-link to="/imprint" class="text-link">Impressum</nuxt-link> – <nuxt-link to="/privacy" class="text-link">Datenschutz</nuxt-link>
+      A Thousand Channels 2021/2025 – <nuxt-link to="/imprint" class="text-link">Impressum</nuxt-link> – <nuxt-link to="/privacy" class="text-link">Datenschutz</nuxt-link>
     </div>
   </div>
 </div>
