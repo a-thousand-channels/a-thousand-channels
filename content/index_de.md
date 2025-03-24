@@ -238,22 +238,24 @@ Im <a href="https://github.com/a-thousand-channels/ORTE-backend/wiki" class="tex
 <div class="block  block-after-illustration" id="feedback">
 	
 	
-### Feedback 🎤
+### Feedback und Unterstützung 🎤
 
 Wenn Ihr eine Idee für queere Mappings habt, meldet Euch gerne bei uns.
-
-Aktuell suchen wir Menschen mit Ideen für Mappings, die das, woran wir gerade arbeiten, in der Praxis ausprobieren.
 
 Ihr habt Interesse an Kollaboration und Austausch über Coding und Design in queeren Kontexten? Oder ein wenig Zeit für Code Reviews, Übersetzungen und Akzeptanz Testing? <br>
 Wir freuen uns über Unterstützung :)
 
-Euer Feedback hilft uns, die Software zu verbessern.
+### Spenden
+
+Solltet Ihr ein paar Euro über haben und unser Projekt materiell unterstützen wollt, dann 
+  <a href="https://buymeacoffee.com/a_thousand_channels" target="_blank" class="text-link">schickt uns eine Spende</a>. Von dem Geld können wir Kosten für Server und Domain, Fahrtkosten und Material bezahlen.
 
 </div>
 
 <div>
  <img src="/illustrations/Spaces.png" class="illustration illustration-outside-left1" style="">
 </div>
+
 
 <div class="block">
 	

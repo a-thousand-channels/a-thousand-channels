@@ -242,12 +242,13 @@ Using interviews and the collected materials such as flyers, posters, photograph
 
 If you have an idea for queer mappings, feel free to contact us.
 
-We are currently looking for people with ideas for mappings to try out what we are just working on in practice.
 
 Are you interested in collaboration and exchange about coding and design in queer contexts? Or do you have a little time for code reviews, translations and acceptance tests? <br>
 We are happy about support :)
 
-Your feedback helps us to improve the software.
+### Support
+
+If you have a few euros, dollars or pesos to spare and would like to support our project materially, <a href="https://buymeacoffee.com/a_thousand_channels" target="_blank" class="text-link">please send us a donation</a>. We can use the money to pay for the server and domain, travel costs and materials.
 
 </div>
 
